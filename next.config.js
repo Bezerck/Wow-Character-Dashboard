@@ -17,6 +17,27 @@ const nextConfig = {
   // Make exported paths end with a slash which is more compatible with GitHub Pages
   // (optional but commonly useful).
   trailingSlash: true,
+  async headers() {
+    return [
+      {
+        source: '/:path*',
+        headers: [
+          {
+            key: 'Access-Control-Allow-Origin',
+            value: 'https://classic.warcraftlogs.com',
+          },
+          {
+            key: 'Access-Control-Allow-Methods',
+            value: 'GET,POST,PUT,PATCH,DELETE,OPTIONS',
+          },
+          {
+            key: 'Access-Control-Allow-Headers',
+            value: 'Content-Type, Authorization, X-Requested-With',
+          },
+        ],
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
