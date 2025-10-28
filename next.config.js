@@ -6,10 +6,6 @@ const basePath = process.env.NEXT_PUBLIC_BASE_PATH || "";
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  // When exporting a static site for GitHub Pages, Next can output a fully static
-  // `out/` folder if pages are statically renderable. We set `output: 'export'`
-  // so `next export` produces the static files.
-  output: "export",
   // Use basePath/assetPrefix so assets and routes work when the site is served
   // from a subpath like `https://username.github.io/repo-name`.
   basePath: basePath,
