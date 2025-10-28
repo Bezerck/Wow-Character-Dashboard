@@ -111,10 +111,8 @@ export default function Page() {
 
     const fetchPromise = (async () => {
       try {
-        const target = encodeURIComponent(
-          `https://classic.warcraftlogs.com/character/${region}/${realmForUrl}/${charName}`
-        );
-        const res = await fetch(`/api/proxy?url=${target}`);
+        const target = `https://classic.warcraftlogs.com/character/${region}/${realmForUrl}/${charName}`;
+        const res = await fetch(target);
         if (!res.ok) throw new Error("Proxy fetch failed: " + res.status);
         const html = await res.text();
 
