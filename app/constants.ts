@@ -1,0 +1,17 @@
+export const SLOT_LABELS = [
+  "Head",
+  "Neck",
+  "Shoulder",
+  "Back",
+  "Chest",
+  "Wrist",
+  "Hands",
+  "Waist",
+  "Legs",
+  "Feet",
+  "Finger 1",
+  "Finger 2",
+  "Trinket 1",
+  "Trinket 2",
+  "Weapon",
+];

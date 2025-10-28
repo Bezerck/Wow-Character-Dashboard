@@ -1,0 +1,2725 @@
+{
+  "Blood Death Knight": [
+    {
+      "slot": "Helm",
+      "item": "Faceguard of the Lost Catacomb",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Kaolan's Withering Necklace",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Pauldrons of the Broken Blade",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Daybreak Drape",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Chest",
+      "item": "Chestguard of the Lost Catacomb",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Grasps of Serpentine Might",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Belt",
+      "item": "Warbelt of Sealed Pods",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legplates of Regal Reinforcement",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Boots",
+      "item": "Deepwater Greatboots",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Ring",
+      "item": "Vizier's Ruby Signet",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Darkmist Vortex",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Jan-xi"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Shin'ka, Execution of Dominion",
+      "source": "Sha of Fear"
+    }
+  ],
+  "Frost Death Knight": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of the Lost Catacomb",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Shackle of Eversparks",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Shoulderpads of Misshapen Life",
+      "source": "Amber-Shaper Un'sok"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Hisek's Chrysanthemum Cape",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Chest",
+      "item": "Breastplate of the Lost Catacomb",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gauntlets of the Lost Catacomb",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Belt",
+      "item": "Waistplate of Overwhelming Assault",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Legs",
+      "item": "Greaves of the Lost Catacomb",
+      "source": "Amber-Shaper Un'sok"
+    },
+    {
+      "slot": "Boots",
+      "item": "Impaling Treads",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Ring",
+      "item": "Ring of the Bladed Tempest",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Darkmist Vortex",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Jan-xi"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kilrak, Jaws of Terror",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Kilrak, Jaws of Terror",
+      "source": "Sha of Fear"
+    }
+  ],
+  "Unholy Death Knight": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of the Lost Catacomb",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Shackle of Eversparks",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Shoulderpads of Misshapen Life",
+      "source": "Amber-Shaper Un'sok"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Hisek's Chrysanthemum Cape",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Chest",
+      "item": "Breastplate of the Lost Catacomb",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gauntlets of the Lost Catacomb",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Belt",
+      "item": "Waistplate of Overwhelming Assault",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Legs",
+      "item": "Greaves of the Lost Catacomb",
+      "source": "Amber-Shaper Un'sok"
+    },
+    {
+      "slot": "Boots",
+      "item": "Impaling Treads",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Ring",
+      "item": "Ring of the Bladed Tempest",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Darkmist Vortex",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Jan-xi"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Shin'ka, Execution of Dominion",
+      "source": "Sha of Fear"
+    }
+  ],
+  "Balance Druid": [
+    {
+      "slot": "Helm",
+      "item": "Eternal Blossom Cover",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Eternal Blossom Shoulderwraps",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Eternal Blossom Vestment",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Dark Thoughts",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Eternal Blossom Gloves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stonebound Cinch",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Legs",
+      "item": "Fear-Blackened Leggings",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Asani's Uncleansed Sandals",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Light of the Cosmos",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Regail's Crackling Dagger",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Heart of Fear"
+    }
+  ],
+  "Feral Druid": [
+    {
+      "slot": "Helm",
+      "item": "Eternal Blossom Headpiece",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Choker of the Unleashed Storm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Eternal Blossom Spaulders",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Eternal Blossom Raiment",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Eternal Blossom Grips",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legguards of Failing Purification",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Treads of Deadly Secretions",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Gao-Rei, Staff of the Legendary Protector",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Guardian Druid": [
+    {
+      "slot": "Helm",
+      "item": "Eternal Blossom Headguard",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Choker of the Unleashed Storm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Eternal Blossom Shoulderguards",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Eternal Blossom Tunic",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Eternal Blossom Handguards",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legguards of Failing Purification",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Treads of Deadly Secretions",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Searing Words",
+      "source": "Scholomance"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Gao-Rei, Staff of the Legendary Protector",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Restoration Druid": [
+    {
+      "slot": "Helm",
+      "item": "Eternal Blossom Helm",
+      "source": "Sha of Fear(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Eternal Blossom Shoulderwraps",
+      "source": "Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Chest",
+      "item": "Eternal Blossom Robes",
+      "source": "Grand Empress Shek'zeer(Heart of Fear)"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Dark Thoughts",
+      "source": "Zian of the Endless Shadow(Spirit Kings, Mogushan Vaults)"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Eternal Blossom Handwraps",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Belt",
+      "item": "Weaver's Cord of Eternal Autumn",
+      "source": "Tsulong(Terrace of Endless Spring)Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Legs",
+      "item": "Eternal Blossom Legwraps",
+      "source": "Amber-Shaper Un'sok(Heart of Fear)"
+    },
+    {
+      "slot": "Boots",
+      "item": "Asani's Uncleansed Sandals",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Amber-Shaper Un'sok(Heart of Fear)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Spirits of the Sun",
+      "source": "Tsulong(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Qin-xi's Polarizing Seal",
+      "source": "Jan-xi(Will of the Emperor, Mogushan Vaults)"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Grand Empress Shek'zeer(Heart of Fear)"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Fan of Fiery Winds",
+      "source": "Feng the Accursed(Mogushan Vaults)"
+    }
+  ],
+  "Beast Mastery Hunter": [
+    {
+      "slot": "Helm",
+      "item": "Yaungol Slayer's Headguard",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Choker of the Unleashed Storm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Waterborne Shoulderguards",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Yaungol Slayer's Tunic",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Stonemaw Armguards",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Yaungol Slayer's Gloves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Shadowgrip Girdle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Yaungol Slayer's Legguards",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Monstrous Stompers",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Taoren, the Soul Burner",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Marksmanship Hunter": [
+    {
+      "slot": "Helm",
+      "item": "Yaungol Slayer's Headguard",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Choker of the Unleashed Storm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Waterborne Shoulderguards",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Yaungol Slayer's Tunic",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Stonemaw Armguards",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Yaungol Slayer's Gloves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Shadowgrip Girdle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Yaungol Slayer's Legguards",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Monstrous Stompers",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Taoren, the Soul Burner",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Survival Hunter": [
+    {
+      "slot": "Helm",
+      "item": "Yaungol Slayer's Headguard",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Choker of the Unleashed Storm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Waterborne Shoulderguards",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Yaungol Slayer's Tunic",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Stonemaw Armguards",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Yaungol Slayer's Gloves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Shadowgrip Girdle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Yaungol Slayer's Legguards",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Monstrous Stompers",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Taoren, the Soul Burner",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Arcane Mage": [
+    {
+      "slot": "Helm",
+      "item": "Hood of the Burning Scroll",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Worldwaker Cabochon",
+      "source": "Will of the Emperor -Mogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Mantle of the Burning Scroll",
+      "source": "Lei Shi-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protectors of the Endless -Terrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of the Unknown Fear",
+      "source": "Lei Shi-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Attenuating Bracers",
+      "source": "Imperial Vizier Zor'lok-Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gloves of the Burning Scroll",
+      "source": "Wind Lord Mel'jarak-Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sok-Heart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Leggings of the Burning Scroll",
+      "source": "Amber-Shaper Un'sok-Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sandals of the Blackest Night",
+      "source": "Tsulong-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protectors of the Endless - Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lok-Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Yu'lon",
+      "source": "Darkmoon Serpent Deck-Relic of Yu'lon"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "Tsulong-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yak-Heart of Fear"
+    }
+  ],
+  "Fire Mage": [
+    {
+      "slot": "Helm",
+      "item": "Hood of the Burning Scroll",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Amulet of Seven Curses",
+      "source": "Feng the Accursed-Mogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Mantle of the Burning Scroll",
+      "source": "Lei Shi-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protectors of the Endless -Terrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of the Burning Scroll",
+      "source": "Grand Empress Shek'zeer-Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Twisting Wind Bracers",
+      "source": "Blade Lord Ta'yak-Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gloves of the Burning Scroll",
+      "source": "Wind Lord Mel'jarak-Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sok-Heart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Leggings of Shadow Infestation",
+      "source": "Grand Empress Shek'zeer-Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sandals of the Unbidden",
+      "source": "Tsulong-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protectors of the Endless -Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lok-Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Light of the Cosmos",
+      "source": "Elegon-Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "Tsulong-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yak-Heart of Fear"
+    }
+  ],
+  "Frost Mage": [
+    {
+      "slot": "Helm",
+      "item": "Hood of the Burning Scroll",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Worldwaker Cabochon",
+      "source": "Will of the Emperor -Mogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Mantle of the Burning Scroll",
+      "source": "Lei Shi-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protectors of the Endless -Terrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of the Burning Scroll",
+      "source": "Grand Empress Shek'zeer-Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Twisting Wind Bracers",
+      "source": "Blade Lord Ta'yak-Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gloves of the Burning Scroll",
+      "source": "Wind Lord Mel'jarak-Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sok-Heart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Dreadwoven Leggings of Failure",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sandals of the Blackest Night",
+      "source": "Tsulong-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protectors of the Endless -Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lok-Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of Fear-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Yu'lon",
+      "source": "Darkmoon Serpent Deck-Relic of Yu'lon"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "Tsulong-Terrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yak-Heart of Fear"
+    }
+  ],
+  "Brewmaster Monk": [
+    {
+      "slot": "Helm",
+      "item": "Red Crane Crown",
+      "source": "Sha of Fear(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Neck",
+      "item": "Choker of the Unleashed Storm",
+      "source": "Blade Lord Ta'yak(Heart of Fear)"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Red Crane Spaulders",
+      "source": "Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Garalon(Heart of Fear)"
+    },
+    {
+      "slot": "Chest",
+      "item": "Red Crane Chestguard",
+      "source": "Grand Empress Shek'zeer(Heart of Fear)"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Blade Lord Ta'yak(Heart of Fear)"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Red Crane Gauntlets",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Shared boss drop (Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Legs",
+      "item": "Red Crane Legguards",
+      "source": "Amber-Shaper Un'sok(Heart of Fear)"
+    },
+    {
+      "slot": "Boots",
+      "item": "Boots of the Still Breath",
+      "source": "Imperial Vizier Zor'lok(Heart of Fear)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Protectors of the Endless(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Elegon(Mogu'shan Vaults)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Sha of Fear(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Claws of Shek'zeer",
+      "source": "Grand Empress Shek'zeer(Heart of Fear)"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Gao-Rei, Staff of the Legendary Protector",
+      "source": "Tsulong(Terrace of Endless Spring)"
+    }
+  ],
+  "Mistweaver Monk": [
+    {
+      "slot": "Helm",
+      "item": "Hood of Stilled Winds",
+      "source": "Blade Lord Ta'yak(Heart of Fear)"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Red Crane Mantle",
+      "source": "Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Chest",
+      "item": "Red Crane Vest",
+      "source": "Grand Empress Shek'zeer(Heart of Fear)"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Dark Thoughts",
+      "source": "Zian of the Endless Shadow(Spirit Kings, Mogushan Vaults)"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gauntlets of Undesired Gifts",
+      "source": "Imperial Vizier Zor'lok(Heart of Fear)"
+    },
+    {
+      "slot": "Belt",
+      "item": "Weaver's Cord of Eternal Autumn",
+      "source": "Tsulong(Terrace of Endless Spring)Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Legs",
+      "item": "Fear-Blackened Leggings",
+      "source": "Tsulong(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Boots",
+      "item": "Asani's Uncleansed Sandals",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Amber-Shaper Un'sok(Heart of Fear)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Spirits of the Sun",
+      "source": "Tsulong(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Qin-xi's Polarizing Seal",
+      "source": "Jan-xi(Will of the Emperor, Mogushan Vaults)"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "Tsulong(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Fan of Fiery Winds",
+      "source": "Feng the Accursed(Mogushan Vaults)"
+    }
+  ],
+  "Windwalker Monk": [
+    {
+      "slot": "Helm",
+      "item": "Red Crane Headpiece",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Pheromone-Coated Choker",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Red Crane Spaulders",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Red Crane Tunic",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Red Crane Grips",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legguards of Failing Purification",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Boots of the Still Breath",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Claws of Shek'zeer",
+      "source": "Heart of Fear"
+    }
+  ],
+  "Holy Paladin": [
+    {
+      "slot": "Helm",
+      "item": "Casque of Expelled Corruption",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Zian's Choker of Coalesced Shadow",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "White Tiger Mantle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Drape of Gathering Clouds",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "White Tiger Breastplate",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Inlaid Cricket Bracers",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "White Tiger Gloves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Mender's Girdle of Endless Spring",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "White Tiger Greaves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sollerets of Instability",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Spirits of the Sun",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Qin-xi's Polarizing Seal",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Eye of the Ancient Spirit",
+      "source": "Mogu'shan Vaults"
+    }
+  ],
+  "Protection Paladin": [
+    {
+      "slot": "Helm",
+      "item": "White Tiger Faceguard",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Shackle of Eversparks",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "White Tiger Shoulderguards",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Hisek's Chrysanthemum Cape",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Chest",
+      "item": "White Tiger Chestguard",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Gloves",
+      "item": "White Tiger Gauntlets",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Belt",
+      "item": "Waistplate of Overwhelming Assault",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Legs",
+      "item": "White Tiger Legguards",
+      "source": "Amber-Shaper Un'sok"
+    },
+    {
+      "slot": "Boots",
+      "item": "Deepwater Greatboots",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Ring",
+      "item": "Vizier's Ruby Signet",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Ring",
+      "item": "Ring of the Bladed Tempest",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Jan-xi"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Darkmist Vortex",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kilrak, Jaws of Terror",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Steelskin, Qiang's Impervious Shield",
+      "source": "Meng the Demented"
+    }
+  ],
+  "Retribution Paladin": [
+    {
+      "slot": "Helm",
+      "item": "White Tiger Helmet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Shackle of Eversparks",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Shoulderpads of Misshapen Life",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Hisek's Chrysanthemum Cape",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "White Tiger Battleplate",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Gloves",
+      "item": "White Tiger Gauntlets",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Waistplate of Overwhelming Assault",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "White Tiger Legplates",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Impaling Treads",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Ring of the Bladed Tempest",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Darkmist Vortex",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Shin'ka, Execution of Dominion",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Discipline Priest": [
+    {
+      "slot": "Helm",
+      "item": "Guardian Serpent Cowl",
+      "source": "Sha of Fear(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Guardian Serpent Mantle",
+      "source": "Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of Torn Nightmares",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Cuffs of the Corrupted Waters",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Guardian Serpent Handwraps",
+      "source": "Wind Lord Mel'jarak(Heart of Fear)"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Embodied Terror",
+      "source": "Tsulong(Terrace of Endless Spring)Lei Shi(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Legs",
+      "item": "Guardian Serpent Legwraps",
+      "source": "Amber-Shaper Un'sok(Heart of Fear)"
+    },
+    {
+      "slot": "Boots",
+      "item": "Scent-Soaked Sandals",
+      "source": "Imperial Vizier Zor'lok(Heart of Fear)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protector Kaolan(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Amber-Shaper Un'sok(Heart of Fear)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Yu'lon",
+      "source": "Inscription"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Spirits of the Sun",
+      "source": "Tsulong(Terrace of Endless Spring)"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Grand Empress Shek'zeer(Heart of Fear)"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Fan of Fiery Winds",
+      "source": "Feng the Accursed(Mogushan Vaults)"
+    }
+  ],
+  "Holy Priest": [
+    {
+      "slot": "Helm",
+      "item": "Guardian Serpent Cowl",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Guardian Serpent Mantle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Drape of Gathering Clouds",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of Torn Nightmares",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Cuffs of the Corrupted Waters",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Guardian Serpent Handwraps",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Embodied Terror",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Guardian Serpent Legwraps",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Scent-Soaked Sandals",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Spirits of the Sun",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Qin-xi's Polarizing Seal",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Fan of Fiery Winds",
+      "source": "Mogu'shan Vaults"
+    }
+  ],
+  "Shadow Priest": [
+    {
+      "slot": "Helm",
+      "item": "Guardian Serpent Hood",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Guardian Serpent Shoulderguards",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Chest",
+      "item": "Guardian Serpent Raiment",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Cuffs of the Corrupted Waters",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Guardian Serpent Gloves",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sok"
+    },
+    {
+      "slot": "Legs",
+      "item": "Dreadwoven Leggings of Failure",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Boots of the Blowing Wind",
+      "source": "Blade Lord Ta'yak"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Light of the Cosmos",
+      "source": "Elegon"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yak"
+    }
+  ],
+  "Assassination Rogue": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of the Thousandfold Blades",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Pheromone-Coated Choker",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Spaulders of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Tunic of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gloves of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legguards of Failing Purification",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Treads of Deadly Secretions",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Spiritsever",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Combat Rogue": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of the Thousandfold Blades",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Pheromone-Coated Choker",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Spaulders of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Tunic of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gloves of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legguards of Failing Purification",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Boots of the Still Breath",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Claws of Shek'zeer",
+      "source": "Heart of Fear"
+    }
+  ],
+  "Subtlety Rogue": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of the Thousandfold Blades",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Pheromone-Coated Choker",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Spaulders of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Tunic of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Unseen Strikes",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gloves of the Thousandfold Blades",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Stalker's Cord of Eternal Autumn",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legguards of Failing Purification",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Boots",
+      "item": "Boots of the Still Breath",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Xuen",
+      "source": "Inscription (BoE)"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Spiritsever",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Elemental Shaman": [
+    {
+      "slot": "Helm",
+      "item": "Firebird's Headpiece",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Firebird's Shoulderwraps",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Mail of Screaming Secrets",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Tempestuous Fury",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Firebird's Gloves",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Binder's Chain of Unending Summer",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Firebird's Kilt",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Lightning Prisoner's Boots",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Yu'lon",
+      "source": "Serpent Deck"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Heart of Fear"
+    }
+  ],
+  "Enhancement Shaman": [
+    {
+      "slot": "Helm",
+      "item": "Firebird's Helmet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Pheromone-Coated Choker",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Waterborne Shoulderguards",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Legbreaker Greatcloak",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Chest",
+      "item": "Firebird's Cuirass",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Stonemaw Armguards",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Firebird's Grips",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Shadowgrip Girdle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Firebird's Legguards",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Monstrous Stompers",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Painful Thorned Ring",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Regail's Band of the Endless",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Bottle of Infinite Stars",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Terror in the Mists",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Claws of Shek'zeer",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Claws of Shek'zeer",
+      "source": "Heart of Fear"
+    }
+  ],
+  "Restoration Shaman": [
+    {
+      "slot": "Helm",
+      "item": "Hood of Dark Dreams",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Korven's Amber-Sealed Beetle",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Firebird's Mantle",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Firebird's Tunic",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Tempestuous Fury",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Firebird's Handwraps",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Binder's Chain of Unending Summer",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Legs",
+      "item": "Firebird's Legwraps",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Lightning Prisoner's Boots",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Seal of the Profane",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Spirits of the Sun",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Chi-Ji",
+      "source": "Crane Deck"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kri'tak, Imperial Scepter of the Swarm",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Eye of the Ancient Spirit",
+      "source": "Mogu'shan Vaults"
+    }
+  ],
+  "Affliction Warlock": [
+    {
+      "slot": "Helm",
+      "item": "Sha-Skin Hood",
+      "source": "Sha of FearTerrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Amulet of Seven Curses",
+      "source": "Feng the AccursedMogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Sha-Skin Mantle",
+      "source": "Lei ShiTerrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protectors of the EndlessTerrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of the Unknown Fear",
+      "source": "Lei ShiTerrace of Endless Spring"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Twisting Wind Bracers",
+      "source": "Blade Lord Ta'yakHeart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Sha-Skin Gloves",
+      "source": "Wind Lord Mel'jarakHeart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sokHeart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Sha-Skin Leggings",
+      "source": "Amber-Shaper Un'sokHeart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sandals of the Blackest Night",
+      "source": "TsulongTerrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protectors of the EndlessTerrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lokHeart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of FearTerrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Light of the Cosmos",
+      "source": "ElegonMogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "TsulongTerrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yakHeart of Fear"
+    }
+  ],
+  "Demonology Warlock": [
+    {
+      "slot": "Helm",
+      "item": "Sha-Skin Hood",
+      "source": "Sha of FearTerrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Amulet of Seven Curses",
+      "source": "Feng the AccursedMogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Sha-Skin Mantle",
+      "source": "Lei ShiTerrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protectors of the EndlessTerrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Sha-Skin Robes",
+      "source": "Grand Empress Shek'zeerHeart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Twisting Wind Bracers",
+      "source": "Blade Lord Ta'yakHeart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Sha-Skin Gloves",
+      "source": "Wind Lord Mel'jarakHeart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sokHeart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Leggings of Shadow Infestation",
+      "source": "Grand Empress Shek'zeerHeart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sandals of the Unbidden",
+      "source": "GaralonHeart of Fear"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protectors of the EndlessTerrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lokHeart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of FearTerrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Light of the Cosmos",
+      "source": "ElegonMogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "TsulongTerrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yakHeart of Fear"
+    }
+  ],
+  "Destruction Warlock": [
+    {
+      "slot": "Helm",
+      "item": "Sha-Skin Hood",
+      "source": "Sha of FearTerrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Amulet of Seven Curses",
+      "source": "Feng the AccursedMogu'shan Vaults"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Sha-Skin Mantle",
+      "source": "Lei ShiTerrace of Endless Spring"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Overwhelming Corruption",
+      "source": "Protectors of the EndlessTerrace of Endless Spring"
+    },
+    {
+      "slot": "Chest",
+      "item": "Robes of the Unknown Fear",
+      "source": "Lei ShiTerrace of Endless Spring"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Attenuating Bracers",
+      "source": "Blade Lord Ta'yakHeart of Fear"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Sha-Skin Gloves",
+      "source": "Imperial Vizier Zor'lokHeart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Belt of Malleable Amber",
+      "source": "Amber-Shaper Un'sokHeart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Sha-Skin Leggings",
+      "source": "Amber-Shaper Un'sokHeart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Sandals of the Blackest Night",
+      "source": "TsulongTerrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Watersoul Signet",
+      "source": "Protectors of the EndlessTerrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Fragment of Fear Made Flesh",
+      "source": "Imperial Vizier Zor'lokHeart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Essence of Terror",
+      "source": "Sha of FearTerrace of Endless Spring"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Light of the Cosmos",
+      "source": "ElegonMogu'shan Vaults"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Loshan, Terror Incarnate",
+      "source": "TsulongTerrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Tornado-Summoning Censer",
+      "source": "Blade Lord Ta'yakHeart of Fear"
+    }
+  ],
+  "Arms Warrior": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of Resounding Rings",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Necklace of Congealed Weaknesses",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Shoulderpads of Misshapen Life",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Peacock Feathers",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Chest",
+      "item": "Battleplate of Resounding Rings",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gauntlets of Resounding Rings",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Warbelt of Sealed Pods",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legplates of Resounding Rings",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Jasper Clawfeet",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Ring of the Bladed Tempest",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Relic of Xuen",
+      "source": "Inscription(BoE)"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Shin'ka, Execution of Dominion",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Fury Warrior": [
+    {
+      "slot": "Helm",
+      "item": "Helmet of Resounding Rings",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Neck",
+      "item": "Necklace of Congealed Weaknesses",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Shoulderpads of Misshapen Life",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Cloak of Peacock Feathers",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Chest",
+      "item": "Battleplate of Resounding Rings",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Defiled Earth",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Gauntlets of Resounding Rings",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Belt",
+      "item": "Warbelt of Sealed Pods",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legplates of Resounding Rings",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Boots",
+      "item": "Jasper Clawfeet",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Ring",
+      "item": "Ring of the Bladed Tempest",
+      "source": "Heart of Fear"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Lei Shen's Final Orders",
+      "source": "Mogu'shan Vaults"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Skullrender Medallion",
+      "source": "1750 Valor Points"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Shin'ka, Execution of Dominion",
+      "source": "Terrace of Endless Spring"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Shin'ka, Execution of Dominion",
+      "source": "Terrace of Endless Spring"
+    }
+  ],
+  "Protection Warrior": [
+    {
+      "slot": "Helm",
+      "item": "Faceguard of Resounding Rings",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Neck",
+      "item": "Kaolan's Withering Necklace",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Shoulders",
+      "item": "Shoulderguards of Resounding Rings",
+      "source": "Lei Shi"
+    },
+    {
+      "slot": "Cloak",
+      "item": "Daybreak Drape",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Chest",
+      "item": "Chestguard of Resounding Rings",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Bracers",
+      "item": "Bracers of Six Oxen",
+      "source": "Feng the Accursed"
+    },
+    {
+      "slot": "Gloves",
+      "item": "Handguards of Resounding Rings",
+      "source": "Wind Lord Mel'jarak"
+    },
+    {
+      "slot": "Belt",
+      "item": "Warbelt of Sealed Pods",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Legs",
+      "item": "Legplates of Regal Reinforcement",
+      "source": "Grand Empress Shek'zeer"
+    },
+    {
+      "slot": "Boots",
+      "item": "Deepwater Greatboots",
+      "source": "Protector Kaolan"
+    },
+    {
+      "slot": "Ring",
+      "item": "Vizier's Ruby Signet",
+      "source": "Imperial Vizier Zor'lok"
+    },
+    {
+      "slot": "Ring",
+      "item": "Dread Shadow Ring",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Stuff of Nightmares",
+      "source": "Tsulong"
+    },
+    {
+      "slot": "Trinket",
+      "item": "Skullrender Medallion",
+      "source": "1750 Valor Points"
+    },
+    {
+      "slot": "Mainhand",
+      "item": "Kilrak, Jaws of Terror",
+      "source": "Sha of Fear"
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Steelskin, Qiang's Impervious Shield",
+      "source": "Meng the Demented"
+    }
+  ]
+}
