@@ -26,6 +26,17 @@ export default function Page() {
   const [dbError, setDbError] = useState<string | null>(null);
   const [wowSimsUrl, setWowSimsUrl] = useState<string>("");
   const [showWowsims, setShowWowsims] = useState<boolean>(false);
+  const backgroundUrl = `https://render.worldofwarcraft.com/eu/profile-backgrounds/v2/armory_bg_class_${character?.class}.jpg`;
+  // Id is on this format: "Player-4454-0519C305"
+  // Take the last number "0519C305" and convert it to decimal
+  const characterId = character?.id
+    ? parseInt(character.id.split("-").pop() || "0", 16)
+    : 0;
+  const avatarUrl = character?.id
+    ? `https://render.worldofwarcraft.com/classic-eu/character/${character?.realm
+        ?.replace(/\s+/g, "-")
+        .toLowerCase()}/${characterId % 256}/${characterId}-avatar.jpg`
+    : "https://render.worldofwarcraft.com/shadow/avatar/9-1.jpg";
 
   // Lookup maps
   const [itemMap, setItemMap] = useState<Map<number, DBItem>>(new Map());
@@ -33,113 +44,6 @@ export default function Page() {
     new Map()
   );
   const [gemMap, setGemMap] = useState<Map<number, DBGem>>(new Map());
-  // Extracted render URLs from proxy HTML
-  const [renderUrls, setRenderUrls] = useState<string[]>([]);
-  const [backgroundUrl, setBackgroundUrl] = useState<string | null>(null);
-
-  // Per-character avatar/cache refs to avoid re-fetching when switching tabs
-  const avatarCacheRef = useRef<
-    Map<string, { renderUrls: string[]; backgroundUrl: string | null }>
-  >(new Map());
-  const avatarPromisesRef = useRef<Map<string, Promise<void>>>(new Map());
-
-  // Fetch avatar/render URLs for the current character when it changes.
-  // Uses an in-memory cache keyed by `${region}|${realmForUrl}|${charName}` to
-  // avoid duplicate proxy requests when switching between tabs with the same character.
-  useEffect(() => {
-    if (!character) return;
-
-    const rawRealm = character.realm || "";
-    const usRealms = [
-      "Angerforge",
-      "Arugal",
-      "Ashkandi",
-      "Atiesh",
-      "Azuresong",
-      "Benediction",
-      "Bloodsail",
-      "Earthfury",
-      "Eranikus",
-      "Faerlina",
-      "Galakras",
-      "Grobbulus",
-      "Immerseus",
-      "Lei",
-      "Maladath",
-      "Mankrik",
-      "Myzrael",
-      "Nazgrim",
-      "Old",
-      "Pagle",
-      "Ra-den",
-      "Remulos",
-      "Skyfury",
-      "Sulfuras",
-      "Westfall",
-      "Whitemane",
-      "Windseeker",
-      "Yojamba",
-    ];
-    const isUS = usRealms.includes(rawRealm);
-    const region = isUS ? "us" : "eu";
-    const realmForUrl = rawRealm.replace(/\s+/g, "");
-    const charName = character.name;
-    if (!charName) return;
-
-    const key = `${region}|${realmForUrl}|${charName}`;
-
-    // If cached, apply immediately
-    const cached = avatarCacheRef.current.get(key);
-    if (cached) {
-      setRenderUrls(cached.renderUrls);
-      setBackgroundUrl(cached.backgroundUrl);
-      return;
-    }
-
-    // If a fetch is already in progress for this key, wait for it and apply when done
-    const inFlight = avatarPromisesRef.current.get(key);
-    if (inFlight) {
-      inFlight.then(() => {
-        const c = avatarCacheRef.current.get(key);
-        if (c) {
-          setRenderUrls(c.renderUrls);
-          setBackgroundUrl(c.backgroundUrl);
-        }
-      });
-      return;
-    }
-
-    const fetchPromise = (async () => {
-      try {
-        const target = `https://classic.warcraftlogs.com/character/${region}/${realmForUrl}/${charName}`;
-        const res = await fetch(target);
-        if (!res.ok) throw new Error("Proxy fetch failed: " + res.status);
-        const html = await res.text();
-
-        const re = new RegExp(
-          "https?:\\/\\/render\\.worldofwarcraft\\.com\\/[^\"'\\s<>)]*",
-          "g"
-        );
-        const matches = html.match(re) || [];
-        const unique = Array.from(new Set(matches));
-        const bg =
-          unique.find((u) => u.includes("profile-backgrounds")) || null;
-
-        avatarCacheRef.current.set(key, {
-          renderUrls: unique,
-          backgroundUrl: bg,
-        });
-        setRenderUrls(unique);
-        setBackgroundUrl(bg);
-      } catch (e) {
-        console.warn("Avatar proxy fetch failed:", e);
-      } finally {
-        avatarPromisesRef.current.delete(key);
-      }
-    })();
-
-    avatarPromisesRef.current.set(key, fetchPromise);
-  }, [character]);
 
   // Load multi-characters from localStorage
   useEffect(() => {
@@ -605,11 +509,7 @@ export default function Page() {
                 <div className="flex flex-col md:flex-row md:items-start gap-4 md:gap-6 mb-4">
                   <div className="flex md:flex-col items-center md:items-start gap-3 md:gap-0">
                     <img
-                      src={
-                        renderUrls && renderUrls.length > 0
-                          ? renderUrls[renderUrls.length - 1]
-                          : "https://render.worldofwarcraft.com/classic-eu/character/mirage-raceway/46/95754798-avatar.jpg"
-                      }
+                      src={avatarUrl}
                       alt="Character Avatar"
                       className="rounded-lg shadow w-36 h-36 md:w-40 md:h-40 object-cover mx-auto"
                     />

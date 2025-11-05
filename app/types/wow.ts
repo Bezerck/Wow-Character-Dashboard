@@ -34,6 +34,7 @@ export interface CharacterData {
   level: number;
   version: string;
   realm: string;
+  id: string;
 }
 export interface DBItem {
   id: number;
