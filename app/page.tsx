@@ -32,10 +32,21 @@ export default function Page() {
   const characterId = character?.id
     ? parseInt(character.id.split("-").pop() || "0", 16)
     : 0;
+  // Normalize realm for URLs:
+  // - replace spaces with hyphens
+  // - insert hyphen between camelCase / PascalCase boundaries (e.g. MirageRaceway -> Mirage-Raceway)
+  // - lowercase the result
+  const formatRealmForUrl = (r?: string) =>
+    (r || "")
+      .replace(/\s+/g, "-")
+      .replace(/([a-z0-9])([A-Z])/g, "$1-$2")
+      .replace(/([A-Z])([A-Z][a-z])/g, "$1-$2")
+      .toLowerCase();
+
   const avatarUrl = character?.id
-    ? `https://render.worldofwarcraft.com/classic-eu/character/${character?.realm
-        ?.replace(/\s+/g, "-")
-        .toLowerCase()}/${characterId % 256}/${characterId}-avatar.jpg`
+    ? `https://render.worldofwarcraft.com/classic-eu/character/${formatRealmForUrl(
+        character?.realm
+      )}/${characterId % 256}/${characterId}-avatar.jpg`
     : "https://render.worldofwarcraft.com/shadow/avatar/9-1.jpg";
 
   // Lookup maps
@@ -470,7 +481,7 @@ export default function Page() {
                         const rawRealm = character.realm || "";
                         const isUS = usRealms.includes(rawRealm);
                         const region = isUS ? "us" : "eu";
-                        const realmForUrl = rawRealm.replace(/\s+/g, "");
+                        const realmForUrl = formatRealmForUrl(rawRealm);
                         const charName = character.name;
                         const warcraftLogsUrl = `https://classic.warcraftlogs.com/character/${region}/${realmForUrl}/${charName}`;
                         const isDisabled = !charName;
