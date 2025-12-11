@@ -3,2718 +3,3248 @@
     {
       "slot": "Helm",
       "item": "Helmet of the All-Consuming Maw",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96571
     },
     {
       "slot": "Neck",
       "item": "Moonjade Necklace",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96916
     },
     {
       "slot": "Shoulders",
       "item": "Pauldrons of the All-Consuming Maw",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96573
     },
     {
       "slot": "Cloak",
       "item": "White Snow Skycloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95016
     },
     {
       "slot": "Chest",
       "item": "Breastplate of the All-Consuming Maw",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96569
     },
     {
       "slot": "Bracers",
       "item": "Shell-Coated Wristplates",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96800
     },
     {
       "slot": "Gloves",
       "item": "Gauntlets of the All-Consuming Maw",
-      "source": "High Priestess Mar'li"
+      "source": "High Priestess Mar'li",
+      "id": 96570
     },
     {
       "slot": "Belt",
       "item": "Cracklesnap Clasp",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95002
     },
     {
       "slot": "Legs",
       "item": "Black Blood Legplates",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96869
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Contemplative Loop",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95020
     },
     {
       "slot": "Trinket",
       "item": "Spark of Zandalar",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96770
     },
     {
       "slot": "Trinket",
       "item": "Soul Barrier",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96927
     },
     {
       "slot": "Mainhand",
       "item": "Greatsword of Frozen Hells",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96991
     }
   ],
   "Frost Death Knight": [
     {
       "slot": "Helm",
       "item": "Crown of the Golden Golem",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96894
     },
     {
       "slot": "Neck",
       "item": "Talisman of Angry Spirits",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li"
+      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
+      "id": 96792
     },
     {
       "slot": "Shoulders",
       "item": "Pauldrons of the All-Consuming Maw",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96573
     },
     {
       "slot": "Cloak",
       "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95017
     },
     {
       "slot": "Chest",
       "item": "Breastplate of the All-Consuming Maw",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96569
     },
     {
       "slot": "Bracers",
       "item": "Caustic Spike Bracersof Mastery",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Gauntlets of the All-Consuming Maw",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li"
+      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
+      "id": 96570
     },
     {
       "slot": "Belt",
       "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96745
     },
     {
       "slot": "Legs",
       "item": "Greaves of the All-Consuming Maw",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96572
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Ring",
       "item": "Band of the Scaled Tyrant",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96872
     },
     {
       "slot": "Trinket",
       "item": "Primordius' Talisman of Rage",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96873
     },
     {
       "slot": "Trinket",
       "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96842
     },
     {
       "slot": "Mainhand",
       "item": "Qon's Flaming Scimitar",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96906
     },
     {
       "slot": "Off-hand",
       "item": "Qon's Flaming Scimitar",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96906
     }
   ],
   "Unholy Death Knight": [
     {
       "slot": "Helm",
       "item": "Crown of the Golden Golem",
-      "source": "SuenandLu'lin"
+      "source": "SuenandLu'lin",
+      "id": 96894
     },
     {
       "slot": "Neck",
       "item": "Talisman of Angry Spirits",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li"
+      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
+      "id": 96792
     },
     {
       "slot": "Shoulders",
       "item": "Pauldrons of the All-Consuming Maw",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96573
     },
     {
       "slot": "Cloak",
       "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95017
     },
     {
       "slot": "Chest",
       "item": "Breastplate of the All-Consuming Maw",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96569
     },
     {
       "slot": "Bracers",
       "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96848
     },
     {
       "slot": "Gloves",
       "item": "Gauntlets of the All-Consuming Maw",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li"
+      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
+      "id": 96570
     },
     {
       "slot": "Belt",
       "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96745
     },
     {
       "slot": "Legs",
       "item": "Greaves of the All-Consuming Maw",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96572
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Ring",
       "item": "Band of the Scaled Tyrant",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96872
     },
     {
       "slot": "Trinket",
       "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96842
     },
     {
       "slot": "Trinket",
       "item": "Brutal Talisman of the Shado-Pan Assault",
-      "source": "Shado-Pan Assault"
+      "source": "Shado-Pan Assault",
+      "id": 94508
     },
     {
       "slot": "Mainhand",
       "item": "Greatsword of Frozen Hells",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96991
     }
   ],
   "Balance Druid": [
     {
       "slot": "Helm",
       "item": "Cover of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96590
     },
     {
       "slot": "Neck",
       "item": "Passionfire Choker",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96909
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderwraps of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96593
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Robes of Contagious Time",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95032
     },
     {
       "slot": "Bracers",
       "item": "Infinitely Conducting Bracers",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96758
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96589
     },
     {
       "slot": "Belt",
       "item": "Worldbender Waistband",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 94997
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96591
     },
     {
       "slot": "Boots",
       "item": "Roots of Pain",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95006
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Evolving Signet",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95018
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Cha-Ye's Essence of Brilliance",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96888
     },
     {
       "slot": "Trinket",
       "item": "Unerring Vision of Lei Shen",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96930
     },
     {
       "slot": "Mainhand",
       "item": "Torall, Rod of the Shattered Throne",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96931
     },
     {
       "slot": "Off-hand",
       "item": "Orb of Arcing Lightning",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96902
     }
   ],
   "Feral Druid": [
     {
       "slot": "Helm",
       "item": "Headpiece of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96581
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Spaulders of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96583
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Chestguard of Coruscating Blades",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95033
     },
     {
       "slot": "Bracers",
       "item": "Bindings of Multiplicative Strikes",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96764
     },
     {
       "slot": "Gloves",
       "item": "Grips of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96580
     },
     {
       "slot": "Belt",
       "item": "Strap of Murderous Strikes",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 94998
     },
     {
       "slot": "Legs",
       "item": "Legguards of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96582
     },
     {
       "slot": "Boots",
       "item": "Twist-Toe Tabi",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95007
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Rune of Re-Origination",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96918
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96741
     },
     {
       "slot": "Mainhand",
       "item": "Darkwood Spiritstaff",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96978
     }
   ],
   "Guardian Druid": [
     {
       "slot": "Helm",
       "item": "Headguard of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96596
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderguards of the Haunted Forest",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96598
     },
     {
       "slot": "Cloak",
       "item": "Pinionfeather Greatcloak",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96833
     },
     {
       "slot": "Chest",
       "item": "Chestguard of Coruscating Blades",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95033
     },
     {
       "slot": "Bracers",
       "item": "Bracers of the Midnight Comet",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96912
     },
     {
       "slot": "Gloves",
       "item": "Gloves of Cushioned Air",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96865
     },
     {
       "slot": "Belt",
       "item": "Strap of Murderous Strikes",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 94998
     },
     {
       "slot": "Legs",
       "item": "Worldbinder Leggings",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96891
     },
     {
       "slot": "Boots",
       "item": "Twist-Toe Tabi",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95007
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Bad Juju",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96781
     },
     {
       "slot": "Mainhand",
       "item": "Darkwood Spiritstaff",
-      "source": "Throne of Thunder"
+      "source": "Throne of Thunder",
+      "id": 96978
     }
   ],
   "Restoration Druid": [
     {
       "slot": "Helm",
       "item": "Helm of the Haunted Forest",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)"
+      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
+      "id": 96585
     },
     {
       "slot": "Neck",
       "item": "Horridon's Tusk Fragment",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96774
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Haunted Forest",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96588
     },
     {
       "slot": "Cloak",
       "item": "Black Night Thundercloak",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95013
     },
     {
       "slot": "Chest",
       "item": "Robes of Contagious Time",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95032
     },
     {
       "slot": "Bracers",
       "item": "Vampire Bat-Hide Bracers",
-      "source": "Tortos(Throne of Thunder)"
+      "source": "Tortos(Throne of Thunder)",
+      "id": 96809
     },
     {
       "slot": "Gloves",
       "item": "Handwraps of the Haunted Forest",
-      "source": "Kazra'jin(Council of Elders, Throne of Thunder)"
+      "source": "Kazra'jin(Council of Elders, Throne of Thunder)",
+      "id": 96584
     },
     {
       "slot": "Belt",
       "item": "Worldbender Waistband",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 94997
     },
     {
       "slot": "Legs",
       "item": "Legwraps of the Haunted Forest",
-      "source": "Ji-Kun(Throne of Thunder)"
+      "source": "Ji-Kun(Throne of Thunder)",
+      "id": 96586
     },
     {
       "slot": "Boots",
       "item": "Roots of Pain",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95006
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Evolving Signet",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95018
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Horridon's Last Gasp",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96757
     },
     {
       "slot": "Trinket",
       "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96933
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Orb of Arcing Lightning",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96902
     }
   ],
   "Beast Mastery Hunter": [
     {
       "slot": "Helm",
       "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li(Throne of Thunder)"
+      "source": "High Priestess Mar'li(Throne of Thunder)",
+      "id": 96788
     },
     {
       "slot": "Neck",
       "item": "Talisman of Living Poison",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96762
     },
     {
       "slot": "Shoulders",
       "item": "Saurok Stalker's Spaulders",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96630
     },
     {
       "slot": "Cloak",
       "item": "Pinionfeather Greatcloak",
-      "source": "Ji-Kun(Throne of Thunder)"
+      "source": "Ji-Kun(Throne of Thunder)",
+      "id": 96833
     },
     {
       "slot": "Chest",
       "item": "Saurok Stalker's Tunic",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96626
     },
     {
       "slot": "Bracers",
       "item": "Beady-Eye Bracers(Crit)",
-      "source": "Tortos(Throne of Thunder)"
+      "source": "Tortos(Throne of Thunder)",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Saurok Stalker's Gloves",
-      "source": "Kazra'jin(Throne of Thunder)"
+      "source": "Kazra'jin(Throne of Thunder)",
+      "id": 96627
     },
     {
       "slot": "Belt",
       "item": "Links of the Disintegrator",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96846
     },
     {
       "slot": "Legs",
       "item": "Saurok Stalker's Legguards",
-      "source": "Ji-Kun(Throne of Thunder)"
+      "source": "Ji-Kun(Throne of Thunder)",
+      "id": 96629
     },
     {
       "slot": "Boots",
       "item": "Treads of the Sanguine Volley",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95009
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)"
+      "source": "Jin'rokh the Breaker(Throne of Thunder)",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Friendly withShado-Pan Assault0 Valor Points"
+      "source": "Friendly withShado-Pan Assault0 Valor Points",
+      "id": 94511
     },
     {
       "slot": "Mainhand",
       "item": "Durumu's Baleful Gaze",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96844
     }
   ],
   "Marksmanship Hunter": [
     {
       "slot": "Helm",
       "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li(Throne of Thunder)"
+      "source": "High Priestess Mar'li(Throne of Thunder)",
+      "id": 96788
     },
     {
       "slot": "Neck",
       "item": "Talisman of Living Poison",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96762
     },
     {
       "slot": "Shoulders",
       "item": "Saurok Stalker's Spaulders",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96630
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Scales of Shaped Flesh",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95034
     },
     {
       "slot": "Bracers",
       "item": "Beady-Eye Bracers(Crit)",
-      "source": "Tortos(Throne of Thunder)"
+      "source": "Tortos(Throne of Thunder)",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Saurok Stalker's Gloves",
-      "source": "Kazra'jin(Throne of Thunder)"
+      "source": "Kazra'jin(Throne of Thunder)",
+      "id": 96627
     },
     {
       "slot": "Belt",
       "item": "Links of the Disintegrator",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96846
     },
     {
       "slot": "Legs",
       "item": "Conduit-Breaker Chain Leggings",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96921
     },
     {
       "slot": "Boots",
       "item": "Quakestompers",
-      "source": "Tortos(Throne of Thunder)"
+      "source": "Tortos(Throne of Thunder)",
+      "id": 96798
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)"
+      "source": "Jin'rokh the Breaker(Throne of Thunder)",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Friendly withShado-Pan Assault0 Valor Points"
+      "source": "Friendly withShado-Pan Assault0 Valor Points",
+      "id": 94511
     },
     {
       "slot": "Mainhand",
       "item": "Durumu's Baleful Gaze",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96844
     }
   ],
   "Survival Hunter": [
     {
       "slot": "Helm",
       "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li(Throne of Thunder)"
+      "source": "High Priestess Mar'li(Throne of Thunder)",
+      "id": 96788
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Flaming Head(Throne of Thunder)"
+      "source": "Flaming Head(Throne of Thunder)",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Saurok Stalker's Spaulders",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96630
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Saurok Stalker's Tunic",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96626
     },
     {
       "slot": "Bracers",
       "item": "Beady-Eye Bracers(Crit)",
-      "source": "Tortos(Throne of Thunder)"
+      "source": "Tortos(Throne of Thunder)",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Synapse-String Handguards",
-      "source": "Primordius(Throne of Thunder)"
+      "source": "Primordius(Throne of Thunder)",
+      "id": 96867
     },
     {
       "slot": "Belt",
       "item": "Links of the Disintegrator",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96846
     },
     {
       "slot": "Legs",
       "item": "Conduit-Breaker Chain Leggings",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96921
     },
     {
       "slot": "Boots",
       "item": "Treads of the Sanguine Volley",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95009
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)"
+      "source": "Jin'rokh the Breaker(Throne of Thunder)",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Bad Juju",
-      "source": "Kazra'jin(Throne of Thunder)"
+      "source": "Kazra'jin(Throne of Thunder)",
+      "id": 96781
     },
     {
       "slot": "Mainhand",
       "item": "Voice of the Quilen",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96897
     }
   ],
   "Arcane Mage": [
     {
       "slot": "Helm",
       "item": "Hood of the Chromatic Hydra",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96635
     },
     {
       "slot": "Neck",
       "item": "Megaera's Shining Eye",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96825
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Chromatic Hydra",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96638
     },
     {
       "slot": "Cloak",
       "item": "Red Sky Cloudcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95014
     },
     {
       "slot": "Chest",
       "item": "Robes of the Chromatic Hydra",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96637
     },
     {
       "slot": "Bracers",
       "item": "Frostborn Wristwraps",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96824
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Chromatic Hydra",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96634
     },
     {
       "slot": "Belt",
       "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96834
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Discarded Warning",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95030
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95019
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Cha-Ye's Essence of Brilliance",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96888
     },
     {
       "slot": "Trinket",
       "item": "Unerring Vision of Lei Shen",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96930
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96934
     }
   ],
   "Fire Mage": [
     {
       "slot": "Helm",
       "item": "Hood of the Chromatic Hydra",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96635
     },
     {
       "slot": "Neck",
       "item": "Megaera's Shining Eye",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96825
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Chromatic Hydra",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96638
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Robes of the Chromatic Hydra",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96637
     },
     {
       "slot": "Bracers",
       "item": "Frostborn Wristwraps",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96824
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Chromatic Hydra",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96634
     },
     {
       "slot": "Belt",
       "item": "Vita-Binder Wrap",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 94996
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Discarded Warning",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95030
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95019
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Cha-Ye's Essence of Brilliance",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96888
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96785
     },
     {
       "slot": "Mainhand",
       "item": "Nadagast's Exsanguinator",
-      "source": "Shared Boss Loot"
+      "source": "Shared Boss Loot",
+      "id": 96982
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96934
     }
   ],
   "Frost Mage": [
     {
       "slot": "Helm",
       "item": "Hood of the Chromatic Hydra",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96635
     },
     {
       "slot": "Neck",
       "item": "Megaera's Shining Eye",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96825
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Chromatic Hydra",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96638
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Starburner Robes",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95039
     },
     {
       "slot": "Bracers",
       "item": "Bracers of Fragile Bone",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96878
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Chromatic Hydra",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96634
     },
     {
       "slot": "Belt",
       "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96834
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Chromatic Hydra",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96636
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95019
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Breath of the Hydra",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96827
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96785
     },
     {
       "slot": "Mainhand",
       "item": "Venomlord's Totemic Wand",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96776
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96934
     }
   ],
   "Brewmaster Monk": [
     {
       "slot": "Helm",
       "item": "Fire-Charm Crown",
-      "source": "Twin Empyreans"
+      "source": "Twin Empyreans",
+      "id": 96651
     },
     {
       "slot": "Neck",
       "item": "Talisman of Living Poison",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96762
     },
     {
       "slot": "Shoulders",
       "item": "Fire-Charm Shoulderguards",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96653
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Chestguard of Coruscating Blades",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95033
     },
     {
       "slot": "Bracers",
       "item": "Bracers of the Midnight Comet(Crit)",
-      "source": "Twin Empyreans"
+      "source": "Twin Empyreans",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Fire-Charm Gauntlets",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96650
     },
     {
       "slot": "Belt",
       "item": "Featherflight Belt",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96837
     },
     {
       "slot": "Legs",
       "item": "Fire-Charm Legguards",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96652
     },
     {
       "slot": "Boots",
       "item": "Twist-Toe Tabi",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95007
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96885
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95021
     },
     {
       "slot": "Trinket",
       "item": "Talisman of Bloodlust",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96864
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96741
     },
     {
       "slot": "Mainhand",
       "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Twin Empyreans"
+      "source": "Twin Empyreans",
+      "id": 96907
     },
     {
       "slot": "Off-hand",
       "item": "Shan-Dun, Breaker of Hope",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96919
     }
   ],
   "Mistweaver Monk": [
     {
       "slot": "Helm",
       "item": "Hood of Smoldering Flesh",
-      "source": "Flaming Head(Megaera, Throne of Thunder)"
+      "source": "Flaming Head(Megaera, Throne of Thunder)",
+      "id": 96829
     },
     {
       "slot": "Neck",
       "item": "Passionfire Choker",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)"
+      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
+      "id": 96909
     },
     {
       "slot": "Shoulders",
       "item": "Fire-Charm Mantle",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96648
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Fire-Charm Vest",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96647
     },
     {
       "slot": "Bracers",
       "item": "Infinitely Conducting Bracers",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)"
+      "source": "Jin'rokh the Breaker(Throne of Thunder)",
+      "id": 96758
     },
     {
       "slot": "Gloves",
       "item": "Anima-Ringed Fingers",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96892
     },
     {
       "slot": "Belt",
       "item": "Worldbender Waistband",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 94997
     },
     {
       "slot": "Legs",
       "item": "Roots of Rampaging Earth",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96777
     },
     {
       "slot": "Boots",
       "item": "Roots of Pain",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95006
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96901
     },
     {
       "slot": "Ring",
       "item": "Durumu's Captive Eyeball",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96858
     },
     {
       "slot": "Trinket",
       "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96933
     },
     {
       "slot": "Trinket",
       "item": "Horridon's Last Gasp",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96757
     },
     {
       "slot": "Mainhand",
       "item": "Soulblade of the Breaking Storm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)"
+      "source": "Jin'rokh the Breaker(Throne of Thunder)",
+      "id": 96756
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96934
     }
   ],
   "Windwalker Monk": [
     {
       "slot": "Helm",
       "item": "Fire-Charm Headpiece",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96641
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Megaera"
+      "source": "Megaera",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Fire-Charm Spaulders",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96643
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Chestguard of Coruscating Blades",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95033
     },
     {
       "slot": "Bracers",
       "item": "Bindings of Multiplicative Strikes",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96764
     },
     {
       "slot": "Gloves",
       "item": "Fire-Charm Grips",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96640
     },
     {
       "slot": "Belt",
       "item": "Strap of Murderous Strikes",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 94998
     },
     {
       "slot": "Legs",
       "item": "Fire-Charm Leggings",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96642
     },
     {
       "slot": "Boots",
       "item": "Twist-Toe Tabi",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95007
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Rune of Re-Origination",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96918
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96741
     },
     {
       "slot": "Mainhand",
       "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96907
     }
   ],
   "Holy Paladin": [
     {
       "slot": "Helm",
       "item": "Lightning Emperor's Headguard",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96661
     },
     {
       "slot": "Neck",
       "item": "Horridon's Tusk Fragment",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96774
     },
     {
       "slot": "Shoulders",
       "item": "Lightning Emperor's Mantle",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96663
     },
     {
       "slot": "Cloak",
       "item": "Shimmershell Cape",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96807
     },
     {
       "slot": "Chest",
       "item": "Ionized Yojamban Carapace",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96760
     },
     {
       "slot": "Bracers",
       "item": "Armplates of the Vanquished Abomination(Mastery)",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Lightning Emperor's Gloves",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96660
     },
     {
       "slot": "Belt",
       "item": "Bubbling Anima Belt",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95001
     },
     {
       "slot": "Legs",
       "item": "Lightning Emperor's Greaves",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96662
     },
     {
       "slot": "Boots",
       "item": "Ice-Scored Treads",
-      "source": "Shared Boss Drop"
+      "source": "Shared Boss Drop",
+      "id": 96832
     },
     {
       "slot": "Ring",
       "item": "Petrified Eye of the Basilisk",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96775
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Horridon's Last Gasp",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96757
     },
     {
       "slot": "Trinket",
       "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96933
     },
     {
       "slot": "Mainhand",
       "item": "Jerthud, Graceful Hand of the Savior",
-      "source": "Shared Boss Drop"
+      "source": "Shared Boss Drop",
+      "id": 96983
     },
     {
       "slot": "Off-hand",
       "item": "Shield of Twinned Despair",
-      "source": "Twin Consorts"
+      "source": "Twin Consorts",
+      "id": 96910
     }
   ],
   "Protection Paladin": [
     {
       "slot": "Helm",
       "item": "Lightning Emperor's Faceguard",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96666
     },
     {
       "slot": "Neck",
       "item": "Amulet of the Primal Turtle",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96801
     },
     {
       "slot": "Shoulders",
       "item": "Lightning Emperor's Shoulderguards",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96668
     },
     {
       "slot": "Cloak",
       "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95017
     },
     {
       "slot": "Chest",
       "item": "Carapace of the Core",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95038
     },
     {
       "slot": "Bracers",
       "item": "Caustic Spike Bracers(Haste)",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Lightning Emperor's Handguards",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96665
     },
     {
       "slot": "Belt",
       "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96745
     },
     {
       "slot": "Legs",
       "item": "Lightning Emperor's Legguards",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96667
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Ring",
       "item": "Band of the Scaled Tyrant",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96872
     },
     {
       "slot": "Trinket",
       "item": "Soul Barrier",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96927
     },
     {
       "slot": "Trinket",
       "item": "Primordius' Talisman of Rage",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96873
     },
     {
       "slot": "Mainhand",
       "item": "Shellsplitter Greataxe",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96802
     },
     {
       "slot": "Off-hand",
       "item": "Greatshield of the Gloaming",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96884
     }
   ],
   "Retribution Paladin": [
     {
       "slot": "Helm",
       "item": "Crown of the Golden Golem",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96894
     },
     {
       "slot": "Neck",
       "item": "Talisman of Angry Spirits",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96792
     },
     {
       "slot": "Shoulders",
       "item": "Lightning Emperor's Pauldrons",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96658
     },
     {
       "slot": "Cloak",
       "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95017
     },
     {
       "slot": "Chest",
       "item": "Lightning Emperor's Battleplate",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96654
     },
     {
       "slot": "Bracers",
       "item": "Caustic Spike Bracersof Haste",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Lightning Emperor's Gauntlets",
-      "source": "Council of Elders"
+      "source": "Council of Elders",
+      "id": 96655
     },
     {
       "slot": "Belt",
       "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96745
     },
     {
       "slot": "Legs",
       "item": "Lightning Emperor's Legplates",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96657
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Band of the Scaled Tyrant",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96872
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Trinket",
       "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96842
     },
     {
       "slot": "Trinket",
       "item": "Primordius' Talisman of Rage",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96873
     },
     {
       "slot": "Mainhand",
       "item": "Greatsword of Frozen Hells",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96991
     }
   ],
   "Discipline Priest": [
     {
       "slot": "Helm",
       "item": "Cowl of the Exorcist",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)"
+      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
+      "id": 96670
     },
     {
       "slot": "Neck",
       "item": "Passionfire Choker",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)"
+      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
+      "id": 96909
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Exorcist",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96673
     },
     {
       "slot": "Cloak",
       "item": "Black Night Thundercloak",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95013
     },
     {
       "slot": "Chest",
       "item": "Robes of the Exorcist",
-      "source": "Dark Animus(Throne of Thunder)"
+      "source": "Dark Animus(Throne of Thunder)",
+      "id": 96672
     },
     {
       "slot": "Bracers",
       "item": "Azure Shell Bracers",
-      "source": "Tortos(Throne of Thunder)"
+      "source": "Tortos(Throne of Thunder)",
+      "id": 96804
     },
     {
       "slot": "Gloves",
       "item": "Handwraps of the Exorcist",
-      "source": "Kazra'jin(Council of Elders, Throne of Thunder)"
+      "source": "Kazra'jin(Council of Elders, Throne of Thunder)",
+      "id": 96669
     },
     {
       "slot": "Belt",
       "item": "Quet'zal's Crackling Cord",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96898
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Discarded Warning",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95030
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-den(Throne of Thunder)"
+      "source": "Ra-den(Throne of Thunder)",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Durumu's Captive Eyeball",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96858
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon(Throne of Thunder)"
+      "source": "Iron Qon(Throne of Thunder)",
+      "id": 96901
     },
     {
       "slot": "Trinket",
       "item": "Horridon's Last Gasp",
-      "source": "Horridon(Throne of Thunder)"
+      "source": "Horridon(Throne of Thunder)",
+      "id": 96757
     },
     {
       "slot": "Trinket",
       "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96933
     },
     {
       "slot": "Mainhand",
       "item": "Ritual Dagger of the Mind's Eye",
-      "source": "Durumu the Forgotten(Throne of Thunder)"
+      "source": "Durumu the Forgotten(Throne of Thunder)",
+      "id": 96859
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen(Throne of Thunder)"
+      "source": "Lei Shen(Throne of Thunder)",
+      "id": 96934
     }
   ],
   "Holy Priest": [
     {
       "slot": "Helm",
       "item": "Cowl of the Exorcist",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96670
     },
     {
       "slot": "Neck",
       "item": "Passionfire Choker",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96909
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Exorcist",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96673
     },
     {
       "slot": "Cloak",
       "item": "Black Night Thundercloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95013
     },
     {
       "slot": "Chest",
       "item": "Robes of the Exorcist",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96672
     },
     {
       "slot": "Bracers",
       "item": "Azure Shell Bracers",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96804
     },
     {
       "slot": "Gloves",
       "item": "Helix-Breaker Gloves",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96876
     },
     {
       "slot": "Belt",
       "item": "Detonation Cord",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 94995
     },
     {
       "slot": "Legs",
       "item": "Legwraps of the Exorcist",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96671
     },
     {
       "slot": "Boots",
       "item": "Treads of Delicate Fascia",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95005
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Evolving Signet",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95018
     },
     {
       "slot": "Ring",
       "item": "Durumu's Captive Eyeball",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96858
     },
     {
       "slot": "Trinket",
       "item": "Horridon's Last Gasp",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96757
     },
     {
       "slot": "Trinket",
       "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96933
     },
     {
       "slot": "Mainhand",
       "item": "Ritual Dagger of the Mind's Eye",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96859
     },
     {
       "slot": "Off-hand",
       "item": "Orb of Arcing Lightning",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96902
     }
   ],
   "Shadow Priest": [
     {
       "slot": "Helm",
       "item": "Hood of the Crimson Wake",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96887
     },
     {
       "slot": "Neck",
       "item": "Soul Prism of Lei Shen",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96932
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderguards of the Exorcist",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96678
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Raiment of the Exorcist",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96677
     },
     {
       "slot": "Bracers",
       "item": "Frostborn Wristwraps(Haste)",
-      "source": "Megaera"
+      "source": "Megaera",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Exorcist",
-      "source": "High Priestess Mar'li"
+      "source": "High Priestess Mar'li",
+      "id": 96674
     },
     {
       "slot": "Belt",
       "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96834
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Exorcist",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96676
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Evolving Signet",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95018
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95019
     },
     {
       "slot": "Trinket",
       "item": "Unerring Vision of Lei Shen",
-      "source": "Megaera"
+      "source": "Megaera",
+      "id": 96930
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "High Priestess Mar'li"
+      "source": "High Priestess Mar'li",
+      "id": 96785
     },
     {
       "slot": "Mainhand",
       "item": "Torall, Rod of the Shattered Throne",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96931
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96934
     }
   ],
   "Assassination Rogue": [
     {
       "slot": "Helm",
       "item": "Lightning-Eye Hood",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96742
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Nine-Tailed Spaulders",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96683
     },
     {
       "slot": "Cloak",
       "item": "Pinionfeather Greatcloak",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96833
     },
     {
       "slot": "Chest",
       "item": "Nine-Tailed Tunic",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96679
     },
     {
       "slot": "Bracers",
       "item": "Bindings of Multiplicative Strikes",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96764
     },
     {
       "slot": "Gloves",
       "item": "Nine-Tailed Gloves",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96680
     },
     {
       "slot": "Belt",
       "item": "Strap of Murderous Strikes",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 94998
     },
     {
       "slot": "Legs",
       "item": "Nine-Tailed Legguards",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96682
     },
     {
       "slot": "Boots",
       "item": "Spurs of the Storm Cavalry",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96903
     },
     {
       "slot": "Ring",
       "item": "Sign of the Bloodied God",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96740
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Shado-Pan AssaultFriendly"
+      "source": "Shado-Pan AssaultFriendly",
+      "id": 94511
     },
     {
       "slot": "Mainhand",
       "item": "Fyn's Flickering Dagger",
-      "source": "Throne of ThunderShared Boss Loot"
+      "source": "Throne of ThunderShared Boss Loot",
+      "id": 96976
     }
   ],
   "Combat Rogue": [
     {
       "slot": "Helm",
       "item": "Lightning-Eye Hood",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96742
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Nine-Tailed Spaulders",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96683
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Nine-Tailed Tunic",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96679
     },
     {
       "slot": "Bracers",
       "item": "Bracers of the Midnight CometHaste",
-      "source": "Lu'lin"
+      "source": "Lu'lin",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Nine-Tailed Gloves",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96680
     },
     {
       "slot": "Belt",
       "item": "Strap of Murderous Strikes",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 94998
     },
     {
       "slot": "Legs",
       "item": "Nine-Tailed Legguards",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96682
     },
     {
       "slot": "Boots",
       "item": "Twist-Toe Tabi",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95007
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95021
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96885
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Bad Juju",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96781
     },
     {
       "slot": "Mainhand",
       "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Lu'lin"
+      "source": "Lu'lin",
+      "id": 96907
     }
   ],
   "Subtlety Rogue": [
     {
       "slot": "Helm",
       "item": "Lightning-Eye Hood",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96742
     },
     {
       "slot": "Neck",
       "item": "Quadra-Head Brooch",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96815
     },
     {
       "slot": "Shoulders",
       "item": "Nine-Tailed Spaulders",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96683
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Nine-Tailed Tunic",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96679
     },
     {
       "slot": "Bracers",
       "item": "Bindings of Multiplicative Strikes",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96764
     },
     {
       "slot": "Gloves",
       "item": "Nine-Tailed Gloves",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96680
     },
     {
       "slot": "Belt",
       "item": "Strap of Murderous Strikes",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 94998
     },
     {
       "slot": "Legs",
       "item": "Nine-Tailed Legguards",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96682
     },
     {
       "slot": "Boots",
       "item": "Spurs of the Storm Cavalry",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96903
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96885
     },
     {
       "slot": "Ring",
       "item": "Sign of the Bloodied God",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96740
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Shado-Pan AssaultFriendly"
+      "source": "Shado-Pan AssaultFriendly",
+      "id": 94511
     },
     {
       "slot": "Mainhand",
       "item": "Fyn's Flickering Dagger",
-      "source": "Throne of ThunderShared Boss Loot"
+      "source": "Throne of ThunderShared Boss Loot",
+      "id": 96976
     }
   ],
   "Elemental Shaman": [
     {
       "slot": "Helm",
       "item": "Clear-Mind Helm",
-      "source": "PrimordiusinThrone of Thunder"
+      "source": "PrimordiusinThrone of Thunder",
+      "id": 96881
     },
     {
       "slot": "Neck",
       "item": "Soul Prism of Lei Shen",
-      "source": "Lei SheninThrone of Thunder"
+      "source": "Lei SheninThrone of Thunder",
+      "id": 96932
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderwraps of the Witch Doctor",
-      "source": "Iron QoninThrone of Thunder"
+      "source": "Iron QoninThrone of Thunder",
+      "id": 96698
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgotteninThrone of Thunder"
+      "source": "Durumu the ForgotteninThrone of Thunder",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Hauberk of the Witch Doctor",
-      "source": "Dark AnimusinThrone of Thunder"
+      "source": "Dark AnimusinThrone of Thunder",
+      "id": 96694
     },
     {
       "slot": "Bracers",
       "item": "Loa-Ridden Bracers",
-      "source": "Council of EldersinThrone of Thunder"
+      "source": "Council of EldersinThrone of Thunder",
+      "id": 96789
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Witch Doctor",
-      "source": "Council of EldersinThrone of Thunder"
+      "source": "Council of EldersinThrone of Thunder",
+      "id": 96695
     },
     {
       "slot": "Belt",
       "item": "Longdraw Chain Belt",
-      "source": "Ra-deninThrone of Thunder"
+      "source": "Ra-deninThrone of Thunder",
+      "id": 94999
     },
     {
       "slot": "Legs",
       "item": "Kilt of the Witch Doctor",
-      "source": "Ji-KuninThrone of Thunder"
+      "source": "Ji-KuninThrone of Thunder",
+      "id": 96697
     },
     {
       "slot": "Boots",
       "item": "Ghostbinder Greatboots",
-      "source": "Jin'rokh the BreakerinThrone of Thunder"
+      "source": "Jin'rokh the BreakerinThrone of Thunder",
+      "id": 96759
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-deninThrone of Thunder"
+      "source": "Ra-deninThrone of Thunder",
+      "id": 95019
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Evolving Signet",
-      "source": "Ra-deninThrone of Thunder"
+      "source": "Ra-deninThrone of Thunder",
+      "id": 95018
     },
     {
       "slot": "Trinket",
       "item": "Breath of the Hydra",
-      "source": "Flaming HeadinThrone of Thunder"
+      "source": "Flaming HeadinThrone of Thunder",
+      "id": 96827
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "Council of EldersinThrone of Thunder"
+      "source": "Council of EldersinThrone of Thunder",
+      "id": 96785
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusinThrone of Thunder"
+      "source": "Dark AnimusinThrone of Thunder",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Shield of Twinned Despair",
-      "source": "Twin ConsortsinThrone of Thunder"
+      "source": "Twin ConsortsinThrone of Thunder",
+      "id": 96910
     }
   ],
   "Enhancement Shaman": [
     {
       "slot": "Helm",
       "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li"
+      "source": "High Priestess Mar'li",
+      "id": 96788
     },
     {
       "slot": "Neck",
       "item": "Talisman of Living Poison",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96762
     },
     {
       "slot": "Shoulders",
       "item": "Abandoned Spaulders of Arrowflight",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96986
     },
     {
       "slot": "Cloak",
       "item": "Grey Wind Mistcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95015
     },
     {
       "slot": "Chest",
       "item": "Scales of Shaped Flesh",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95034
     },
     {
       "slot": "Bracers",
       "item": "Beady-Eye Bracers",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96797
     },
     {
       "slot": "Gloves",
       "item": "Synapse-String Handguards",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96867
     },
     {
       "slot": "Belt",
       "item": "Jingling Fetishgirdle",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95000
     },
     {
       "slot": "Legs",
       "item": "Conduit-Breaker Chain Leggings",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96921
     },
     {
       "slot": "Boots",
       "item": "Treads of the Sanguine Volley",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95009
     },
     {
       "slot": "Ring",
       "item": "Gore-Soaked Gear",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96885
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Swift Seal",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95021
     },
     {
       "slot": "Trinket",
       "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker"
+      "source": "Jin'rokh the Breaker",
+      "id": 96741
     },
     {
       "slot": "Trinket",
       "item": "Bad Juju",
-      "source": "High Priestess Mar'li"
+      "source": "High Priestess Mar'li",
+      "id": 96781
     },
     {
       "slot": "Mainhand",
       "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96907
     },
     {
       "slot": "Off-hand",
       "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96907
     }
   ],
   "Restoration Shaman": [
     {
       "slot": "Helm",
       "item": "Clear-Mind Helm",
-      "source": "PrimordiusinThrone of Thunder"
+      "source": "PrimordiusinThrone of Thunder",
+      "id": 96881
     },
     {
       "slot": "Neck",
       "item": "Soul Prism of Lei Shen",
-      "source": "Lei SheninThrone of Thunder"
+      "source": "Lei SheninThrone of Thunder",
+      "id": 96932
     },
     {
       "slot": "Shoulders",
       "item": "Abandoned Spaulders of Renewal",
-      "source": "Council of EldersinThrone of Thunder"
+      "source": "Council of EldersinThrone of Thunder",
+      "id": 96987
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgotteninThrone of Thunder"
+      "source": "Durumu the ForgotteninThrone of Thunder",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Tunic of the Witch Doctor",
-      "source": "Dark AnimusinThrone of Thunder"
+      "source": "Dark AnimusinThrone of Thunder",
+      "id": 96684
     },
     {
       "slot": "Bracers",
       "item": "Loa-Ridden Bracers",
-      "source": "Council of EldersinThrone of Thunder"
+      "source": "Council of EldersinThrone of Thunder",
+      "id": 96789
     },
     {
       "slot": "Gloves",
       "item": "Handwraps of the Witch Doctor",
-      "source": "Council of EldersinThrone of Thunder"
+      "source": "Council of EldersinThrone of Thunder",
+      "id": 96685
     },
     {
       "slot": "Belt",
       "item": "Longdraw Chain Belt",
-      "source": "Ra-deninThrone of Thunder"
+      "source": "Ra-deninThrone of Thunder",
+      "id": 94999
     },
     {
       "slot": "Legs",
       "item": "Legguards of Scintillating Scales",
-      "source": "HorridoninThrone of Thunder"
+      "source": "HorridoninThrone of Thunder",
+      "id": 96779
     },
     {
       "slot": "Boots",
       "item": "World-Mote Sabatons",
-      "source": "Ra-deninThrone of Thunder"
+      "source": "Ra-deninThrone of Thunder",
+      "id": 95008
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron QoninThrone of Thunder"
+      "source": "Iron QoninThrone of Thunder",
+      "id": 96901
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Evolving Signet",
-      "source": "Ra-deninThrone of Thunder"
+      "source": "Ra-deninThrone of Thunder",
+      "id": 95018
     },
     {
       "slot": "Trinket",
       "item": "Lightning-Imbued Chalice",
-      "source": "Lei SheninThrone of Thunder"
+      "source": "Lei SheninThrone of Thunder",
+      "id": 96933
     },
     {
       "slot": "Trinket",
       "item": "Horridon's Last Gasp",
-      "source": "HorridoninThrone of Thunder"
+      "source": "HorridoninThrone of Thunder",
+      "id": 96757
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusinThrone of Thunder"
+      "source": "Dark AnimusinThrone of Thunder",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Tortos' Discarded Shell",
-      "source": "TortosinThrone of Thunder"
+      "source": "TortosinThrone of Thunder",
+      "id": 96808
     }
   ],
   "Affliction Warlock": [
     {
       "slot": "Helm",
       "item": "Hood of the Crimson Wake",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96887
     },
     {
       "slot": "Neck",
       "item": "Necklace of the Terra-Cotta Invoker",
-      "source": "Trash MobsThrone of Thunder"
+      "source": "Trash MobsThrone of Thunder",
+      "id": 97080
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Thousandfold Hells",
-      "source": "Iron QonThrone of Thunder"
+      "source": "Iron QonThrone of Thunder",
+      "id": 96729
     },
     {
       "slot": "Cloak",
       "item": "Red Sky Cloudcloak",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95014
     },
     {
       "slot": "Chest",
       "item": "Robes of the Thousandfold Hells",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96728
     },
     {
       "slot": "Bracers",
       "item": "Frostborn WristwrapsHaste",
-      "source": "Flaming HeadThrone of Thunder"
+      "source": "Flaming HeadThrone of Thunder",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Lifedrainer's Sordid Grip",
-      "source": "Durumu the ForgottenThrone of Thunder"
+      "source": "Durumu the ForgottenThrone of Thunder",
+      "id": 96854
     },
     {
       "slot": "Belt",
       "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-KunThrone of Thunder"
+      "source": "Ji-KunThrone of Thunder",
+      "id": 96834
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Discarded Warning",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95030
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron QonThrone of Thunder"
+      "source": "Iron QonThrone of Thunder",
+      "id": 96901
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95019
     },
     {
       "slot": "Trinket",
       "item": "Unerring Vision of Lei Shen",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96930
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "High Priestess Mar'liThrone of Thunder"
+      "source": "High Priestess Mar'liThrone of Thunder",
+      "id": 96785
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96934
     }
   ],
   "Demonology Warlock": [
     {
       "slot": "Helm",
       "item": "Hood of the Crimson Wake",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96887
     },
     {
       "slot": "Neck",
       "item": "Necklace of the Terra-Cotta Invoker",
-      "source": "Trash MobsThrone of Thunder"
+      "source": "Trash MobsThrone of Thunder",
+      "id": 97080
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Thousandfold Hells",
-      "source": "Iron QonThrone of Thunder"
+      "source": "Iron QonThrone of Thunder",
+      "id": 96729
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgottenThrone of Thunder"
+      "source": "Durumu the ForgottenThrone of Thunder",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Robes of the Thousandfold Hells",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96728
     },
     {
       "slot": "Bracers",
       "item": "Frostborn WristwrapsMastery",
-      "source": "Flaming HeadThrone of Thunder"
+      "source": "Flaming HeadThrone of Thunder",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Lifedrainer's Sordid Grip",
-      "source": "Durumu the ForgottenThrone of Thunder"
+      "source": "Durumu the ForgottenThrone of Thunder",
+      "id": 96854
     },
     {
       "slot": "Belt",
       "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-KunThrone of Thunder"
+      "source": "Ji-KunThrone of Thunder",
+      "id": 96834
     },
     {
       "slot": "Legs",
       "item": "Legwraps of Cardinality",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96928
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron QonThrone of Thunder"
+      "source": "Iron QonThrone of Thunder",
+      "id": 96901
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95019
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96785
     },
     {
       "slot": "Trinket",
       "item": "Unerring Vision of Lei Shen",
-      "source": "Kazra'jinThrone of Thunder"
+      "source": "Kazra'jinThrone of Thunder",
+      "id": 96930
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96934
     }
   ],
   "Destruction Warlock": [
     {
       "slot": "Helm",
       "item": "Hood of the Crimson Wake",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96887
     },
     {
       "slot": "Neck",
       "item": "Necklace of the Terra-Cotta Invoker",
-      "source": "Trash MobsThrone of Thunder"
+      "source": "Trash MobsThrone of Thunder",
+      "id": 97080
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Thousandfold Hells",
-      "source": "Iron QonThrone of Thunder"
+      "source": "Iron QonThrone of Thunder",
+      "id": 96729
     },
     {
       "slot": "Cloak",
       "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgottenThrone of Thunder"
+      "source": "Durumu the ForgottenThrone of Thunder",
+      "id": 96857
     },
     {
       "slot": "Chest",
       "item": "Robes of the Thousandfold Hells",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96728
     },
     {
       "slot": "Bracers",
       "item": "Frostborn WristwrapsMastery",
-      "source": "Flaming HeadThrone of Thunder"
+      "source": "Flaming HeadThrone of Thunder",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Lifedrainer's Sordid Grip",
-      "source": "Durumu the ForgottenThrone of Thunder"
+      "source": "Durumu the ForgottenThrone of Thunder",
+      "id": 96854
     },
     {
       "slot": "Belt",
       "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-KunThrone of Thunder"
+      "source": "Ji-KunThrone of Thunder",
+      "id": 96834
     },
     {
       "slot": "Legs",
       "item": "Legwraps of Cardinality",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96928
     },
     {
       "slot": "Boots",
       "item": "Starwalker Sandals",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95004
     },
     {
       "slot": "Ring",
       "item": "Ro'shak's Remembrance",
-      "source": "Iron QonThrone of Thunder"
+      "source": "Iron QonThrone of Thunder",
+      "id": 96901
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Summoning Band",
-      "source": "Ra-denThrone of Thunder"
+      "source": "Ra-denThrone of Thunder",
+      "id": 95019
     },
     {
       "slot": "Trinket",
       "item": "Wushoolay's Final Choice",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96785
     },
     {
       "slot": "Trinket",
       "item": "Unerring Vision of Lei Shen",
-      "source": "Kazra'jinThrone of Thunder"
+      "source": "Kazra'jinThrone of Thunder",
+      "id": 96930
     },
     {
       "slot": "Mainhand",
       "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusThrone of Thunder"
+      "source": "Dark AnimusThrone of Thunder",
+      "id": 96890
     },
     {
       "slot": "Off-hand",
       "item": "Lei Shen's Orb of Command",
-      "source": "Lei ShenThrone of Thunder"
+      "source": "Lei ShenThrone of Thunder",
+      "id": 96934
     }
   ],
   "Arms Warrior": [
     {
       "slot": "Helm",
       "item": "Crown of the Golden Golem",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96894
     },
     {
       "slot": "Neck",
       "item": "Talisman of Angry Spirits",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96792
     },
     {
       "slot": "Shoulders",
       "item": "Pauldrons of the Last Mogu",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96734
     },
     {
       "slot": "Cloak",
       "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95017
     },
     {
       "slot": "Chest",
       "item": "Battleplate of the Last Mogu",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96731
     },
     {
       "slot": "Bracers",
       "item": "Caustic Spike BracersCritical Strike",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Gauntlets of the Last Mogu",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96732
     },
     {
       "slot": "Belt",
       "item": "Flare-Forged Greatbelt",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95003
     },
     {
       "slot": "Legs",
       "item": "Legplates of the Last Mogu",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96733
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Ring",
       "item": "Band of the Scaled Tyrant",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96872
     },
     {
       "slot": "Trinket",
       "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96842
     },
     {
       "slot": "Trinket",
       "item": "Primordius' Talisman of Rage",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96873
     },
     {
       "slot": "Mainhand",
       "item": "Uroe, Harbinger of Terror",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96925
     }
   ],
   "Fury Warrior": [
     {
       "slot": "Helm",
       "item": "Crown of the Golden Golem",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96894
     },
     {
       "slot": "Neck",
       "item": "Talisman of Angry Spirits",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96792
     },
     {
       "slot": "Shoulders",
       "item": "Pauldrons of the Last Mogu",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96734
     },
     {
       "slot": "Cloak",
       "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95017
     },
     {
       "slot": "Chest",
       "item": "Battleplate of the Last Mogu",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96731
     },
     {
       "slot": "Bracers",
       "item": "Caustic Spike BracersCritical Strike",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Gloves",
       "item": "Gauntlets of the Last Mogu",
-      "source": "Kazra'jin"
+      "source": "Kazra'jin",
+      "id": 96732
     },
     {
       "slot": "Belt",
       "item": "Flare-Forged Greatbelt",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95003
     },
     {
       "slot": "Legs",
       "item": "Legplates of the Last Mogu",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96733
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Spinescale Seal",
-      "source": "Flaming Head"
+      "source": "Flaming Head",
+      "id": 96820
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95022
     },
     {
       "slot": "Trinket",
       "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96842
     },
     {
       "slot": "Trinket",
       "item": "Primordius' Talisman of Rage",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96873
     },
     {
       "slot": "Mainhand",
       "item": "Uroe, Harbinger of Terror",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96925
     }
   ],
   "Protection Warrior": [
     {
       "slot": "Helm",
       "item": "Puncture-Proof Greathelm",
-      "source": "Horridon"
+      "source": "Horridon",
+      "id": 96768
     },
     {
       "slot": "Neck",
       "item": "Moonjade Necklace",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96916
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderguards of the Last Mogu",
-      "source": "Iron Qon"
+      "source": "Iron Qon",
+      "id": 96739
     },
     {
       "slot": "Cloak",
       "item": "White Snow Skycloak",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95016
     },
     {
       "slot": "Chest",
       "item": "Chestguard of the Last Mogu",
-      "source": "Dark Animus"
+      "source": "Dark Animus",
+      "id": 96735
     },
     {
       "slot": "Bracers",
       "item": "Shell-Coated Wristplates",
-      "source": "Tortos"
+      "source": "Tortos",
+      "id": 96800
     },
     {
       "slot": "Gloves",
       "item": "Handguards of the Last Mogu",
-      "source": "High Priestess Mar'li"
+      "source": "High Priestess Mar'li",
+      "id": 96736
     },
     {
       "slot": "Belt",
       "item": "Cracklesnap Clasp",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95002
     },
     {
       "slot": "Legs",
       "item": "Legguards of the Last Mogu",
-      "source": "Ji-Kun"
+      "source": "Ji-Kun",
+      "id": 96738
     },
     {
       "slot": "Boots",
       "item": "Sabatons of the Superior Being",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95012
     },
     {
       "slot": "Ring",
       "item": "Ra-den's Contemplative Loop",
-      "source": "Ra-den"
+      "source": "Ra-den",
+      "id": 95020
     },
     {
       "slot": "Ring",
       "item": "Durumu's Severed Tentacle",
-      "source": "Durumu the Forgotten"
+      "source": "Durumu the Forgotten",
+      "id": 96853
     },
     {
       "slot": "Trinket",
       "item": "Soul Barrier",
-      "source": "Lei Shen"
+      "source": "Lei Shen",
+      "id": 96927
     },
     {
       "slot": "Trinket",
       "item": "Gaze of the Twins",
-      "source": "Suen"
+      "source": "Suen",
+      "id": 96915
     },
     {
       "slot": "Mainhand",
       "item": "Acid-Spine Bonemace",
-      "source": "Primordius"
+      "source": "Primordius",
+      "id": 96874
     },
     {
       "slot": "Off-hand",
       "item": "Visage of the Doomed",
-      "source": "Shared Loot Table inThrone of Thunder"
+      "source": "Shared Loot Table inThrone of Thunder",
+      "id": 96994
     }
   ]
 }
