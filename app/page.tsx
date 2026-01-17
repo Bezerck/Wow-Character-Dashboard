@@ -206,17 +206,6 @@ export default function Page() {
     try {
       const parsed = JSON.parse(rawInput) as CharacterData;
       // Normalize potentially missing arrays/objects to avoid runtime map errors
-      // Ensure gear items array has exactly 15 slots, padding with empty items if needed
-      const gearItems = Array.isArray(parsed.gear?.items)
-        ? parsed.gear.items
-        : [];
-      // Pad array to 15 items if it's shorter
-      while (gearItems.length < 15) {
-        gearItems.push({ id: 0 });
-      }
-      // Trim to 15 items if it's longer
-      const paddedGearItems = gearItems.slice(0, 15);
-
       const normalized: CharacterData = {
         ...parsed,
         professions: Array.isArray(parsed.professions)
@@ -764,6 +753,8 @@ export default function Page() {
                           if (matchedPattern) {
                             const equippedSetPieces =
                               character.gear.items.filter((i) => {
+                                if (!i || i.id === 0 || i.id === undefined)
+                                  return false;
                                 const iInfo = itemMap.get(i.id);
                                 return iInfo?.name
                                   ? matchedPattern.test(iInfo.name)
