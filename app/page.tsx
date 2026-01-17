@@ -217,7 +217,7 @@ export default function Page() {
         },
         gear: {
           version: parsed.gear?.version || "",
-          items: paddedGearItems,
+          items: Array.isArray(parsed.gear?.items) ? parsed.gear.items : [],
         },
       };
       setCharacter(normalized);
