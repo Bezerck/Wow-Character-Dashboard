@@ -26,28 +26,6 @@ export default function Page() {
   const [dbError, setDbError] = useState<string | null>(null);
   const [wowSimsUrl, setWowSimsUrl] = useState<string>("");
   const [showWowsims, setShowWowsims] = useState<boolean>(false);
-  const backgroundUrl = `https://render.worldofwarcraft.com/eu/profile-backgrounds/v2/armory_bg_class_${character?.class}.jpg`;
-  // Id is on this format: "Player-4454-0519C305"
-  // Take the last number "0519C305" and convert it to decimal
-  const characterId = character?.id
-    ? parseInt(character.id.split("-").pop() || "0", 16)
-    : 0;
-  // Normalize realm for URLs:
-  // - replace spaces with hyphens
-  // - insert hyphen between camelCase / PascalCase boundaries (e.g. MirageRaceway -> Mirage-Raceway)
-  // - lowercase the result
-  const formatRealmForUrl = (r?: string) =>
-    (r || "")
-      .replace(/\s+/g, "-")
-      .replace(/([a-z0-9])([A-Z])/g, "$1-$2")
-      .replace(/([A-Z])([A-Z][a-z])/g, "$1-$2")
-      .toLowerCase();
-
-  const avatarUrl = character?.id
-    ? `https://render.worldofwarcraft.com/classic-eu/character/${formatRealmForUrl(
-        character?.realm
-      )}/${characterId % 256}/${characterId}-avatar.jpg`
-    : "https://render.worldofwarcraft.com/shadow/avatar/9-1.jpg";
 
   // Lookup maps
   const [itemMap, setItemMap] = useState<Map<number, DBItem>>(new Map());
@@ -55,6 +33,115 @@ export default function Page() {
     new Map()
   );
   const [gemMap, setGemMap] = useState<Map<number, DBGem>>(new Map());
+  // Extracted render URLs from proxy HTML
+  const [renderUrls, setRenderUrls] = useState<string[]>([]);
+  const [backgroundUrl, setBackgroundUrl] = useState<string | null>(null);
+
+  // Per-character avatar/cache refs to avoid re-fetching when switching tabs
+  const avatarCacheRef = useRef<
+    Map<string, { renderUrls: string[]; backgroundUrl: string | null }>
+  >(new Map());
+  const avatarPromisesRef = useRef<Map<string, Promise<void>>>(new Map());
+
+  // Fetch avatar/render URLs for the current character when it changes.
+  // Uses an in-memory cache keyed by `${region}|${realmForUrl}|${charName}` to
+  // avoid duplicate proxy requests when switching between tabs with the same character.
+  useEffect(() => {
+    if (!character) return;
+
+    const rawRealm = character.realm || "";
+    const usRealms = [
+      "Angerforge",
+      "Arugal",
+      "Ashkandi",
+      "Atiesh",
+      "Azuresong",
+      "Benediction",
+      "Bloodsail",
+      "Earthfury",
+      "Eranikus",
+      "Faerlina",
+      "Galakras",
+      "Grobbulus",
+      "Immerseus",
+      "Lei",
+      "Maladath",
+      "Mankrik",
+      "Myzrael",
+      "Nazgrim",
+      "Old",
+      "Pagle",
+      "Ra-den",
+      "Remulos",
+      "Skyfury",
+      "Sulfuras",
+      "Westfall",
+      "Whitemane",
+      "Windseeker",
+      "Yojamba",
+    ];
+    const isUS = usRealms.includes(rawRealm);
+    const region = isUS ? "us" : "eu";
+    const realmForUrl = rawRealm.replace(/\s+/g, "");
+    const charName = character.name;
+    if (!charName) return;
+
+    const key = `${region}|${realmForUrl}|${charName}`;
+
+    // If cached, apply immediately
+    const cached = avatarCacheRef.current.get(key);
+    if (cached) {
+      setRenderUrls(cached.renderUrls);
+      setBackgroundUrl(cached.backgroundUrl);
+      return;
+    }
+
+    // If a fetch is already in progress for this key, wait for it and apply when done
+    const inFlight = avatarPromisesRef.current.get(key);
+    if (inFlight) {
+      inFlight.then(() => {
+        const c = avatarCacheRef.current.get(key);
+        if (c) {
+          setRenderUrls(c.renderUrls);
+          setBackgroundUrl(c.backgroundUrl);
+        }
+      });
+      return;
+    }
+
+    const fetchPromise = (async () => {
+      try {
+        const target = encodeURIComponent(
+          `https://classic.warcraftlogs.com/character/${region}/${realmForUrl}/${charName}`
+        );
+        const res = await fetch(`/api/proxy?url=${target}`);
+        if (!res.ok) throw new Error("Proxy fetch failed: " + res.status);
+        const html = await res.text();
+
+        const re = new RegExp(
+          "https?:\\/\\/render\\.worldofwarcraft\\.com\\/[^\"'\\s<>)]*",
+          "g"
+        );
+        const matches = html.match(re) || [];
+        const unique = Array.from(new Set(matches));
+        const bg =
+          unique.find((u) => u.includes("profile-backgrounds")) || null;
+
+        avatarCacheRef.current.set(key, {
+          renderUrls: unique,
+          backgroundUrl: bg,
+        });
+        setRenderUrls(unique);
+        setBackgroundUrl(bg);
+      } catch (e) {
+        console.warn("Avatar proxy fetch failed:", e);
+      } finally {
+        avatarPromisesRef.current.delete(key);
+      }
+    })();
+
+    avatarPromisesRef.current.set(key, fetchPromise);
+  }, [character]);
 
   // Load multi-characters from localStorage
   useEffect(() => {
@@ -206,6 +293,17 @@ export default function Page() {
     try {
       const parsed = JSON.parse(rawInput) as CharacterData;
       // Normalize potentially missing arrays/objects to avoid runtime map errors
+      // Ensure gear items array has exactly 15 slots, padding with empty items if needed
+      const gearItems = Array.isArray(parsed.gear?.items)
+        ? parsed.gear.items
+        : [];
+      // Pad array to 15 items if it's shorter
+      while (gearItems.length < 15) {
+        gearItems.push({ id: 0 });
+      }
+      // Trim to 15 items if it's longer
+      const paddedGearItems = gearItems.slice(0, 15);
+
       const normalized: CharacterData = {
         ...parsed,
         professions: Array.isArray(parsed.professions)
@@ -217,7 +315,7 @@ export default function Page() {
         },
         gear: {
           version: parsed.gear?.version || "",
-          items: Array.isArray(parsed.gear?.items) ? parsed.gear.items : [],
+          items: paddedGearItems,
         },
       };
       setCharacter(normalized);
@@ -481,7 +579,7 @@ export default function Page() {
                         const rawRealm = character.realm || "";
                         const isUS = usRealms.includes(rawRealm);
                         const region = isUS ? "us" : "eu";
-                        const realmForUrl = formatRealmForUrl(rawRealm);
+                        const realmForUrl = rawRealm.replace(/\s+/g, "");
                         const charName = character.name;
                         const warcraftLogsUrl = `https://classic.warcraftlogs.com/character/${region}/${realmForUrl}/${charName}`;
                         const isDisabled = !charName;
@@ -520,7 +618,11 @@ export default function Page() {
                 <div className="flex flex-col md:flex-row md:items-start gap-4 md:gap-6 mb-4">
                   <div className="flex md:flex-col items-center md:items-start gap-3 md:gap-0">
                     <img
-                      src={avatarUrl}
+                      src={
+                        renderUrls && renderUrls.length > 0
+                          ? renderUrls[renderUrls.length - 1]
+                          : "https://render.worldofwarcraft.com/classic-eu/character/mirage-raceway/46/95754798-avatar.jpg"
+                      }
                       alt="Character Avatar"
                       className="rounded-lg shadow w-36 h-36 md:w-40 md:h-40 object-cover mx-auto"
                     />
@@ -665,6 +767,26 @@ export default function Page() {
                     </thead>
                     <tbody>
                       {character?.gear?.items.map((it, idx) => {
+                        // Skip empty slots (id 0 = placeholder for removed items)
+                        if (!it || it.id === 0 || it.id === undefined) {
+                          return (
+                            <tr
+                              key={`empty-${idx}`}
+                              className="border-b border-gray-800"
+                            >
+                              <td className="py-2 pr-2 font-medium text-gray-300 whitespace-nowrap align-top">
+                                {SLOT_LABELS[idx] || idx}
+                              </td>
+                              <td
+                                colSpan={7}
+                                className="py-2 pr-2 text-xs text-gray-500"
+                              >
+                                Empty slot
+                              </td>
+                            </tr>
+                          );
+                        }
+
                         const {
                           bis,
                           bisItem,
