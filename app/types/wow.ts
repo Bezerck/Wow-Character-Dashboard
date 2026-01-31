@@ -41,7 +41,7 @@ export interface DBItem {
   name: string;
   icon?: string;
   quality?: number;
-  scalingOptions?: number[];
+  scalingOptions?: any[];
 }
 export interface DBEnchant {
   spellId: number;

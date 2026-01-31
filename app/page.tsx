@@ -293,6 +293,27 @@ export default function Page() {
     ? getBisListForSpec(character.class, character.spec)
     : [];
 
+  // Calculate average item level
+  const avgItemLevel = React.useMemo(() => {
+    if (!character?.gear?.items || itemMap.size === 0) return 0;
+    
+    const equippedItems = character.gear.items.filter(
+      (it) => it && it.id && it.id !== 0
+    );
+    console.log(equippedItems);
+    
+    
+    if (equippedItems.length === 0) return 0;
+    
+    const totalItemLevel = equippedItems.reduce((sum, it) => {
+      const info = itemMap.get(it.id);
+      const ilvl = info?.scalingOptions?.[it.upgrade_step ?? 0].ilvl ?? 0;  
+      return sum + ilvl;
+    }, 0);
+    
+    return Math.round(totalItemLevel / equippedItems.length);
+  }, [character, itemMap]);
+
   return (
     <div className="p-4 md:p-8 space-y-6 max-w-7xl mx-auto">
       {/* Character Tabs */}
@@ -551,6 +572,10 @@ export default function Page() {
                         <span className="text-gray-400">Level:</span>{" "}
                         {character.level}
                       </div>
+                      <div>
+                        <span className="text-gray-400">Item Level:</span>{" "}
+                        {avgItemLevel}
+                      </div>
                       <div className="basis-full space-y-1 mt-2">
                         <h3 className="font-medium mb-1 text-sm uppercase text-gray-400">
                           Talents
@@ -696,7 +721,9 @@ export default function Page() {
                           idx,
                           it.id,
                           character.gear.items,
-                          bisList
+                          bisList,
+                          itemMap,
+                          it.upgrade_step
                         );
                         const info = itemMap.get(it.id);
                         const bisInfo = bisId ? itemMap.get(bisId) : undefined;
