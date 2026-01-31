@@ -1,4 +1,4 @@
-import { BisListJson, BisItem } from "../types/wow";
+import { BisListJson, BisItem, DBItem } from "../types/wow";
 import bisListRawJson from "../../bis_list_with_ids.json";
 import { SLOT_LABELS } from "../constants";
 
@@ -36,8 +36,10 @@ export interface BisEvaluationResult {
 export const evaluateBisForSlot = (
   idx: number,
   itemId: number,
-  characterItems: { id: number }[],
-  bisList: BisItem[]
+  characterItems: { id: number; upgrade_step?: number }[],
+  bisList: BisItem[],
+  itemMap?: Map<number, DBItem>,
+  equippedItemUpgradeStep?: number
 ): BisEvaluationResult => {
   let bisItem = bisList[idx];
   let bisId = bisItem?.id;
@@ -52,7 +54,24 @@ export const evaluateBisForSlot = (
     );
     const ringBisIds = ringBisItems.map((b) => b.id);
     const equippedRingIds = [characterItems[10]?.id, characterItems[11]?.id];
+    
+    // Check exact ID match OR same name with ilvl >= 541
     bis = ringBisIds.includes(itemId);
+    if (!bis && itemMap) {
+      const equippedItem = itemMap.get(itemId);
+      if (equippedItem?.name) {
+        const upgradeStep = equippedItemUpgradeStep ?? 0;
+        const ilvl = equippedItem.scalingOptions?.[upgradeStep]?.ilvl ?? 0;
+        if (ilvl >= 541) {
+          // Check if any BiS ring has the same name
+          bis = ringBisItems.some((bisRing) => {
+            const bisRingInfo = itemMap.get(bisRing.id);
+            return bisRingInfo?.name === equippedItem.name;
+          });
+        }
+      }
+    }
+    
     bisId = bis ? itemId : ringBisIds[idx - 10] || ringBisIds[0];
     bisItem =
       ringBisItems.find((b) => b.id === bisId) ||
@@ -82,7 +101,24 @@ export const evaluateBisForSlot = (
     );
     const trinketBisIds = trinketBisItems.map((b) => b.id);
     const equippedTrinketIds = [characterItems[12]?.id, characterItems[13]?.id];
+    
+    // Check exact ID match OR same name with ilvl >= 541
     bis = trinketBisIds.includes(itemId);
+    if (!bis && itemMap) {
+      const equippedItem = itemMap.get(itemId);
+      if (equippedItem?.name) {
+        const upgradeStep = equippedItemUpgradeStep ?? 0;
+        const ilvl = equippedItem.scalingOptions?.[upgradeStep]?.ilvl ?? 0;
+        if (ilvl >= 541) {
+          // Check if any BiS trinket has the same name
+          bis = trinketBisItems.some((bisTrinket) => {
+            const bisTrinketInfo = itemMap.get(bisTrinket.id);
+            return bisTrinketInfo?.name === equippedItem.name;
+          });
+        }
+      }
+    }
+    
     bisId = bis ? itemId : trinketBisIds[idx - 12] || trinketBisIds[0];
     bisItem =
       trinketBisItems.find((b) => b.id === bisId) ||
@@ -107,7 +143,27 @@ export const evaluateBisForSlot = (
       }
     }
   } else {
-    bis = itemId === bisId;
+    // For regular slots, check if it's the exact same item ID
+    // OR if it has the same item name AND ilvl >= 541 (for Heroic Thunderforged)
+    if (itemId === bisId) {
+      bis = true;
+    } else if (itemMap && bisId) {
+      const equippedItem = itemMap.get(itemId);
+      const bisItemInfo = itemMap.get(bisId);
+
+      if (
+      equippedItem?.name &&
+      bisItemInfo?.name &&
+      equippedItem.name === bisItemInfo.name
+      ) {
+      const upgradeStep = equippedItemUpgradeStep ?? 0;
+      const ilvl = equippedItem.scalingOptions?.[upgradeStep]?.ilvl ?? 0;
+      if (ilvl >= 541) {
+        bis = true;
+      }
+      }
+    }
+
   }
 
   return {
