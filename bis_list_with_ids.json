@@ -2,1503 +2,1491 @@
   "Blood Death Knight": [
     {
       "slot": "Helm",
-      "item": "Helmet of the All-Consuming Maw",
-      "source": "Suen",
-      "id": 96571
+      "item": "Faceguard of Cyclopean Dread",
+      "source": "Thok the Bloodthirsty",
+      "id": 99323
     },
     {
       "slot": "Neck",
-      "item": "Moonjade Necklace",
-      "source": "Suen",
-      "id": 96916
+      "item": "Choker of the Final Word",
+      "source": "Sha of Pride",
+      "id": 105480
     },
     {
       "slot": "Shoulders",
-      "item": "Pauldrons of the All-Consuming Maw",
-      "source": "Iron Qon",
-      "id": 96573
+      "item": "Shoulderguards of Cyclopean Dread",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99325
     },
     {
       "slot": "Cloak",
-      "item": "White Snow Skycloak",
-      "source": "Ra-den",
-      "id": 95016
+      "item": "Earthbreaker's Steaming Chestplate",
+      "source": "Iron Juggernaut",
+      "id": 105512
     },
     {
       "slot": "Chest",
-      "item": "Breastplate of the All-Consuming Maw",
-      "source": "Dark Animus",
-      "id": 96569
+      "item": "Blood Rage Bracers",
+      "source": "Malkorok",
+      "id": 105564
     },
     {
       "slot": "Bracers",
-      "item": "Shell-Coated Wristplates",
-      "source": "Tortos",
-      "id": 96800
+      "item": "Handguards of Cyclopean Dread",
+      "source": "General Nazgrim",
+      "id": 99331
     },
     {
       "slot": "Gloves",
-      "item": "Gauntlets of the All-Consuming Maw",
-      "source": "High Priestess Mar'li",
-      "id": 96570
+      "item": "Untarnishable Greatbelt",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105587
     },
     {
       "slot": "Belt",
-      "item": "Cracklesnap Clasp",
-      "source": "Ra-den",
-      "id": 95002
+      "item": "Legguards of Cyclopean Dread",
+      "source": "Skeer the Bloodseeker",
+      "id": 99324
     },
     {
       "slot": "Legs",
-      "item": "Black Blood Legplates",
-      "source": "Primordius",
-      "id": 96869
+      "item": "Treads of Unchained Hate",
+      "source": "Immerseus",
+      "id": 105414
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Galakrond Control Band",
+      "source": "Galakras",
+      "id": 105492
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Asgorathian Blood Seal",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105620
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Contemplative Loop",
-      "source": "Ra-den",
-      "id": 95020
+      "item": "Skeer's Bloodsoaked Talisman",
+      "source": "Skeer the Bloodseeker",
+      "id": 105632
     },
     {
       "slot": "Trinket",
-      "item": "Spark of Zandalar",
-      "source": "Horridon",
-      "id": 96770
+      "item": "Vial of Living Corruption",
+      "source": "Malkorok",
+      "id": 105568
     },
     {
       "slot": "Trinket",
-      "item": "Soul Barrier",
-      "source": "Lei Shen",
-      "id": 96927
-    },
-    {
-      "slot": "Mainhand",
-      "item": "Greatsword of Frozen Hells",
-      "source": "Lei Shen",
-      "id": 96991
+      "item": "Xal'atoh, Desecrated Image of Gorehowl",
+      "source": "Garrosh Hellscream",
+      "id": 105644
     }
   ],
   "Frost Death Knight": [
     {
       "slot": "Helm",
-      "item": "Crown of the Golden Golem",
-      "source": "Dark Animus",
-      "id": 96894
+      "item": "Helmet of Cyclopean Dread",
+      "source": "Thok the Bloodthirsty",
+      "id": 99337
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Angry Spirits",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
-      "id": 96792
+      "item": "Malkorok's Tainted Dog Tags",
+      "source": "Malkorok",
+      "id": 105566
     },
     {
       "slot": "Shoulders",
-      "item": "Pauldrons of the All-Consuming Maw",
-      "source": "Iron Qon",
-      "id": 96573
+      "item": "Pauldrons of Cyclopean Dread",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99339
     },
     {
       "slot": "Cloak",
-      "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den",
-      "id": 95017
+      "item": "Breastplate of Cyclopean Dread",
+      "source": "Sha of Pride",
+      "id": 99335
     },
     {
       "slot": "Chest",
-      "item": "Breastplate of the All-Consuming Maw",
-      "source": "Dark Animus",
-      "id": 96569
+      "item": "Bracers of Blind Hatred",
+      "source": "Amalgam of Corruption",
+      "id": 105456
     },
     {
       "slot": "Bracers",
-      "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten",
-      "id": 96476
+      "item": "Gauntlets of Cyclopean Dread",
+      "source": "General Nazgrim",
+      "id": 99336
     },
     {
       "slot": "Gloves",
-      "item": "Gauntlets of the All-Consuming Maw",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
-      "id": 96570
+      "item": "Demolisher's Reinforced Belt",
+      "source": "Iron Juggernaut",
+      "id": 105509
     },
     {
       "slot": "Belt",
-      "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker",
-      "id": 96745
+      "item": "Legplates of Willful Doom",
+      "source": "Malkorok",
+      "id": 105565
     },
     {
       "slot": "Legs",
-      "item": "Greaves of the All-Consuming Maw",
-      "source": "Ji-Kun",
-      "id": 96572
+      "item": "Wolf-Rider Spurs",
+      "source": "Earthbreaker Haromm",
+      "id": 105531
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Devilfang Band",
+      "source": "Thok the Bloodthirsty",
+      "id": 105611
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Bloodclaw Band",
+      "source": "Earthbreaker Haromm",
+      "id": 105534
     },
     {
       "slot": "Ring",
-      "item": "Band of the Scaled Tyrant",
-      "source": "Primordius",
-      "id": 96872
+      "item": "Thok's Tail Tip",
+      "source": "Thok the Bloodthirsty",
+      "id": 105609
     },
     {
       "slot": "Trinket",
-      "item": "Primordius' Talisman of Rage",
-      "source": "Primordius",
-      "id": 96873
+      "item": "Skeer's Bloodsoaked Talisman",
+      "source": "Skeer the Bloodseeker",
+      "id": 105632
     },
     {
       "slot": "Trinket",
-      "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun",
-      "id": 96842
+      "item": "Siegecrafter's Forge Hammer",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105621
     },
     {
       "slot": "Mainhand",
-      "item": "Qon's Flaming Scimitar",
-      "source": "Iron Qon",
-      "id": 96906
-    },
-    {
-      "slot": "Off-hand",
-      "item": "Qon's Flaming Scimitar",
-      "source": "Iron Qon",
-      "id": 96906
+      "item": "Siegecrafter's Forge Hammer",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105621
     }
   ],
   "Unholy Death Knight": [
     {
       "slot": "Helm",
-      "item": "Crown of the Golden Golem",
-      "source": "SuenandLu'lin",
-      "id": 96894
+      "item": "Helmet of Cyclopean Dread",
+      "source": "Thok the Bloodthirsty",
+      "id": 99337
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Angry Spirits",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
-      "id": 96792
+      "item": "Malkorok's Tainted Dog Tags",
+      "source": "Malkorok",
+      "id": 105566
     },
     {
       "slot": "Shoulders",
-      "item": "Pauldrons of the All-Consuming Maw",
-      "source": "Iron Qon",
-      "id": 96573
+      "item": "Pauldrons of Cyclopean Dread",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99339
     },
     {
       "slot": "Cloak",
-      "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den",
-      "id": 95017
+      "item": "Breastplate of Cyclopean Dread",
+      "source": "Sha of Pride",
+      "id": 99335
     },
     {
       "slot": "Chest",
-      "item": "Breastplate of the All-Consuming Maw",
-      "source": "Dark Animus",
-      "id": 96569
+      "item": "Bracers of Blind Hatred",
+      "source": "Amalgam of Corruption",
+      "id": 105456
     },
     {
       "slot": "Bracers",
-      "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten",
-      "id": 96848
+      "item": "Gauntlets of Cyclopean Dread",
+      "source": "General Nazgrim",
+      "id": 99336
     },
     {
       "slot": "Gloves",
-      "item": "Gauntlets of the All-Consuming Maw",
-      "source": "Frost King Malakk,Kazra'jin,Sul the Sandcrawler, andHigh Priestess Mar'li",
-      "id": 96570
+      "item": "Demolisher's Reinforced Belt",
+      "source": "Iron Juggernaut",
+      "id": 105509
     },
     {
       "slot": "Belt",
-      "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker",
-      "id": 96745
+      "item": "Legplates of Willful Doom",
+      "source": "Malkorok",
+      "id": 105565
     },
     {
       "slot": "Legs",
-      "item": "Greaves of the All-Consuming Maw",
-      "source": "Ji-Kun",
-      "id": 96572
+      "item": "Wolf-Rider Spurs",
+      "source": "Earthbreaker Haromm",
+      "id": 105531
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Seal of the Forgotten Kings",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105589
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Asgorathian Blood Seal",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105620
     },
     {
       "slot": "Ring",
-      "item": "Band of the Scaled Tyrant",
-      "source": "Primordius",
-      "id": 96872
+      "item": "Thok's Tail Tip",
+      "source": "Thok the Bloodthirsty",
+      "id": 105609
     },
     {
       "slot": "Trinket",
-      "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun",
-      "id": 96842
+      "item": "Evil Eye of Galakras",
+      "source": "Galakras",
+      "id": 105491
     },
     {
       "slot": "Trinket",
-      "item": "Brutal Talisman of the Shado-Pan Assault",
-      "source": "Shado-Pan Assault",
-      "id": 94508
-    },
-    {
-      "slot": "Mainhand",
-      "item": "Greatsword of Frozen Hells",
-      "source": "Durumu the Forgotten",
-      "id": 96991
+      "item": "Xal'atoh, Desecrated Image of Gorehowl",
+      "source": "Garrosh Hellscream",
+      "id": 105644
     }
   ],
   "Balance Druid": [
     {
       "slot": "Helm",
-      "item": "Cover of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96590
+      "item": "Darkfang Mask",
+      "source": "Siege of Orgrimmar",
+      "id": 105542
     },
     {
       "slot": "Neck",
-      "item": "Passionfire Choker",
-      "source": "Throne of Thunder",
-      "id": 96909
+      "item": "Necklace of Fading Light",
+      "source": "Siege of Orgrimmar",
+      "id": 105473
     },
     {
       "slot": "Shoulders",
-      "item": "Shoulderwraps of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96593
+      "item": "Shoulderwraps of the Shattered Vale",
+      "source": "Siege of Orgrimmar",
+      "id": 99428
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Throne of Thunder",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Timeless Isle",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Robes of Contagious Time",
-      "source": "Throne of Thunder",
-      "id": 95032
+      "item": "Vestment of the Shattered Vale",
+      "source": "Siege of Orgrimmar",
+      "id": 99427
     },
     {
       "slot": "Bracers",
-      "item": "Infinitely Conducting Bracers",
-      "source": "Throne of Thunder",
-      "id": 96758
+      "item": "Bracers of Purified Spirit",
+      "source": "Siege of Orgrimmar",
+      "id": 105425
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96589
+      "item": "Gloves of the Shattered Vale",
+      "source": "Siege of Orgrimmar",
+      "id": 99432
     },
     {
       "slot": "Belt",
-      "item": "Worldbender Waistband",
-      "source": "Throne of Thunder",
-      "id": 94997
+      "item": "Seal of Karmic Return",
+      "source": "Siege of Orgrimmar",
+      "id": 105651
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96591
+      "item": "Leggings of the Shattered Vale",
+      "source": "Siege of Orgrimmar",
+      "id": 99434
     },
     {
       "slot": "Boots",
-      "item": "Roots of Pain",
-      "source": "Throne of Thunder",
-      "id": 95006
+      "item": "Boots of Perilous Infusion",
+      "source": "Siege of Orgrimmar",
+      "id": 105576
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Evolving Signet",
-      "source": "Throne of Thunder",
-      "id": 95018
+      "item": "Laser-Slice Signet",
+      "source": "Siege of Orgrimmar",
+      "id": 105520
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Throne of Thunder",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Siege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Cha-Ye's Essence of Brilliance",
-      "source": "Throne of Thunder",
-      "id": 96888
+      "item": "Purified Bindings of Immerseus",
+      "source": "Siege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Unerring Vision of Lei Shen",
-      "source": "Throne of Thunder",
-      "id": 96930
+      "item": "Kardris' Toxic Totem",
+      "source": "Siege of Orgrimmar",
+      "id": 105540
     },
     {
       "slot": "Mainhand",
-      "item": "Torall, Rod of the Shattered Throne",
-      "source": "Throne of Thunder",
-      "id": 96931
+      "item": "Rik'kal's Bloody Scalpel",
+      "source": "Siege of Orgrimmar",
+      "id": 105627
     },
     {
       "slot": "Off-hand",
-      "item": "Orb of Arcing Lightning",
-      "source": "Throne of Thunder",
-      "id": 96902
+      "item": "Revelations of Y'Shaarj",
+      "source": "Siege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Feral Druid": [
     {
       "slot": "Helm",
-      "item": "Headpiece of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96581
+      "item": "Headpiece of the Shattered Vale",
+      "source": "Thok the Bloodthirsty",
+      "id": 99328
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Throne of Thunder",
-      "id": 96815
+      "item": "Immerseus' Crystalline Eye",
+      "source": "Immerseus",
+      "id": 105407
     },
     {
       "slot": "Shoulders",
-      "item": "Spaulders of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96583
+      "item": "Spaulders of the Shattered Vale",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99322
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Throne of Thunder",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Chestguard of Coruscating Blades",
-      "source": "Throne of Thunder",
-      "id": 95033
+      "item": "Raiment of the Shattered Vale",
+      "source": "Sha of Pride",
+      "id": 99326
     },
     {
       "slot": "Bracers",
-      "item": "Bindings of Multiplicative Strikes",
-      "source": "Throne of Thunder",
-      "id": 96764
+      "item": "Bomber's Blackened Wristwatch",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105616
     },
     {
       "slot": "Gloves",
-      "item": "Grips of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96580
+      "item": "Grips of the Shattered Vale",
+      "source": "General Nazgrim",
+      "id": 99327
     },
     {
       "slot": "Belt",
-      "item": "Strap of Murderous Strikes",
-      "source": "Throne of Thunder",
-      "id": 94998
+      "item": "Cord of Black Dreams",
+      "source": "Garrosh Hellscream",
+      "id": 105635
     },
     {
       "slot": "Legs",
-      "item": "Legguards of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96582
+      "item": "Riou's Vigilant Leggings",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105529
     },
     {
       "slot": "Boots",
-      "item": "Twist-Toe Tabi",
-      "source": "Throne of Thunder",
-      "id": 95007
+      "item": "Pandaren Roofsprinters",
+      "source": "Spoils of Pandaria",
+      "id": 105582
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Throne of Thunder",
-      "id": 95021
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Paragons of the Klaxxi",
+      "id": 105624
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Throne of Thunder",
-      "id": 96885
+      "item": "Swift Serpent Signet",
+      "source": "Galakras",
+      "id": 105483
     },
     {
       "slot": "Trinket",
       "item": "Rune of Re-Origination",
-      "source": "Throne of Thunder",
+      "source": "Lei Shen",
       "id": 96918
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Throne of Thunder",
-      "id": 96741
+      "item": "Haromm's Talisman",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105527
     },
     {
       "slot": "Mainhand",
-      "item": "Darkwood Spiritstaff",
-      "source": "Throne of Thunder",
-      "id": 96978
+      "item": "Halberd of Inner Shadows",
+      "source": "Malkorok",
+      "id": 105560
     }
   ],
   "Guardian Druid": [
     {
       "slot": "Helm",
-      "item": "Headguard of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96596
+      "item": "Headguard of the Shattered Vale",
+      "source": "Thok the Bloodthirsty",
+      "id": 99421
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Throne of Thunder",
-      "id": 96815
+      "item": "Gleaming Eye of the Devilsaur",
+      "source": "Thok the Bloodthirsty",
+      "id": 105602
     },
     {
       "slot": "Shoulders",
-      "item": "Shoulderguards of the Haunted Forest",
-      "source": "Throne of Thunder",
-      "id": 96598
+      "item": "Ricocheting Shoulderguards",
+      "source": "Iron Juggernaut",
+      "id": 105506
     },
     {
       "slot": "Cloak",
-      "item": "Pinionfeather Greatcloak",
-      "source": "Throne of Thunder",
-      "id": 96833
+      "item": "Qian-Le, Courage of Niuzao",
+      "source": "Legendary Questline",
+      "id": 102245
     },
     {
       "slot": "Chest",
-      "item": "Chestguard of Coruscating Blades",
-      "source": "Throne of Thunder",
-      "id": 95033
+      "item": "Tunic of the Shattered Vale",
+      "source": "Sha of Pride",
+      "id": 99419
     },
     {
       "slot": "Bracers",
-      "item": "Bracers of the Midnight Comet",
-      "source": "Throne of Thunder",
-      "id": 96912
+      "item": "Laser Burn Bracers",
+      "source": "Iron Juggernaut",
+      "id": 105505
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of Cushioned Air",
-      "source": "Throne of Thunder",
-      "id": 96865
+      "item": "Handguards of the Shattered Vale",
+      "source": "General Nazgrim",
+      "id": 99420
     },
     {
       "slot": "Belt",
-      "item": "Strap of Murderous Strikes",
-      "source": "Throne of Thunder",
-      "id": 94998
+      "item": "Damron's Belt of Darkness",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105528
     },
     {
       "slot": "Legs",
-      "item": "Worldbinder Leggings",
-      "source": "Throne of Thunder",
-      "id": 96891
+      "item": "Breeches of the Shattered Vale",
+      "source": "Skeer the Bloodseeker",
+      "id": 99422
     },
     {
       "slot": "Boots",
-      "item": "Twist-Toe Tabi",
-      "source": "Throne of Thunder",
-      "id": 95007
+      "item": "Unrepentant Heels",
+      "source": "Galakras",
+      "id": 105484
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Throne of Thunder",
-      "id": 95021
+      "item": "Reality Ripper Ring",
+      "source": "Norushen",
+      "id": 105451
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Throne of Thunder",
-      "id": 96885
+      "item": "Swift Serpent Signet",
+      "source": "Galakras",
+      "id": 105483
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Throne of Thunder",
-      "id": 96741
+      "item": "Haromm's Talisman",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105527
     },
     {
       "slot": "Trinket",
-      "item": "Bad Juju",
-      "source": "Throne of Thunder",
-      "id": 96781
+      "item": "Vial of Living Corruption",
+      "source": "Malkorok",
+      "id": 105568
     },
     {
       "slot": "Mainhand",
-      "item": "Darkwood Spiritstaff",
-      "source": "Throne of Thunder",
-      "id": 96978
+      "item": "Trident of Corrupted Waters",
+      "source": "Immerseus",
+      "id": 105408
     }
   ],
   "Restoration Druid": [
     {
       "slot": "Helm",
-      "item": "Helm of the Haunted Forest",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
-      "id": 96585
+      "item": "Self-Reflecting Mask",
+      "source": "Sha of Pride",
+      "id": 105476
     },
     {
       "slot": "Neck",
-      "item": "Horridon's Tusk Fragment",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96774
+      "item": "Lost Necklace of the Mogu Empress",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105593
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Haunted Forest",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96588
+      "item": "Mantle of the Shattered Vale",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99431
     },
     {
       "slot": "Cloak",
-      "item": "Black Night Thundercloak",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95013
+      "item": "Jina-Kang, Kindness of Chi-Ji",
+      "source": "Legendary Questline",
+      "id": 102247
     },
     {
       "slot": "Chest",
-      "item": "Robes of Contagious Time",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95032
+      "item": "Robes of the Shattered Vale",
+      "source": "Sha of Pride",
+      "id": 99430
     },
     {
       "slot": "Bracers",
-      "item": "Vampire Bat-Hide Bracers",
-      "source": "Tortos(Throne of Thunder)",
-      "id": 96809
+      "item": "Bracers of Averted Fatality",
+      "source": "Malkorok",
+      "id": 105577
     },
     {
       "slot": "Gloves",
-      "item": "Handwraps of the Haunted Forest",
-      "source": "Kazra'jin(Council of Elders, Throne of Thunder)",
-      "id": 96584
+      "item": "Handwraps of the Shattered Vale",
+      "source": "General Nazgrim",
+      "id": 99435
     },
     {
       "slot": "Belt",
-      "item": "Worldbender Waistband",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 94997
+      "item": "Seal of Karmic Return",
+      "source": "Garrosh Hellscream",
+      "id": 105651
     },
     {
       "slot": "Legs",
-      "item": "Legwraps of the Haunted Forest",
-      "source": "Ji-Kun(Throne of Thunder)",
-      "id": 96586
+      "item": "Legwraps of the Shattered Vale",
+      "source": "Kil'ruk the Wind-Reaver(Paragons of the Klaxxi)",
+      "id": 99429
     },
     {
       "slot": "Boots",
-      "item": "Roots of Pain",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95006
+      "item": "Salt Water Sandals",
+      "source": "Immerseus",
+      "id": 105424
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Evolving Signet",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95018
+      "item": "Seal of Eternal Sorrow",
+      "source": "Immerseus",
+      "id": 105423
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the Bloodthirsty",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Horridon's Last Gasp",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96757
+      "item": "Prismatic Prison of Pride",
+      "source": "Sha of Pride",
+      "id": 105474
     },
     {
       "slot": "Trinket",
-      "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96933
+      "item": "Nazgrim's Burnished Insignia",
+      "source": "General Nazgrim",
+      "id": 105549
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96890
+      "item": "Horned Mace of the Old Ones",
+      "source": "Garrosh Hellscream",
+      "id": 105649
     },
     {
       "slot": "Off-hand",
-      "item": "Orb of Arcing Lightning",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96902
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh Hellscream",
+      "id": 105650
     }
   ],
   "Beast Mastery Hunter": [
     {
       "slot": "Helm",
-      "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li(Throne of Thunder)",
-      "id": 96788
+      "item": "Headguard of the Unblinking Vigil",
+      "source": "Garrosh Hellscream(Siege of Orgrimmar)",
+      "id": 99402
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Living Poison",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96762
+      "item": "Immerseus' Crystalline Eye",
+      "source": "Immerseus(Siege of Orgrimmar)",
+      "id": 105407
     },
     {
       "slot": "Shoulders",
-      "item": "Saurok Stalker's Spaulders",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96630
+      "item": "Spaulders of the Unblinking Vigil",
+      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "id": 99404
     },
     {
       "slot": "Cloak",
-      "item": "Pinionfeather Greatcloak",
-      "source": "Ji-Kun(Throne of Thunder)",
-      "id": 96833
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Wrathion Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Saurok Stalker's Tunic",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96626
+      "item": "Ancient Archer's Chestguard",
+      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "id": 105585
     },
     {
       "slot": "Bracers",
-      "item": "Beady-Eye Bracers",
-      "source": "Tortos(Throne of Thunder)",
-      "id": 96425
+      "item": "Bracers of Infinite Pipes",
+      "source": "Siegecrafter Blackfuse(Siege of Orgrimmar)",
+      "id": 105617
     },
     {
       "slot": "Gloves",
-      "item": "Saurok Stalker's Gloves",
-      "source": "Kazra'jin(Throne of Thunder)",
-      "id": 96627
+      "item": "Gloves of the Unblinking Vigil",
+      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "id": 99406
     },
     {
       "slot": "Belt",
-      "item": "Links of the Disintegrator",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96846
+      "item": "Arrowflight Girdle",
+      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "id": 105584
     },
     {
       "slot": "Legs",
-      "item": "Saurok Stalker's Legguards",
-      "source": "Ji-Kun(Throne of Thunder)",
-      "id": 96629
+      "item": "Legguards of the Unblinking Vigil",
+      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "id": 99403
     },
     {
       "slot": "Boots",
-      "item": "Treads of the Sanguine Volley",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95009
+      "item": "Ravager's Pathwalkers",
+      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "id": 105553
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95021
+      "item": "Ring of Restless Energy",
+      "source": "Malkorok(Siege of Orgrimmar)",
+      "id": 105558
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96885
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "id": 105624
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)",
-      "id": 96741
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride(Siege of Orgrimmar)",
+      "id": 105472
     },
     {
       "slot": "Trinket",
-      "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Friendly withShado-Pan Assault0 Valor Points",
-      "id": 94511
+      "item": "Ticking Ebon Detonator",
+      "source": "Siegecrafter Blackfuse(Siege of Orgrimmar)",
+      "id": 105612
     },
     {
       "slot": "Mainhand",
-      "item": "Durumu's Baleful Gaze",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96844
+      "item": "Kor'kron Hand Cannon",
+      "source": "Malkorok(Siege of Orgrimmar)",
+      "id": 105559
+    },
+    {
+      "slot": "Off-hand",
+      "item": "-",
+      "source": "-",
+      "id": "NOT_FOUND"
     }
   ],
   "Marksmanship Hunter": [
     {
       "slot": "Helm",
-      "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li(Throne of Thunder)",
-      "id": 96788
+      "item": "Headguard of the Unblinking Vigil",
+      "source": "Garrosh Hellscream(Siege of Orgrimmar)",
+      "id": 99402
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Living Poison",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96762
+      "item": "Gleaming Eye of the Devilsaur",
+      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "id": 105602
     },
     {
       "slot": "Shoulders",
-      "item": "Saurok Stalker's Spaulders",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96630
+      "item": "Spaulders of the Unblinking Vigil",
+      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "id": 99404
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Wrathion Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Scales of Shaped Flesh",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95034
+      "item": "Tunic of the Unblinking Vigil",
+      "source": "Siegecrafter Blackfuse(Siege of Orgrimmar)",
+      "id": 99405
     },
     {
       "slot": "Bracers",
-      "item": "Beady-Eye Bracers",
-      "source": "Tortos(Throne of Thunder)",
-      "id": 96425
+      "item": "Dagryn's Fuselight Bracers",
+      "source": "Galakras(Siege of Orgrimmar)",
+      "id": 105487
     },
     {
       "slot": "Gloves",
-      "item": "Saurok Stalker's Gloves",
-      "source": "Kazra'jin(Throne of Thunder)",
-      "id": 96627
+      "item": "Gloves of the Unblinking Vigil",
+      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "id": 99406
     },
     {
       "slot": "Belt",
-      "item": "Links of the Disintegrator",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96846
+      "item": "Arrowflight Girdle",
+      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "id": 105584
     },
     {
       "slot": "Legs",
-      "item": "Conduit-Breaker Chain Leggings",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96921
+      "item": "Leggings of Unabashed Anger",
+      "source": "Norushen(Siege of Orgrimmar)",
+      "id": 105454
     },
     {
       "slot": "Boots",
-      "item": "Quakestompers",
-      "source": "Tortos(Throne of Thunder)",
-      "id": 96798
+      "item": "Ravager's Pathwalkers",
+      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "id": 105553
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95021
+      "item": "Swift Serpent Signet",
+      "source": "Galakras(Siege of Orgrimmar)",
+      "id": 105483
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96885
+      "item": "Reality Ripper Ring",
+      "source": "Norushen(Siege of Orgrimmar)",
+      "id": 105451
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)",
-      "id": 96741
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride(Siege of Orgrimmar)",
+      "id": 105472
     },
     {
       "slot": "Trinket",
-      "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Friendly withShado-Pan Assault0 Valor Points",
-      "id": 94511
+      "item": "Haromm's Talisman",
+      "source": "Earthbreaker Haromm(Siege of Orgrimmar)",
+      "id": 105527
     },
     {
       "slot": "Mainhand",
-      "item": "Durumu's Baleful Gaze",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96844
+      "item": "Hisek's Reserve Longbow",
+      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "id": 105623
     }
   ],
   "Survival Hunter": [
     {
       "slot": "Helm",
-      "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li(Throne of Thunder)",
-      "id": 96788
+      "item": "Headguard of the Unblinking Vigil",
+      "source": "Garrosh Hellscream(Siege of Orgrimmar)",
+      "id": 99402
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Flaming Head(Throne of Thunder)",
-      "id": 96815
+      "item": "Gleaming Eye of the Devilsaur",
+      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "id": 105602
     },
     {
       "slot": "Shoulders",
-      "item": "Saurok Stalker's Spaulders",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96630
+      "item": "Spaulders of the Unblinking Vigil",
+      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "id": 99404
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Wrathion Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Saurok Stalker's Tunic",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96626
+      "item": "Ancient Archer's Chestguard",
+      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "id": 105585
     },
     {
       "slot": "Bracers",
-      "item": "Beady-Eye Bracers",
-      "source": "Tortos(Throne of Thunder)",
-      "id": 96425
+      "item": "Wristguards of Ruination",
+      "source": "Malkorok(Siege of Orgrimmar)",
+      "id": 105562
     },
     {
       "slot": "Gloves",
-      "item": "Synapse-String Handguards",
-      "source": "Primordius(Throne of Thunder)",
-      "id": 96867
+      "item": "Gloves of the Unblinking Vigil",
+      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "id": 99406
     },
     {
       "slot": "Belt",
-      "item": "Links of the Disintegrator",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96846
+      "item": "Arrowflight Girdle",
+      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "id": 105584
     },
     {
       "slot": "Legs",
-      "item": "Conduit-Breaker Chain Leggings",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96921
+      "item": "Legguards of the Unblinking Vigil",
+      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "id": 99403
     },
     {
       "slot": "Boots",
-      "item": "Treads of the Sanguine Volley",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95009
+      "item": "Ravager's Pathwalkers",
+      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "id": 105553
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95021
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "id": 105624
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96885
+      "item": "Ring of Restless Energy",
+      "source": "Malkorok(Siege of Orgrimmar)",
+      "id": 105558
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)",
-      "id": 96741
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride(Siege of Orgrimmar)",
+      "id": 105472
     },
     {
       "slot": "Trinket",
-      "item": "Bad Juju",
-      "source": "Kazra'jin(Throne of Thunder)",
-      "id": 96781
+      "item": "Haromm's Talisman",
+      "source": "Earthbreaker Haromm(Siege of Orgrimmar)",
+      "id": 105527
     },
     {
       "slot": "Mainhand",
-      "item": "Voice of the Quilen",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96897
+      "item": "Kor'kron Hand Cannon",
+      "source": "Malkorok(Siege of Orgrimmar)",
+      "id": 105559
     }
   ],
   "Arcane Mage": [
     {
       "slot": "Helm",
-      "item": "Hood of the Chromatic Hydra",
-      "source": "Twin Consorts",
-      "id": 96635
+      "item": "Hood of Swirling Senses",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105420
     },
     {
       "slot": "Neck",
-      "item": "Megaera's Shining Eye",
-      "source": "Flaming Head",
-      "id": 96825
+      "item": "Untainted Guardian's Chain",
+      "source": "Norushen-Siege of Orgrimmar",
+      "id": 105465
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Chromatic Hydra",
-      "source": "Iron Qon",
-      "id": 96638
+      "item": "Chronomancer Mantle",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 99401
     },
     {
       "slot": "Cloak",
-      "item": "Red Sky Cloudcloak",
-      "source": "Ra-den",
-      "id": 95014
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Chromatic Hydra",
-      "source": "Dark Animus",
-      "id": 96637
+      "item": "Chronomancer Robes",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 99400
     },
     {
       "slot": "Bracers",
-      "item": "Frostborn Wristwraps",
-      "source": "Flaming Head",
-      "id": 96824
+      "item": "Avool's Ancestral Bracers",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105591
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of the Chromatic Hydra",
-      "source": "Council of Elders",
-      "id": 96634
+      "item": "Chronomancer Gloves",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 99397
     },
     {
       "slot": "Belt",
-      "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun",
-      "id": 96834
+      "item": "Belt of Ominous Trembles",
+      "source": "Iron Juggernaut-Siege of Orgrimmar",
+      "id": 105515
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Discarded Warning",
-      "source": "Ra-den",
-      "id": 95030
+      "item": "Chronomancer Leggings",
+      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "id": 99399
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-den",
-      "id": 95004
+      "item": "Bone-Inlaid Sandals",
+      "source": "Galakras-Siege of Orgrimmar",
+      "id": 105493
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-den",
-      "id": 95019
+      "item": "Iyyokuk's Hereditary Seal",
+      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "id": 105628
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Cha-Ye's Essence of Brilliance",
-      "source": "Dark Animus",
-      "id": 96888
+      "item": "Purified Bindings of Immerseus",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Unerring Vision of Lei Shen",
-      "source": "Lei Shen",
-      "id": 96930
+      "item": "Kardris' Toxic Totem",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105540
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark Animus",
-      "id": 96890
+      "item": "Immaculately Preserved Wand",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105594
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen",
-      "id": 96934
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Fire Mage": [
     {
       "slot": "Helm",
-      "item": "Hood of the Chromatic Hydra",
-      "source": "Twin Consorts",
-      "id": 96635
+      "item": "Hood of Swirling Senses",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105420
     },
     {
       "slot": "Neck",
-      "item": "Megaera's Shining Eye",
-      "source": "Flaming Head",
-      "id": 96825
+      "item": "Untainted Guardian's Chain",
+      "source": "Norushen-Siege of Orgrimmar",
+      "id": 105465
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Chromatic Hydra",
-      "source": "Iron Qon",
-      "id": 96638
+      "item": "Chronomancer Mantle",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 99401
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Chromatic Hydra",
-      "source": "Dark Animus",
-      "id": 96637
+      "item": "Chronomancer Robes",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 99400
     },
     {
       "slot": "Bracers",
-      "item": "Frostborn Wristwraps",
-      "source": "Flaming Head",
-      "id": 96824
+      "item": "Bracers of Sonic Projection",
+      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "id": 105626
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of the Chromatic Hydra",
-      "source": "Council of Elders",
-      "id": 96634
+      "item": "Chronomancer Gloves",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 99397
     },
     {
       "slot": "Belt",
-      "item": "Vita-Binder Wrap",
-      "source": "Ra-den",
-      "id": 94996
+      "item": "Miasmic Skullbelt",
+      "source": "Malkorok-Siege of Orgrimmar",
+      "id": 105569
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Discarded Warning",
-      "source": "Ra-den",
-      "id": 95030
+      "item": "Chronomancer Leggings",
+      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "id": 99399
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-den",
-      "id": 95004
+      "item": "Toxic Tornado Treads",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105537
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-den",
-      "id": 95019
+      "item": "Petrified Pennyroyal Ring",
+      "source": "Sun Tenderheart-Siege of Orgrimmar",
+      "id": 105443
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Cha-Ye's Essence of Brilliance",
-      "source": "Dark Animus",
-      "id": 96888
+      "item": "Purified Bindings of Immerseus",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "Council of Elders",
-      "id": 96785
+      "item": "Kardris' Toxic Totem",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105540
     },
     {
       "slot": "Mainhand",
-      "item": "Nadagast's Exsanguinator",
-      "source": "Shared Boss Loot",
-      "id": 96982
+      "item": "Immaculately Preserved Wand",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105594
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen",
-      "id": 96934
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Frost Mage": [
     {
       "slot": "Helm",
-      "item": "Hood of the Chromatic Hydra",
-      "source": "Twin Consorts",
-      "id": 96635
+      "item": "Ebon Ritual Hood",
+      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "id": 105647
     },
     {
       "slot": "Neck",
-      "item": "Megaera's Shining Eye",
-      "source": "Flaming Head",
-      "id": 96825
+      "item": "Untainted Guardian's Chain",
+      "source": "Norushen-Siege of Orgrimmar",
+      "id": 105465
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Chromatic Hydra",
-      "source": "Iron Qon",
-      "id": 96638
+      "item": "Chronomancer Mantle",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 99401
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Starburner Robes",
-      "source": "Ra-den",
-      "id": 95039
+      "item": "Chronomancer Robes",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 99400
     },
     {
       "slot": "Bracers",
-      "item": "Bracers of Fragile Bone",
-      "source": "Council of Elders",
-      "id": 96878
+      "item": "Avool's Ancestral Bracers",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105591
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of the Chromatic Hydra",
-      "source": "Council of Elders",
-      "id": 96634
+      "item": "Chronomancer Gloves",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 99397
     },
     {
       "slot": "Belt",
-      "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun",
-      "id": 96834
+      "item": "Belt of Ominous Trembles",
+      "source": "Iron Juggernaut-Siege of Orgrimmar",
+      "id": 105515
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Chromatic Hydra",
-      "source": "Ji-Kun",
-      "id": 96636
+      "item": "Chronomancer Leggings",
+      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "id": 99399
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-den",
-      "id": 95004
+      "item": "Bone-Inlaid Sandals",
+      "source": "Galakras-Siege of Orgrimmar",
+      "id": 105493
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-den",
-      "id": 95019
+      "item": "Extinguished Ember of Galakras",
+      "source": "Galakras-Siege of Orgrimmar",
+      "id": 105498
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Breath of the Hydra",
-      "source": "Flaming Head",
-      "id": 96827
+      "item": "Purified Bindings of Immerseus",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "Council of Elders",
-      "id": 96785
+      "item": "Kardris' Toxic Totem",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105540
     },
     {
       "slot": "Mainhand",
-      "item": "Venomlord's Totemic Wand",
-      "source": "Horridon",
-      "id": 96776
+      "item": "Rik'kal's Bloody Scalpel",
+      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "id": 105627
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen",
-      "id": 96934
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Brewmaster Monk": [
     {
       "slot": "Helm",
-      "item": "Fire-Charm Crown",
-      "source": "Twin Empyreans",
-      "id": 96651
+      "item": "Crown of Seven Sacred Seals",
+      "source": "Thok the Bloodthirsty",
+      "id": 99384
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Living Poison",
-      "source": "Horridon",
-      "id": 96762
+      "item": "Gleaming Eye of the Devilsaur",
+      "source": "Thok the Bloodthirsty",
+      "id": 105602
     },
     {
       "slot": "Shoulders",
-      "item": "Fire-Charm Shoulderguards",
-      "source": "Iron Qon",
-      "id": 96653
+      "item": "Shoulderguards of Seven Sacred Seals",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99386
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den",
-      "id": 95015
+      "item": "Qian-Le, Courage of Niuzao",
+      "source": "Chapter V: Judgment of the Black Prince",
+      "id": 102245
     },
     {
       "slot": "Chest",
-      "item": "Chestguard of Coruscating Blades",
-      "source": "Ra-den",
-      "id": 95033
+      "item": "Chestguard of Seven Sacred Seals",
+      "source": "Sha of Pride",
+      "id": 99382
     },
     {
       "slot": "Bracers",
-      "item": "Bracers of the Midnight Comet",
-      "source": "Twin Empyreans",
-      "id": 96540
+      "item": "Laser Burn Bracers",
+      "source": "Iron Juggernaut",
+      "id": 105505
     },
     {
       "slot": "Gloves",
-      "item": "Fire-Charm Gauntlets",
-      "source": "Council of Elders",
-      "id": 96650
+      "item": "Gloves of the Golden Protector",
+      "source": "Norushen",
+      "id": 105453
     },
     {
       "slot": "Belt",
-      "item": "Featherflight Belt",
-      "source": "Ji-Kun",
-      "id": 96837
+      "item": "Cord of Black Dreams",
+      "source": "Garrosh Hellscream",
+      "id": 105635
     },
     {
       "slot": "Legs",
-      "item": "Fire-Charm Legguards",
-      "source": "Ji-Kun",
-      "id": 96652
+      "item": "Legguards of Seven Sacred Seals",
+      "source": "Paragons of the Klaxxi",
+      "id": 99385
     },
     {
       "slot": "Boots",
-      "item": "Twist-Toe Tabi",
-      "source": "Ra-den",
-      "id": 95007
+      "item": "Unrepentant Heels",
+      "source": "Galakras",
+      "id": 105484
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus",
-      "id": 96885
+      "item": "Reality Ripper Ring",
+      "source": "Norushen",
+      "id": 105451
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den",
-      "id": 95021
+      "item": "Ring of Restless Energy",
+      "source": "Malkorok",
+      "id": 105558
     },
     {
       "slot": "Trinket",
-      "item": "Talisman of Bloodlust",
-      "source": "Primordius",
-      "id": 96864
+      "item": "Haromm's Talisman",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105527
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker",
-      "id": 96741
+      "item": "Thok's Tail Tip",
+      "source": "Thok the Bloodthirsty",
+      "id": 105609
     },
     {
       "slot": "Mainhand",
-      "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Twin Empyreans",
-      "id": 96907
+      "item": "Seismic BoreSoftfoot's Last Resort",
+      "source": "Iron JuggernautThe Fallen Protectors",
+      "id": "NOT_FOUND"
     },
     {
       "slot": "Off-hand",
-      "item": "Shan-Dun, Breaker of Hope",
-      "source": "Lei Shen",
-      "id": 96919
+      "item": "Trident of Corrupted Waters",
+      "source": "Immerseus",
+      "id": 105408
     }
   ],
   "Mistweaver Monk": [
     {
       "slot": "Helm",
-      "item": "Hood of Smoldering Flesh",
-      "source": "Flaming Head(Megaera, Throne of Thunder)",
-      "id": 96829
+      "item": "Helm of Seven Sacred Seals",
+      "source": "Thok the Bloodthirsty",
+      "id": 99389
     },
     {
       "slot": "Neck",
-      "item": "Passionfire Choker",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
-      "id": 96909
+      "item": "Necklace of Fading Light",
+      "source": "Sha of Pride",
+      "id": 105473
     },
     {
       "slot": "Shoulders",
-      "item": "Fire-Charm Mantle",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96648
+      "item": "Shoulders of the Roiling Inferno",
+      "source": "Rook Stonetoe(Fallen Protectors)",
+      "id": 105445
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96857
+      "item": "Jina-Kang, Kindness of Chi-Ji",
+      "source": "Legendary Questline",
+      "id": 102247
     },
     {
       "slot": "Chest",
-      "item": "Fire-Charm Vest",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96647
+      "item": "Vest of Seven Sacred Seals",
+      "source": "Sha of Pride",
+      "id": 99391
     },
     {
       "slot": "Bracers",
-      "item": "Infinitely Conducting Bracers",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)",
-      "id": 96758
+      "item": "Bracers of Purified Spirit",
+      "source": "Immerseus",
+      "id": 105425
     },
     {
       "slot": "Gloves",
-      "item": "Anima-Ringed Fingers",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96892
+      "item": "Handwraps of Seven Sacred Seals",
+      "source": "General Nazgrim",
+      "id": 99388
     },
     {
       "slot": "Belt",
-      "item": "Worldbender Waistband",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 94997
+      "item": "Dragonmaw Emergency Strap",
+      "source": "Galakras",
+      "id": 105500
     },
     {
       "slot": "Legs",
-      "item": "Roots of Rampaging Earth",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96777
+      "item": "Legwraps of Seven Sacred Seals",
+      "source": "Kil'ruk the Wind-Reaver(Paragons of the Klaxxi)",
+      "id": 99390
     },
     {
       "slot": "Boots",
-      "item": "Roots of Pain",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95006
+      "item": "Salt Water Sandals",
+      "source": "Immerseus",
+      "id": 105424
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96901
+      "item": "Seal of Sullen Fury",
+      "source": "Malkorok",
+      "id": 105574
     },
     {
       "slot": "Ring",
-      "item": "Durumu's Captive Eyeball",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96858
+      "item": "Laser-Slice Signet",
+      "source": "Iron Juggernaut",
+      "id": 105520
     },
     {
       "slot": "Trinket",
-      "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96933
+      "item": "Purified Bindings of Immerseus",
+      "source": "Immerseus",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Horridon's Last Gasp",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96757
+      "item": "Prismatic Prison of Pride",
+      "source": "Sha of Pride",
+      "id": 105474
     },
     {
       "slot": "Mainhand",
-      "item": "Soulblade of the Breaking Storm",
-      "source": "Jin'rokh the Breaker(Throne of Thunder)",
-      "id": 96756
+      "item": "Arcweaver Spell Sword",
+      "source": "General Nazgrim",
+      "id": 105550
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96934
+      "item": "Juggernaut's Power Core",
+      "source": "Iron Juggernaut",
+      "id": 105521
     }
   ],
   "Windwalker Monk": [
     {
       "slot": "Helm",
-      "item": "Fire-Charm Headpiece",
-      "source": "Twin Consorts",
-      "id": 96641
+      "item": "Headpiece of Seven Sacred Seals",
+      "source": "Thok the Bloodthirsty",
+      "id": 99393
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Megaera",
-      "id": 96815
+      "item": "Immerseus' Crystalline Eye",
+      "source": "Immerseus",
+      "id": 105407
     },
     {
       "slot": "Shoulders",
-      "item": "Fire-Charm Spaulders",
-      "source": "Iron Qon",
-      "id": 96643
+      "item": "Spaulders of Seven Sacred Seals",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99395
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Chestguard of Coruscating Blades",
-      "source": "Ra-den",
-      "id": 95033
+      "item": "Robes of the Blackened Watcher",
+      "source": "Amalgam of Corruption",
+      "id": 105452
     },
     {
       "slot": "Bracers",
-      "item": "Bindings of Multiplicative Strikes",
-      "source": "Horridon",
-      "id": 96764
+      "item": "Bomber's Blackened Wristwatch",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105616
     },
     {
       "slot": "Gloves",
-      "item": "Fire-Charm Grips",
-      "source": "Primordius",
-      "id": 96640
+      "item": "Grips of Seven Sacred Seals",
+      "source": "General Nazgrim",
+      "id": 99392
     },
     {
       "slot": "Belt",
-      "item": "Strap of Murderous Strikes",
-      "source": "Ra-den",
-      "id": 94998
+      "item": "Cord of Black Dreams",
+      "source": "Garrosh Hellscream",
+      "id": 105635
     },
     {
       "slot": "Legs",
-      "item": "Fire-Charm Leggings",
-      "source": "Ji-Kun",
-      "id": 96642
+      "item": "Leggings of Seven Sacred Seals",
+      "source": "Paragons of the Klaxxi",
+      "id": 99394
     },
     {
       "slot": "Boots",
-      "item": "Twist-Toe Tabi",
-      "source": "Ra-den",
-      "id": 95007
+      "item": "Pandaren Roofsprinters",
+      "source": "Spoils of Pandaria",
+      "id": 105582
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den",
-      "id": 95021
+      "item": "Reality Ripper Ring",
+      "source": "Amalgam of Corruption",
+      "id": 105451
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus",
-      "id": 96885
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Paragons of the Klaxxi",
+      "id": 105624
     },
     {
       "slot": "Trinket",
@@ -1508,121 +1496,127 @@
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker",
-      "id": 96741
+      "item": "Haromm's Talisman",
+      "source": "Kor’kron Dark Shaman",
+      "id": 105527
     },
     {
       "slot": "Mainhand",
-      "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Twin Consorts",
-      "id": 96907
+      "item": "Korven's Crimson Crescent",
+      "source": "Paragons of the Klaxxi",
+      "id": 105625
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Korven's Crimson Crescent",
+      "source": "Paragons of the Klaxxi",
+      "id": 105625
     }
   ],
   "Holy Paladin": [
     {
       "slot": "Helm",
-      "item": "Lightning Emperor's Headguard",
-      "source": "Twin Consorts",
-      "id": 96661
+      "item": "Headguard of Winged Triumph",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 99376
     },
     {
       "slot": "Neck",
-      "item": "Horridon's Tusk Fragment",
-      "source": "Horridon",
-      "id": 96774
+      "item": "Lost Necklace of the Mogu Empress",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105593
     },
     {
       "slot": "Shoulders",
-      "item": "Lightning Emperor's Mantle",
-      "source": "Iron Qon",
-      "id": 96663
+      "item": "Mantle of Winged Triumph",
+      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "id": 99378
     },
     {
       "slot": "Cloak",
-      "item": "Shimmershell Cape",
-      "source": "Tortos",
-      "id": 96807
+      "item": "Jina-Kang, Kindness of Chi-Ji",
+      "source": "Legendary Questline",
+      "id": 102247
     },
     {
       "slot": "Chest",
-      "item": "Ionized Yojamban Carapace",
-      "source": "Jin'rokh the Breaker",
-      "id": 96760
+      "item": "Chestplate of Fallen Passion",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105654
     },
     {
       "slot": "Bracers",
-      "item": "Armplates of the Vanquished Abomination",
-      "source": "Horridon",
-      "id": 96408
+      "item": "Smoldering Drakescale Bracers",
+      "source": "GalakrasSiege of Orgrimmar",
+      "id": 105502
     },
     {
       "slot": "Gloves",
-      "item": "Lightning Emperor's Gloves",
-      "source": "Council of Elders",
-      "id": 96660
+      "item": "Gloves of Winged Triumph",
+      "source": "General NazgrimSiege of Orgrimmar",
+      "id": 99375
     },
     {
       "slot": "Belt",
-      "item": "Bubbling Anima Belt",
-      "source": "Ra-den",
-      "id": 95001
+      "item": "Greatbelt of Living Waters",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105427
     },
     {
       "slot": "Legs",
-      "item": "Lightning Emperor's Greaves",
-      "source": "Ji-Kun",
-      "id": 96662
+      "item": "Greaves of Winged Triumph",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 99377
     },
     {
       "slot": "Boots",
-      "item": "Ice-Scored Treads",
-      "source": "Shared Boss Drop",
-      "id": 96832
+      "item": "Mogu Mindbender's Greaves",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105600
     },
     {
       "slot": "Ring",
-      "item": "Petrified Eye of the Basilisk",
-      "source": "Horridon",
-      "id": 96775
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon",
-      "id": 96901
+      "item": "Seal of Eternal Sorrow",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105423
     },
     {
       "slot": "Trinket",
-      "item": "Horridon's Last Gasp",
-      "source": "Horridon",
-      "id": 96757
+      "item": "Nazgrim's Burnished Insignia",
+      "source": "General NazgrimSiege of Orgrimmar",
+      "id": 105549
     },
     {
       "slot": "Trinket",
-      "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen",
-      "id": 96933
+      "item": "Prismatic Prison of Pride",
+      "source": "Sha of PrideSiege of Orgrimmar",
+      "id": 105474
     },
     {
       "slot": "Mainhand",
-      "item": "Jerthud, Graceful Hand of the Savior",
-      "source": "Shared Boss Drop",
-      "id": 96983
+      "item": "Kardris' Scepter",
+      "source": "Wavebinder KardrisSiege of Orgrimmar",
+      "id": 105541
     },
     {
       "slot": "Off-hand",
-      "item": "Shield of Twinned Despair",
-      "source": "Twin Consorts",
-      "id": 96910
+      "item": "Norushen's Enigmatic Barrier",
+      "source": "NorushenSiege of Orgrimmar",
+      "id": 105466
     }
   ],
   "Protection Paladin": [
     {
       "slot": "Helm",
-      "item": "Lightning Emperor's Faceguard",
-      "source": "Suen",
-      "id": 96666
+      "item": "Faceguard of Winged Triumph",
+      "source": "Thok the Bloodthirsty",
+      "id": 99370
     },
     {
       "slot": "Neck",
@@ -1632,1619 +1626,1613 @@
     },
     {
       "slot": "Shoulders",
-      "item": "Lightning Emperor's Shoulderguards",
-      "source": "Iron Qon",
-      "id": 96668
+      "item": "Shoulderguards of Winged Triumph",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99364
     },
     {
       "slot": "Cloak",
-      "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den",
-      "id": 95017
+      "item": "Chestguard of Winged Triumph",
+      "source": "Sha of Pride",
+      "id": 99368
     },
     {
       "slot": "Chest",
-      "item": "Carapace of the Core",
-      "source": "Ra-den",
-      "id": 95038
+      "item": "Bubble-Burst Bracers",
+      "source": "Immerseus",
+      "id": 105411
     },
     {
       "slot": "Bracers",
-      "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten",
-      "id": 96476
+      "item": "Handguards of Winged Triumph",
+      "source": "General Nazgrim",
+      "id": 99369
     },
     {
       "slot": "Gloves",
-      "item": "Lightning Emperor's Handguards",
-      "source": "Kazra'jin",
-      "id": 96665
+      "item": "Poisonbinder Girth",
+      "source": "Sun Tenderheart",
+      "id": 105433
     },
     {
       "slot": "Belt",
-      "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker",
-      "id": 96745
+      "item": "Legplates of Unthinking Strife",
+      "source": "Garrosh Hellscream",
+      "id": 105640
     },
     {
       "slot": "Legs",
-      "item": "Lightning Emperor's Legguards",
-      "source": "Ji-Kun",
-      "id": 96667
+      "item": "Wolf-Rider Spurs",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105531
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Asgorathian Blood Seal",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105620
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Seal of the Forgotten Kings",
+      "source": "Galakras",
+      "id": 105589
     },
     {
       "slot": "Ring",
-      "item": "Band of the Scaled Tyrant",
-      "source": "Primordius",
-      "id": 96872
+      "item": "Thok's Tail Tip",
+      "source": "Skeer the Bloodseeker",
+      "id": 105609
     },
     {
       "slot": "Trinket",
-      "item": "Soul Barrier",
-      "source": "Lei Shen",
-      "id": 96927
+      "item": "Vial of Living Corruption",
+      "source": "Malkorok",
+      "id": 105568
     },
     {
       "slot": "Trinket",
-      "item": "Primordius' Talisman of Rage",
-      "source": "Primordius",
-      "id": 96873
+      "item": "Malkorok's Skullcleaver",
+      "source": "Garrosh Hellscream",
+      "id": 105567
     },
     {
       "slot": "Mainhand",
-      "item": "Shellsplitter Greataxe",
-      "source": "Tortos",
-      "id": 96802
-    },
-    {
-      "slot": "Off-hand",
-      "item": "Greatshield of the Gloaming",
-      "source": "Primordius",
-      "id": 96884
+      "item": "Bulwark of the Fallen General",
+      "source": "General Nazgrim",
+      "id": 105556
     }
   ],
   "Retribution Paladin": [
     {
       "slot": "Helm",
-      "item": "Crown of the Golden Golem",
-      "source": "Dark Animus",
-      "id": 96894
+      "item": "Helmet of Winged Triumph",
+      "source": "Thok the Bloodthirsty",
+      "id": 99379
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Angry Spirits",
-      "source": "Council of Elders",
-      "id": 96792
+      "item": "Malkorok's Tainted Dog Tags",
+      "source": "Malkorok",
+      "id": 105566
     },
     {
       "slot": "Shoulders",
-      "item": "Lightning Emperor's Pauldrons",
-      "source": "Iron Qon",
-      "id": 96658
+      "item": "Pauldrons of Winged Triumph",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99373
     },
     {
       "slot": "Cloak",
-      "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den",
-      "id": 95017
+      "item": "Gong-Lu, Strength of Xuen",
+      "source": "Chapter V: Judgment of the Black Prince",
+      "id": 102249
     },
     {
       "slot": "Chest",
-      "item": "Lightning Emperor's Battleplate",
-      "source": "Dark Animus",
-      "id": 96654
+      "item": "Battleplate of Winged Triumph",
+      "source": "Sha of Pride",
+      "id": 99387
     },
     {
       "slot": "Bracers",
-      "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten",
-      "id": 96476
+      "item": "Bracers of Blind Hatred",
+      "source": "Norushen",
+      "id": 105456
     },
     {
       "slot": "Gloves",
-      "item": "Lightning Emperor's Gauntlets",
-      "source": "Council of Elders",
-      "id": 96655
+      "item": "Gauntlets of Winged Triumph",
+      "source": "General Nazgrim",
+      "id": 99380
     },
     {
       "slot": "Belt",
-      "item": "Cloudbreaker Greatbelt",
-      "source": "Jin'rokh the Breaker",
-      "id": 96745
+      "item": "Demolisher's Reinforced Belt",
+      "source": "Iron Juggernaut",
+      "id": 105509
     },
     {
       "slot": "Legs",
-      "item": "Lightning Emperor's Legplates",
-      "source": "Ji-Kun",
-      "id": 96657
+      "item": "Legplates of Unthinking Strife",
+      "source": "Garrosh Hellscream",
+      "id": 105640
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Wolf-Rider Spurs",
+      "source": "Earthbreaker Haromm",
+      "id": 105531
     },
     {
       "slot": "Ring",
-      "item": "Band of the Scaled Tyrant",
-      "source": "Primordius",
-      "id": 96872
+      "item": "Bloodclaw Band",
+      "source": "Earthbreaker Haromm",
+      "id": 105534
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Seal of the Forgotten Kings",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105589
     },
     {
       "slot": "Trinket",
-      "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun",
-      "id": 96842
+      "item": "Evil Eye of Galakras",
+      "source": "Galakras",
+      "id": 105491
     },
     {
       "slot": "Trinket",
-      "item": "Primordius' Talisman of Rage",
-      "source": "Primordius",
-      "id": 96873
+      "item": "Thok's Tail Tip",
+      "source": "Thok the Bloodthirsty",
+      "id": 105609
     },
     {
       "slot": "Mainhand",
-      "item": "Greatsword of Frozen Hells",
-      "source": "Lei Shen",
-      "id": 96991
+      "item": "Britomart's Jagged Pike",
+      "source": "Thok the Bloodthirsty",
+      "id": 105610
     }
   ],
   "Discipline Priest": [
     {
       "slot": "Helm",
-      "item": "Cowl of the Exorcist",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
-      "id": 96670
+      "item": "Hood of Swirling Senses",
+      "source": "Immerseus",
+      "id": 105420
     },
     {
       "slot": "Neck",
-      "item": "Passionfire Choker",
-      "source": "Lu'lin(Twin Empyreans, Throne of Thunder)",
-      "id": 96909
+      "item": "Lost Necklace of the Mogu Empress",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105593
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Exorcist",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96673
+      "item": "Mantle of the Ternion Glory",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99358
     },
     {
       "slot": "Cloak",
-      "item": "Black Night Thundercloak",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95013
+      "item": "Jina-Kang, Kindness of Chi-Ji",
+      "source": "Legendary Questline",
+      "id": 102247
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Exorcist",
-      "source": "Dark Animus(Throne of Thunder)",
-      "id": 96672
+      "item": "Robes of the Ternion Glory",
+      "source": "Sha of Pride",
+      "id": 99357
     },
     {
       "slot": "Bracers",
-      "item": "Azure Shell Bracers",
-      "source": "Tortos(Throne of Thunder)",
-      "id": 96804
+      "item": "Bracers of Sonic Projection",
+      "source": "Kil'ruk the Wind-Reaver(Paragons of the Klaxxi)",
+      "id": 105626
     },
     {
       "slot": "Gloves",
-      "item": "Handwraps of the Exorcist",
-      "source": "Kazra'jin(Council of Elders, Throne of Thunder)",
-      "id": 96669
+      "item": "Handwraps of the Ternion Glory",
+      "source": "General Nazgrim",
+      "id": 99365
     },
     {
       "slot": "Belt",
-      "item": "Quet'zal's Crackling Cord",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96898
+      "item": "Sash of the Last Guardian",
+      "source": "Amalgam of Corruption",
+      "id": 105463
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Discarded Warning",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95030
+      "item": "Legwraps of the Ternion Glory",
+      "source": "Kil'ruk the Wind-Reaver(Paragons of the Klaxxi)",
+      "id": 99367
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-den(Throne of Thunder)",
-      "id": 95004
+      "item": "Toxic Tornado Treads",
+      "source": "Earthbreaker Haromm(Dark Shaman)",
+      "id": 105537
     },
     {
       "slot": "Ring",
-      "item": "Durumu's Captive Eyeball",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96858
+      "item": "Seal of Sullen Fury",
+      "source": "Malkorok",
+      "id": 105574
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon(Throne of Thunder)",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the Bloodthirsty",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Horridon's Last Gasp",
-      "source": "Horridon(Throne of Thunder)",
-      "id": 96757
+      "item": "Prismatic Prison of Pride",
+      "source": "Sha of Pride",
+      "id": 105474
     },
     {
       "slot": "Trinket",
-      "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96933
+      "item": "Nazgrim's Burnished Insignia",
+      "source": "General Nazgrim",
+      "id": 105549
     },
     {
       "slot": "Mainhand",
-      "item": "Ritual Dagger of the Mind's Eye",
-      "source": "Durumu the Forgotten(Throne of Thunder)",
-      "id": 96859
+      "item": "Immaculately Preserved Wand",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105594
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen(Throne of Thunder)",
-      "id": 96934
+      "item": "Juggernaut's Power Core",
+      "source": "Iron Juggernaut",
+      "id": 105521
     }
   ],
   "Holy Priest": [
     {
       "slot": "Helm",
-      "item": "Cowl of the Exorcist",
-      "source": "Suen",
-      "id": 96670
+      "item": "Hood of Perpetual Implosion",
+      "source": "Malkorok",
+      "id": 105570
     },
     {
       "slot": "Neck",
-      "item": "Passionfire Choker",
-      "source": "Suen",
-      "id": 96909
+      "item": "Necklace of Fading Light",
+      "source": "Sha of Pride",
+      "id": 105473
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Exorcist",
-      "source": "Iron Qon",
-      "id": 96673
+      "item": "Mantle of the Ternion Glory",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99358
     },
     {
       "slot": "Cloak",
-      "item": "Black Night Thundercloak",
-      "source": "Ra-den",
-      "id": 95013
+      "item": "Jina-Kang, Kindness of Chi-Ji",
+      "source": "Timeless Essence of the Black Dragonflight",
+      "id": 102247
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Exorcist",
-      "source": "Dark Animus",
-      "id": 96672
+      "item": "Robes of the Ternion Glory",
+      "source": "Sha of Pride",
+      "id": 99357
     },
     {
       "slot": "Bracers",
-      "item": "Azure Shell Bracers",
-      "source": "Tortos",
-      "id": 96804
+      "item": "Lifebane Bracers",
+      "source": "Rook Stonetoe",
+      "id": 105442
     },
     {
       "slot": "Gloves",
-      "item": "Helix-Breaker Gloves",
-      "source": "Primordius",
-      "id": 96876
+      "item": "Handwraps of the Ternion Glory",
+      "source": "General Nazgrim",
+      "id": 99365
     },
     {
       "slot": "Belt",
-      "item": "Detonation Cord",
-      "source": "Ra-den",
-      "id": 94995
+      "item": "Sash of the Last Guardian",
+      "source": "Norushen",
+      "id": 105463
     },
     {
       "slot": "Legs",
-      "item": "Legwraps of the Exorcist",
-      "source": "Ji-Kun",
-      "id": 96671
+      "item": "Legwraps of the Ternion Glory",
+      "source": "Skeer the Bloodseeker",
+      "id": 99367
     },
     {
       "slot": "Boots",
-      "item": "Treads of Delicate Fascia",
-      "source": "Ra-den",
-      "id": 95005
+      "item": "Skydancer Boots",
+      "source": "Galakras",
+      "id": 105496
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Evolving Signet",
-      "source": "Ra-den",
-      "id": 95018
+      "item": "Seal of Sullen Fury",
+      "source": "Malkorok",
+      "id": 105574
     },
     {
       "slot": "Ring",
-      "item": "Durumu's Captive Eyeball",
-      "source": "Durumu the Forgotten",
-      "id": 96858
+      "item": "Seal of Eternal Sorrow",
+      "source": "Immerseus",
+      "id": 105423
     },
     {
       "slot": "Trinket",
-      "item": "Horridon's Last Gasp",
-      "source": "Horridon",
-      "id": 96757
+      "item": "Prismatic Prison of Pride",
+      "source": "Sha of Pride",
+      "id": 105474
     },
     {
       "slot": "Trinket",
-      "item": "Lightning-Imbued Chalice",
-      "source": "Lei Shen",
-      "id": 96933
+      "item": "Dysmorphic Samophlange of Discontinuity",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105615
     },
     {
       "slot": "Mainhand",
-      "item": "Ritual Dagger of the Mind's Eye",
-      "source": "Durumu the Forgotten",
-      "id": 96859
-    },
-    {
-      "slot": "Off-hand",
-      "item": "Orb of Arcing Lightning",
-      "source": "Iron Qon",
-      "id": 96902
+      "item": "Drakebinder Greatstaff",
+      "source": "Galakras",
+      "id": 105499
     }
   ],
   "Shadow Priest": [
     {
       "slot": "Helm",
-      "item": "Hood of the Crimson Wake",
-      "source": "Dark Animus",
-      "id": 96887
+      "item": "Hood of Swirling Senses",
+      "source": "Immerseus",
+      "id": 105420
     },
     {
       "slot": "Neck",
-      "item": "Soul Prism of Lei Shen",
-      "source": "Lei Shen",
-      "id": 96932
+      "item": "Necklace of Fading Light",
+      "source": "Sha of Pride",
+      "id": 105473
     },
     {
       "slot": "Shoulders",
-      "item": "Shoulderguards of the Exorcist",
-      "source": "Iron Qon",
-      "id": 96678
+      "item": "Shoulderguards of the Ternion Glory",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99363
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the Forgotten",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Quest Chain",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Raiment of the Exorcist",
-      "source": "Dark Animus",
-      "id": 96677
+      "item": "Raiment of the Ternion Glory",
+      "source": "Sha of Pride",
+      "id": 99362
     },
     {
       "slot": "Bracers",
-      "item": "Frostborn Wristwraps(Haste)",
-      "source": "Megaera",
-      "id": "NOT_FOUND"
+      "item": "Bracers of Broken Causation",
+      "source": "Boss Drop",
+      "id": 105461
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of the Exorcist",
-      "source": "High Priestess Mar'li",
-      "id": 96674
+      "item": "Gloves of the Ternion Glory",
+      "source": "General Nazgrim",
+      "id": 99359
     },
     {
       "slot": "Belt",
-      "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun",
-      "id": 96834
+      "item": "Belt of the Broken Pact",
+      "source": "Garrosh Hellscream",
+      "id": 105646
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Exorcist",
-      "source": "Ji-Kun",
-      "id": 96676
+      "item": "Leggings of the Ternion Glory",
+      "source": "Kil'ruk the Wind-Reaver",
+      "id": 99361
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-den",
-      "id": 95004
+      "item": "Bone-Inlaid Sandals",
+      "source": "Galakras",
+      "id": 105493
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Evolving Signet",
-      "source": "Ra-den",
-      "id": 95018
+      "item": "Laser-Slice Signet",
+      "source": "Iron Juggernaut",
+      "id": 105520
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-den",
-      "id": 95019
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the Bloodthirsty",
+      "id": 105606
     },
     {
       "slot": "Trinket",
-      "item": "Unerring Vision of Lei Shen",
-      "source": "Megaera",
-      "id": 96930
+      "item": "Purified Bindings of Immerseus",
+      "source": "Immerseus",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "High Priestess Mar'li",
-      "id": 96785
+      "item": "Kardris' Toxic Totem",
+      "source": "Boss Drop",
+      "id": 105540
     },
     {
       "slot": "Mainhand",
-      "item": "Torall, Rod of the Shattered Throne",
-      "source": "Lei Shen",
-      "id": 96931
+      "item": "Horned Mace of the Old Ones",
+      "source": "Garrosh Hellscream",
+      "id": 105649
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen",
-      "id": 96934
+      "item": "Juggernaut's Power Core",
+      "source": "Iron Juggernaut",
+      "id": 105521
     }
   ],
   "Assassination Rogue": [
     {
       "slot": "Helm",
-      "item": "Lightning-Eye Hood",
-      "source": "Jin'rokh the Breaker",
-      "id": 96742
+      "item": "Helmet of the Barbed Assassin",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 99348
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Flaming Head",
-      "id": 96815
+      "item": "Immerseus' Crystalline Eye",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105407
     },
     {
       "slot": "Shoulders",
-      "item": "Nine-Tailed Spaulders",
-      "source": "Iron Qon",
-      "id": 96683
+      "item": "Spaulders of the Barbed Assassin",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 99350
     },
     {
       "slot": "Cloak",
-      "item": "Pinionfeather Greatcloak",
-      "source": "Ji-Kun",
-      "id": 96833
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Nine-Tailed Tunic",
-      "source": "Dark Animus",
-      "id": 96679
+      "item": "Tunic of the Barbed Assassin",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 99356
     },
     {
       "slot": "Bracers",
-      "item": "Bindings of Multiplicative Strikes",
-      "source": "Horridon",
-      "id": 96764
+      "item": "Bomber's Blackened Wristwatch",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 105616
     },
     {
       "slot": "Gloves",
-      "item": "Nine-Tailed Gloves",
-      "source": "Kazra'jin",
-      "id": 96680
+      "item": "Gloves of the Barbed Assassin",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 99355
     },
     {
       "slot": "Belt",
-      "item": "Strap of Murderous Strikes",
-      "source": "Ra-den",
-      "id": 94998
+      "item": "Damron's Belt of Darkness",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105528
     },
     {
       "slot": "Legs",
-      "item": "Nine-Tailed Legguards",
-      "source": "Ji-Kun",
-      "id": 96682
+      "item": "Riou's Vigilant Leggings",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105529
     },
     {
       "slot": "Boots",
-      "item": "Spurs of the Storm Cavalry",
-      "source": "Iron Qon",
-      "id": 96903
+      "item": "Unrepentant Heels",
+      "source": "Galakras-Siege of Orgrimmar",
+      "id": 105484
     },
     {
       "slot": "Ring",
-      "item": "Sign of the Bloodied God",
-      "source": "Jin'rokh the Breaker",
-      "id": 96740
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Skeer the Bloodseeker-Siege of Orgrimmar",
+      "id": 105624
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus",
-      "id": 96885
+      "item": "Ring of Restless Energy",
+      "source": "Malkorok-Siege of Orgrimmar",
+      "id": 105558
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker",
-      "id": 96741
+      "item": "Haromm's Talisman",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105527
     },
     {
       "slot": "Trinket",
-      "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Shado-Pan AssaultFriendly",
-      "id": 94511
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 105472
     },
     {
       "slot": "Mainhand",
-      "item": "Fyn's Flickering Dagger",
-      "source": "Throne of ThunderShared Boss Loot",
-      "id": 96976
+      "item": "Nazgrim's Gutripper",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 105547
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Nazgrim's Gutripper",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 105547
     }
   ],
   "Combat Rogue": [
     {
       "slot": "Helm",
-      "item": "Lightning-Eye Hood",
-      "source": "Jin'rokh the Breaker",
-      "id": 96742
+      "item": "Kor'kron Elite Skullmask",
+      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "id": 105636
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Flaming Head",
-      "id": 96815
+      "item": "Immerseus' Crystalline Eye",
+      "source": "Immerseus-Siege of Orgrimmar",
+      "id": 105407
     },
     {
       "slot": "Shoulders",
       "item": "Nine-Tailed Spaulders",
-      "source": "Iron Qon",
+      "source": "Iron Qon-Throne of Thunder",
       "id": 96683
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
       "item": "Nine-Tailed Tunic",
-      "source": "Dark Animus",
+      "source": "Dark Animus-Throne of Thunder",
       "id": 96679
     },
     {
       "slot": "Bracers",
-      "item": "Bracers of the Midnight Comet",
-      "source": "Lu'lin",
-      "id": 96540
+      "item": "Bomber's Blackened Wristwatch",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 105616
     },
     {
       "slot": "Gloves",
       "item": "Nine-Tailed Gloves",
-      "source": "Kazra'jin",
+      "source": "Kazra'jin-Throne of Thunder",
       "id": 96680
     },
     {
       "slot": "Belt",
-      "item": "Strap of Murderous Strikes",
-      "source": "Ra-den",
-      "id": 94998
+      "item": "Damron's Belt of Darkness",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105528
     },
     {
       "slot": "Legs",
       "item": "Nine-Tailed Legguards",
-      "source": "Ji-Kun",
+      "source": "Ji-Kun-Throne of Thunder",
       "id": 96682
     },
     {
       "slot": "Boots",
-      "item": "Twist-Toe Tabi",
-      "source": "Ra-den",
-      "id": 95007
+      "item": "Pandaren Roofsprinters",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105582
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den",
-      "id": 95021
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Skeer the Bloodseeker-Siege of Orgrimmar",
+      "id": 105624
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus",
-      "id": 96885
+      "item": "Swift Serpent Signet",
+      "source": "Galakras-Siege of Orgrimmar",
+      "id": 105483
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker",
-      "id": 96741
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 105472
     },
     {
       "slot": "Trinket",
-      "item": "Bad Juju",
-      "source": "Kazra'jin",
-      "id": 96781
+      "item": "Haromm's Talisman",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105527
     },
     {
       "slot": "Mainhand",
-      "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Lu'lin",
-      "id": 96907
+      "item": "Enchanted Shao-Tien Saber",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105581
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Enchanted Shao-Tien Saber",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105581
     }
   ],
   "Subtlety Rogue": [
     {
       "slot": "Helm",
-      "item": "Lightning-Eye Hood",
-      "source": "Jin'rokh the Breaker",
-      "id": 96742
+      "item": "Helmet of the Barbed Assassin",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 99348
     },
     {
       "slot": "Neck",
-      "item": "Quadra-Head Brooch",
-      "source": "Flaming Head",
-      "id": 96815
+      "item": "Gleaming Eye of the Devilsaur",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 105602
     },
     {
       "slot": "Shoulders",
-      "item": "Nine-Tailed Spaulders",
-      "source": "Iron Qon",
-      "id": 96683
+      "item": "Spaulders of the Barbed Assassin",
+      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "id": 99350
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Legendary Questline",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Nine-Tailed Tunic",
-      "source": "Dark Animus",
-      "id": 96679
+      "item": "Tunic of the Barbed Assassin",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 99356
     },
     {
       "slot": "Bracers",
-      "item": "Bindings of Multiplicative Strikes",
-      "source": "Horridon",
-      "id": 96764
+      "item": "Laser Burn Bracers",
+      "source": "Iron Juggernaut-Siege of Orgrimmar",
+      "id": 105505
     },
     {
       "slot": "Gloves",
-      "item": "Nine-Tailed Gloves",
-      "source": "Kazra'jin",
-      "id": 96680
+      "item": "Gloves of the Barbed Assassin",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 99355
     },
     {
       "slot": "Belt",
-      "item": "Strap of Murderous Strikes",
-      "source": "Ra-den",
-      "id": 94998
+      "item": "Cord of Black Dreams",
+      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "id": 105635
     },
     {
       "slot": "Legs",
-      "item": "Nine-Tailed Legguards",
-      "source": "Ji-Kun",
-      "id": 96682
+      "item": "Riou's Vigilant Leggings",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105529
     },
     {
       "slot": "Boots",
-      "item": "Spurs of the Storm Cavalry",
-      "source": "Iron Qon",
-      "id": 96903
+      "item": "Pandaren Roofsprinters",
+      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "id": 105582
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus",
-      "id": 96885
+      "item": "Reality Ripper Ring",
+      "source": "Norushen-Siege of Orgrimmar",
+      "id": 105451
     },
     {
       "slot": "Ring",
-      "item": "Sign of the Bloodied God",
-      "source": "Jin'rokh the Breaker",
-      "id": 96740
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Skeer the Bloodseeker-Siege of Orgrimmar",
+      "id": 105624
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker",
-      "id": 96741
+      "item": "Haromm's Talisman",
+      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "id": 105527
     },
     {
       "slot": "Trinket",
-      "item": "Vicious Talisman of the Shado-Pan Assault",
-      "source": "Shado-Pan AssaultFriendly",
-      "id": 94511
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride-Siege of Orgrimmar",
+      "id": 105472
     },
     {
       "slot": "Mainhand",
-      "item": "Fyn's Flickering Dagger",
-      "source": "Throne of ThunderShared Boss Loot",
-      "id": 96976
+      "item": "Hvitserk's Formidable Shanker",
+      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "id": 105601
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Nazgrim's Gutripper",
+      "source": "General Nazgrim-Siege of Orgrimmar",
+      "id": 105547
     }
   ],
   "Elemental Shaman": [
     {
       "slot": "Helm",
-      "item": "Clear-Mind Helm",
-      "source": "PrimordiusinThrone of Thunder",
-      "id": 96881
+      "item": "Headpiece of Celestial Harmony",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 99332
     },
     {
       "slot": "Neck",
-      "item": "Soul Prism of Lei Shen",
-      "source": "Lei SheninThrone of Thunder",
-      "id": 96932
+      "item": "Lost Necklace of the Mogu Empress",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105593
     },
     {
       "slot": "Shoulders",
-      "item": "Shoulderwraps of the Witch Doctor",
-      "source": "Iron QoninThrone of Thunder",
-      "id": 96698
+      "item": "Shoulderwraps of Celestial Harmony",
+      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "id": 99334
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgotteninThrone of Thunder",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Hauberk of the Witch Doctor",
-      "source": "Dark AnimusinThrone of Thunder",
-      "id": 96694
+      "item": "Hauberk of Celestial Harmony",
+      "source": "Sha of PrideSiege of Orgrimmar",
+      "id": 99344
     },
     {
       "slot": "Bracers",
-      "item": "Loa-Ridden Bracers",
-      "source": "Council of EldersinThrone of Thunder",
-      "id": 96789
+      "item": "Cavemaker Wristguards",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105524
     },
     {
       "slot": "Gloves",
-      "item": "Gloves of the Witch Doctor",
-      "source": "Council of EldersinThrone of Thunder",
-      "id": 96695
+      "item": "Grips of Tidal Force",
+      "source": "GalakrasSiege of Orgrimmar",
+      "id": 105501
     },
     {
       "slot": "Belt",
-      "item": "Longdraw Chain Belt",
-      "source": "Ra-deninThrone of Thunder",
-      "id": 94999
+      "item": "Chitin-Link Chain Belt",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105597
     },
     {
       "slot": "Legs",
-      "item": "Kilt of the Witch Doctor",
-      "source": "Ji-KuninThrone of Thunder",
-      "id": 96697
+      "item": "Leggings of Celestial Harmony",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 99333
     },
     {
       "slot": "Boots",
-      "item": "Ghostbinder Greatboots",
-      "source": "Jin'rokh the BreakerinThrone of Thunder",
-      "id": 96759
+      "item": "Powder-Stained Totemic Treads",
+      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "id": 105618
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-deninThrone of Thunder",
-      "id": 95019
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Evolving Signet",
-      "source": "Ra-deninThrone of Thunder",
-      "id": 95018
+      "item": "Laser-Slice Signet",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105520
     },
     {
       "slot": "Trinket",
-      "item": "Breath of the Hydra",
-      "source": "Flaming HeadinThrone of Thunder",
-      "id": 96827
+      "item": "Kardris' Toxic Totem",
+      "source": "Earthbreaker HarommSiege of Orgrimmar",
+      "id": 105540
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "Council of EldersinThrone of Thunder",
-      "id": 96785
+      "item": "Purified Bindings of Immerseus",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusinThrone of Thunder",
-      "id": 96890
+      "item": "Horned Mace of the Old Ones",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105649
     },
     {
       "slot": "Off-hand",
-      "item": "Shield of Twinned Despair",
-      "source": "Twin ConsortsinThrone of Thunder",
-      "id": 96910
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Enhancement Shaman": [
     {
       "slot": "Helm",
-      "item": "Gaze of Gara'jal",
-      "source": "High Priestess Mar'li",
-      "id": 96788
+      "item": "Helmet of Celestial Harmony",
+      "source": "Thok the Bloodthirsty",
+      "id": 99341
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Living Poison",
-      "source": "Horridon",
-      "id": 96762
+      "item": "Immerseus' Crystalline Eye",
+      "source": "Immerseus",
+      "id": 105407
     },
     {
       "slot": "Shoulders",
-      "item": "Abandoned Spaulders of Arrowflight",
-      "source": "Ji-Kun",
-      "id": 96986
+      "item": "Spaulders of Celestial Harmony",
+      "source": "Siegecrafter Blackfuse",
+      "id": 99343
     },
     {
       "slot": "Cloak",
-      "item": "Grey Wind Mistcloak",
-      "source": "Ra-den",
-      "id": 95015
+      "item": "Fen-Yu, Fury of Xuen",
+      "source": "Timeless Essence of the Black Dragonflight",
+      "id": 102248
     },
     {
       "slot": "Chest",
-      "item": "Scales of Shaped Flesh",
-      "source": "Ra-den",
-      "id": 95034
+      "item": "Ancient Archer's Chestguard",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105585
     },
     {
       "slot": "Bracers",
-      "item": "Beady-Eye Bracers",
-      "source": "Tortos",
-      "id": 96797
+      "item": "Bracers of Infinite Pipes",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105617
     },
     {
       "slot": "Gloves",
-      "item": "Synapse-String Handguards",
-      "source": "Primordius",
-      "id": 96867
+      "item": "Grips of Celestial Harmony",
+      "source": "General Nazgrim",
+      "id": 99340
     },
     {
       "slot": "Belt",
-      "item": "Jingling Fetishgirdle",
-      "source": "Ra-den",
-      "id": 95000
+      "item": "Arrowflight Girdle",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105584
     },
     {
       "slot": "Legs",
-      "item": "Conduit-Breaker Chain Leggings",
-      "source": "Lei Shen",
-      "id": 96921
+      "item": "Legguards of Celestial Harmony",
+      "source": "The Klaxxi Paragons",
+      "id": 99342
     },
     {
       "slot": "Boots",
-      "item": "Treads of the Sanguine Volley",
-      "source": "Ra-den",
-      "id": 95009
+      "item": "Minelayer's Padded Boots",
+      "source": "Iron Juggernaut",
+      "id": 105507
     },
     {
       "slot": "Ring",
-      "item": "Gore-Soaked Gear",
-      "source": "Dark Animus",
-      "id": 96885
+      "item": "Kil'ruk's Band of Ascendancy",
+      "source": "Hisek the Swarmkeeper/Norushen/Iyyokuk the Lucid/Ka'roz the Locust/Kaz'tik the Manipulator/Kil'ruk the Wind-Reaver/Korven the Prime/Rik'kal the Dissector/Skeer the Bloodseeker/Xaril the Poisoned Mind",
+      "id": 105624
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Swift Seal",
-      "source": "Ra-den",
-      "id": 95021
+      "item": "Reality Ripper Ring",
+      "source": "Amalgam of Corruption/Norushen",
+      "id": 105451
     },
     {
       "slot": "Trinket",
-      "item": "Renataki's Soul Charm",
-      "source": "Jin'rokh the Breaker",
-      "id": 96741
+      "item": "Assurance of Consequence",
+      "source": "Sha of Pride",
+      "id": 105472
     },
     {
       "slot": "Trinket",
-      "item": "Bad Juju",
-      "source": "High Priestess Mar'li",
-      "id": 96781
+      "item": "Haromm's Talisman",
+      "source": "Earthbreaker Haromm/Wavebinder Kardris",
+      "id": 105527
     },
     {
       "slot": "Mainhand",
-      "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Suen",
-      "id": 96907
+      "item": "Korven's Crimson Crescent",
+      "source": "Hisek the Swarmkeeper/Iyyokuk the Lucid/Ka'roz the Locust/Kaz'tik the Manipulator/Kil'ruk the Wind-Reaver/Korven the Prime/Rik'kal the Dissector/Skeer the Bloodseeker/Xaril the Poisoned Mind",
+      "id": 105625
     },
     {
       "slot": "Off-hand",
-      "item": "Wu-Lai, Bladed Fan of the Empyreans",
-      "source": "Suen",
-      "id": 96907
+      "item": "Korven's Crimson Crescent",
+      "source": "Hisek the Swarmkeeper/Iyyokuk the Lucid/Ka'roz the Locust/Kaz'tik the Manipulator/Kil'ruk the Wind-Reaver/Korven the Prime/Rik'kal the Dissector/Skeer the Bloodseeker/Xaril the Poisoned Mind",
+      "id": 105625
     }
   ],
   "Restoration Shaman": [
     {
       "slot": "Helm",
-      "item": "Clear-Mind Helm",
-      "source": "PrimordiusinThrone of Thunder",
-      "id": 96881
+      "item": "Headpiece of Celestial Harmony",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 99332
     },
     {
       "slot": "Neck",
-      "item": "Soul Prism of Lei Shen",
-      "source": "Lei SheninThrone of Thunder",
-      "id": 96932
+      "item": "Lost Necklace of the Mogu Empress",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105593
     },
     {
       "slot": "Shoulders",
-      "item": "Abandoned Spaulders of Renewal",
-      "source": "Council of EldersinThrone of Thunder",
-      "id": 96987
+      "item": "Shoulderwraps of Celestial Harmony",
+      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "id": 99334
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgotteninThrone of Thunder",
-      "id": 96857
+      "item": "Jina-Kang, Kindness of Chi-Ji",
+      "source": "Legendary Questline",
+      "id": 102247
     },
     {
       "slot": "Chest",
-      "item": "Tunic of the Witch Doctor",
-      "source": "Dark AnimusinThrone of Thunder",
-      "id": 96684
+      "item": "Hauberk of Celestial Harmony",
+      "source": "Sha of PrideSiege of Orgrimmar",
+      "id": 99344
     },
     {
       "slot": "Bracers",
-      "item": "Loa-Ridden Bracers",
-      "source": "Council of EldersinThrone of Thunder",
-      "id": 96789
+      "item": "Cavemaker Wristguards",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105524
     },
     {
       "slot": "Gloves",
-      "item": "Handwraps of the Witch Doctor",
-      "source": "Council of EldersinThrone of Thunder",
-      "id": 96685
+      "item": "Grips of Tidal Force",
+      "source": "GalakrasSiege of Orgrimmar",
+      "id": 105501
     },
     {
       "slot": "Belt",
-      "item": "Longdraw Chain Belt",
-      "source": "Ra-deninThrone of Thunder",
-      "id": 94999
+      "item": "Chitin-Link Chain Belt",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105597
     },
     {
       "slot": "Legs",
-      "item": "Legguards of Scintillating Scales",
-      "source": "HorridoninThrone of Thunder",
-      "id": 96779
+      "item": "Leggings of Celestial Harmony",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 99333
     },
     {
       "slot": "Boots",
-      "item": "World-Mote Sabatons",
-      "source": "Ra-deninThrone of Thunder",
-      "id": 95008
+      "item": "Powder-Stained Totemic Treads",
+      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "id": 105618
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron QoninThrone of Thunder",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Evolving Signet",
-      "source": "Ra-deninThrone of Thunder",
-      "id": 95018
+      "item": "Laser-Slice Signet",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105520
     },
     {
       "slot": "Trinket",
-      "item": "Lightning-Imbued Chalice",
-      "source": "Lei SheninThrone of Thunder",
-      "id": 96933
+      "item": "Thok's Acid-Grooved Tooth",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105607
     },
     {
       "slot": "Trinket",
-      "item": "Horridon's Last Gasp",
-      "source": "HorridoninThrone of Thunder",
-      "id": 96757
+      "item": "Prismatic Prison of Pride",
+      "source": "Sha of PrideSiege of Orgrimmar",
+      "id": 105474
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusinThrone of Thunder",
-      "id": 96890
+      "item": "Horned Mace of the Old Ones",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105649
     },
     {
       "slot": "Off-hand",
-      "item": "Tortos' Discarded Shell",
-      "source": "TortosinThrone of Thunder",
-      "id": 96808
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Affliction Warlock": [
     {
       "slot": "Helm",
-      "item": "Hood of the Crimson Wake",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96887
+      "item": "Ebon Ritual Hood",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105647
     },
     {
       "slot": "Neck",
-      "item": "Necklace of the Terra-Cotta Invoker",
-      "source": "Trash MobsThrone of Thunder",
-      "id": 97080
+      "item": "Untainted Guardian's Chain",
+      "source": "NorushenSiege of Orgrimmar",
+      "id": 105465
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Thousandfold Hells",
-      "source": "Iron QonThrone of Thunder",
-      "id": 96729
+      "item": "Mantle of the Horned Nightmare",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 99417
     },
     {
       "slot": "Cloak",
-      "item": "Red Sky Cloudcloak",
-      "source": "Ra-denThrone of Thunder",
-      "id": 95014
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Thousandfold Hells",
-      "source": "Dark Animus Throne of Thunder",
-      "id": 96728
+      "item": "Mantid Vizier's Robes",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105592
     },
     {
       "slot": "Bracers",
-      "item": "Frostborn Wristwraps",
-      "source": "Flaming Head Throne of Thunder",
-      "id": 96452
+      "item": "Avool's Ancestral Bracers",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105591
     },
     {
       "slot": "Gloves",
-      "item": "Lifedrainer's Sordid Grip",
-      "source": "Durumu the Forgotten Throne of Thunder",
-      "id": 96854
+      "item": "Gloves of the Horned Nightmare",
+      "source": "General NazgrimSiege of Orgrimmar",
+      "id": 99424
     },
     {
       "slot": "Belt",
-      "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun Throne of Thunder",
-      "id": 96834
+      "item": "Belt of Ominous Trembles",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105515
     },
     {
       "slot": "Legs",
-      "item": "Leggings of the Discarded Warning",
-      "source": "Ra-denThrone of Thunder",
-      "id": 95030
+      "item": "Leggings of Furious Flame",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105516
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-denThrone of Thunder",
-      "id": 95004
+      "item": "Bone-Inlaid Sandals",
+      "source": "GalakrasSiege of Orgrimmar",
+      "id": 105493
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron QonThrone of Thunder",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-denThrone of Thunder",
-      "id": 95019
+      "item": "Iyyokuk's Hereditary Seal",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 105628
     },
     {
       "slot": "Trinket",
-      "item": "Unerring Vision of Lei Shen",
-      "source": "Lei ShenThrone of Thunder",
-      "id": 96930
+      "item": "Purified Bindings of Immerseus",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "High Priestess Mar'liThrone of Thunder",
-      "id": 96785
+      "item": "Black Blood of Y'Shaarj",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105648
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96890
-    },
-    {
-      "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei ShenThrone of Thunder",
-      "id": 96934
+      "item": "Hellscream's War Staff",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105690
     }
   ],
   "Demonology Warlock": [
     {
       "slot": "Helm",
-      "item": "Hood of the Crimson Wake",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96887
+      "item": "Ebon Ritual Hood",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105647
     },
     {
       "slot": "Neck",
-      "item": "Necklace of the Terra-Cotta Invoker",
-      "source": "Trash MobsThrone of Thunder",
-      "id": 97080
+      "item": "Untainted Guardian's Chain",
+      "source": "NorushenSiege of Orgrimmar",
+      "id": 105465
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Thousandfold Hells",
-      "source": "Iron QonThrone of Thunder",
-      "id": 96729
+      "item": "Mantle of the Horned Nightmare",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 99417
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgottenThrone of Thunder",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Thousandfold Hells",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96728
+      "item": "Robes of the Horned Nightmare",
+      "source": "Sha of PrideSiege of Orgrimmar",
+      "id": 99416
     },
     {
       "slot": "Bracers",
-      "item": "Frostborn Wristwraps",
-      "source": "Flaming Head Throne of Thunder",
-      "id": 96452
+      "item": "Avool's Ancestral Bracers",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105591
     },
     {
       "slot": "Gloves",
-      "item": "Lifedrainer's Sordid Grip",
-      "source": "Durumu the ForgottenThrone of Thunder",
-      "id": 96854
+      "item": "Gloves of the Horned Nightmare",
+      "source": "General NazgrimSiege of Orgrimmar",
+      "id": 99424
     },
     {
       "slot": "Belt",
-      "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-KunThrone of Thunder",
-      "id": 96834
+      "item": "Belt of Ominous Trembles",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105515
     },
     {
       "slot": "Legs",
-      "item": "Legwraps of Cardinality",
-      "source": "Lei ShenThrone of Thunder",
-      "id": 96928
+      "item": "Leggings of the Horned Nightmare",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 99426
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-denThrone of Thunder",
-      "id": 95004
+      "item": "Bone-Inlaid Sandals",
+      "source": "GalakrasSiege of Orgrimmar",
+      "id": 105493
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron QonThrone of Thunder",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-denThrone of Thunder",
-      "id": 95019
+      "item": "Iyyokuk's Hereditary Seal",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 105628
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "Lei ShenThrone of Thunder",
-      "id": 96785
+      "item": "Purified Bindings of Immerseus",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Unerring Vision of Lei Shen",
-      "source": "Kazra'jinThrone of Thunder",
-      "id": 96930
+      "item": "Black Blood of Y'Shaarj",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105648
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96890
+      "item": "Arcweaver Spell Sword",
+      "source": "General NazgrimSiege of Orgrimmar",
+      "id": 105550
     },
     {
       "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei ShenThrone of Thunder",
-      "id": 96934
+      "item": "Revelations of Y'Shaarj",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105650
     }
   ],
   "Destruction Warlock": [
     {
       "slot": "Helm",
-      "item": "Hood of the Crimson Wake",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96887
+      "item": "Hood of Swirling Senses",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105420
     },
     {
       "slot": "Neck",
-      "item": "Necklace of the Terra-Cotta Invoker",
-      "source": "Trash MobsThrone of Thunder",
-      "id": 97080
+      "item": "Untainted Guardian's Chain",
+      "source": "NorushenSiege of Orgrimmar",
+      "id": 105465
     },
     {
       "slot": "Shoulders",
-      "item": "Mantle of the Thousandfold Hells",
-      "source": "Iron QonThrone of Thunder",
-      "id": 96729
+      "item": "Mantle of the Horned Nightmare",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 99417
     },
     {
       "slot": "Cloak",
-      "item": "Deadly Glare Cape",
-      "source": "Durumu the ForgottenThrone of Thunder",
-      "id": 96857
+      "item": "Xing-Ho, Breath of Yu'lon",
+      "source": "Legendary Questline",
+      "id": 102246
     },
     {
       "slot": "Chest",
-      "item": "Robes of the Thousandfold Hells",
-      "source": "Dark AnimusThrone of Thunder",
-      "id": 96728
+      "item": "Robes of the Tendered Heart",
+      "source": "Sun TenderheartSiege of Orgrimmar",
+      "id": 105440
     },
     {
       "slot": "Bracers",
-      "item": "Frostborn Wristwraps",
-      "source": "Flaming Head Throne of Thunder",
-      "id": 96452
+      "item": "Avool's Ancestral Bracers",
+      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "id": 105591
     },
     {
       "slot": "Gloves",
-      "item": "Lifedrainer's Sordid Grip",
-      "source": "Durumu the Forgotten Throne of Thunder",
-      "id": 96854
+      "item": "Gloves of the Horned Nightmare",
+      "source": "General NazgrimSiege of Orgrimmar",
+      "id": 99424
     },
     {
       "slot": "Belt",
-      "item": "Cord of Cacophonous Cawing",
-      "source": "Ji-Kun Throne of Thunder",
-      "id": 96834
+      "item": "Miasmic Skullbelt",
+      "source": "MalkorokSiege of Orgrimmar",
+      "id": 105569
     },
     {
       "slot": "Legs",
-      "item": "Legwraps of Cardinality",
-      "source": "Lei Shen Throne of Thunder",
-      "id": 96928
+      "item": "Leggings of Furious Flame",
+      "source": "Iron JuggernautSiege of Orgrimmar",
+      "id": 105516
     },
     {
       "slot": "Boots",
-      "item": "Starwalker Sandals",
-      "source": "Ra-den Throne of Thunder",
-      "id": 95004
+      "item": "Bone-Inlaid Sandals",
+      "source": "GalakrasSiege of Orgrimmar",
+      "id": 105493
     },
     {
       "slot": "Ring",
-      "item": "Ro'shak's Remembrance",
-      "source": "Iron Qon Throne of Thunder",
-      "id": 96901
+      "item": "Signet of the Dinomancers",
+      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "id": 105606
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Summoning Band",
-      "source": "Ra-den Throne of Thunder",
-      "id": 95019
+      "item": "Iyyokuk's Hereditary Seal",
+      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "id": 105628
     },
     {
       "slot": "Trinket",
-      "item": "Wushoolay's Final Choice",
-      "source": "Lei Shen Throne of Thunder",
-      "id": 96785
+      "item": "Purified Bindings of Immerseus",
+      "source": "ImmerseusSiege of Orgrimmar",
+      "id": 105422
     },
     {
       "slot": "Trinket",
-      "item": "Unerring Vision of Lei Shen",
-      "source": "Kazra'jin Throne of Thunder",
-      "id": 96930
+      "item": "Black Blood of Y'Shaarj",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105648
     },
     {
       "slot": "Mainhand",
-      "item": "Athame of the Sanguine Ritual",
-      "source": "Dark Animus Throne of Thunder",
-      "id": 96890
-    },
-    {
-      "slot": "Off-hand",
-      "item": "Lei Shen's Orb of Command",
-      "source": "Lei Shen Throne of Thunder",
-      "id": 96934
+      "item": "Hellscream's War Staff",
+      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "id": 105690
     }
   ],
   "Arms Warrior": [
     {
       "slot": "Helm",
-      "item": "Crown of the Golden Golem",
-      "source": "Dark Animus",
-      "id": 96894
+      "item": "Helmet of the Prehistoric Marauder",
+      "source": "Thok the Bloodthirsty",
+      "id": 99418
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Angry Spirits",
-      "source": "Kazra'jin",
-      "id": 96792
+      "item": "Malkorok's Tainted Dog Tags",
+      "source": "Malkorok",
+      "id": 105566
     },
     {
       "slot": "Shoulders",
-      "item": "Pauldrons of the Last Mogu",
-      "source": "Iron Qon",
-      "id": 96734
+      "item": "Tusks of Mannoroth",
+      "source": "Garrosh Hellscream",
+      "id": 105642
     },
     {
       "slot": "Cloak",
-      "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den",
-      "id": 95017
+      "item": "Gong-Lu, Strength of Xuen",
+      "source": "Legendary Questline",
+      "id": 102249
     },
     {
       "slot": "Chest",
-      "item": "Battleplate of the Last Mogu",
-      "source": "Dark Animus",
-      "id": 96731
+      "item": "Breastplate of Shamanic Mirrors",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105532
     },
     {
       "slot": "Bracers",
-      "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten",
-      "id": 96476
+      "item": "Bracers of Blind Hatred",
+      "source": "Norushen",
+      "id": 105456
     },
     {
       "slot": "Gloves",
-      "item": "Gauntlets of the Last Mogu",
-      "source": "Kazra'jin",
-      "id": 96732
+      "item": "Tar-Coated Gauntlets",
+      "source": "Iron Juggernaut",
+      "id": 105511
     },
     {
       "slot": "Belt",
-      "item": "Flare-Forged Greatbelt",
-      "source": "Ra-den",
-      "id": 95003
+      "item": "Ashen Wall Girdle",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105533
     },
     {
       "slot": "Legs",
-      "item": "Legplates of the Last Mogu",
-      "source": "Ji-Kun",
-      "id": 96733
+      "item": "Legplates of the Prehistoric Marauder",
+      "source": "Paragons of the Klaxxi",
+      "id": 99413
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Greaves of Sublime Superiority",
+      "source": "Sha of Pride",
+      "id": 105478
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Bloodclaw Band",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105534
     },
     {
       "slot": "Ring",
-      "item": "Band of the Scaled Tyrant",
-      "source": "Primordius",
-      "id": 96872
+      "item": "Devilfang Band",
+      "source": "Thok the Bloodthirsty",
+      "id": 105611
     },
     {
       "slot": "Trinket",
-      "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun",
-      "id": 96842
+      "item": "Evil Eye of Galakras",
+      "source": "Galakras",
+      "id": 105491
     },
     {
       "slot": "Trinket",
-      "item": "Primordius' Talisman of Rage",
-      "source": "Primordius",
-      "id": 96873
+      "item": "Thok's Tail Tip",
+      "source": "Thok the Bloodthirsty",
+      "id": 105609
     },
     {
       "slot": "Mainhand",
-      "item": "Uroe, Harbinger of Terror",
-      "source": "Lei Shen",
-      "id": 96925
+      "item": "Xal'atoh, Desecrated Image of Gorehowl",
+      "source": "Garrosh Hellscream",
+      "id": 105644
     }
   ],
   "Fury Warrior": [
     {
       "slot": "Helm",
-      "item": "Crown of the Golden Golem",
-      "source": "Dark Animus",
-      "id": 96894
+      "item": "Helmet of the Prehistoric Marauder",
+      "source": "Thok the Bloodthirsty",
+      "id": 99418
     },
     {
       "slot": "Neck",
-      "item": "Talisman of Angry Spirits",
-      "source": "Kazra'jin",
-      "id": 96792
+      "item": "Malkorok's Tainted Dog Tags",
+      "source": "Malkorok",
+      "id": 105566
     },
     {
       "slot": "Shoulders",
-      "item": "Pauldrons of the Last Mogu",
-      "source": "Iron Qon",
-      "id": 96734
+      "item": "Tusks of Mannoroth",
+      "source": "Garrosh Hellscream",
+      "id": 105642
     },
     {
       "slot": "Cloak",
-      "item": "Yellow Dawn Lightningcloak",
-      "source": "Ra-den",
-      "id": 95017
+      "item": "Gong-Lu, Strength of Xuen",
+      "source": "Legendary Questline",
+      "id": 102249
     },
     {
       "slot": "Chest",
-      "item": "Battleplate of the Last Mogu",
-      "source": "Dark Animus",
-      "id": 96731
+      "item": "Breastplate of Shamanic Mirrors",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105532
     },
     {
       "slot": "Bracers",
-      "item": "Caustic Spike Bracers",
-      "source": "Durumu the Forgotten",
-      "id": 96476
+      "item": "Bracers of Blind Hatred",
+      "source": "Norushen",
+      "id": 105456
     },
     {
       "slot": "Gloves",
-      "item": "Gauntlets of the Last Mogu",
-      "source": "Kazra'jin",
-      "id": 96732
+      "item": "Gauntlets of the Prehistoric Marauder",
+      "source": "General Nazgrim",
+      "id": 99412
     },
     {
       "slot": "Belt",
-      "item": "Flare-Forged Greatbelt",
-      "source": "Ra-den",
-      "id": 95003
+      "item": "Ashen Wall Girdle",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105533
     },
     {
       "slot": "Legs",
-      "item": "Legplates of the Last Mogu",
-      "source": "Ji-Kun",
-      "id": 96733
+      "item": "Legplates of Willful Doom",
+      "source": "Malkorok",
+      "id": 105565
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Greaves of Sublime Superiority",
+      "source": "Sha of Pride",
+      "id": 105478
     },
     {
       "slot": "Ring",
-      "item": "Spinescale Seal",
-      "source": "Flaming Head",
-      "id": 96820
+      "item": "Bloodclaw Band",
+      "source": "Kor'kron Dark Shaman",
+      "id": 105534
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Ruinous Ring",
-      "source": "Ra-den",
-      "id": 95022
+      "item": "Devilfang Band",
+      "source": "Thok the Bloodthirsty",
+      "id": 105611
     },
     {
       "slot": "Trinket",
-      "item": "Fabled Feather of Ji-Kun",
-      "source": "Ji-Kun",
-      "id": 96842
+      "item": "Evil Eye of Galakras",
+      "source": "Galakras",
+      "id": 105491
     },
     {
       "slot": "Trinket",
-      "item": "Primordius' Talisman of Rage",
-      "source": "Primordius",
-      "id": 96873
+      "item": "Thok's Tail Tip",
+      "source": "Thok the Bloodthirsty",
+      "id": 105609
     },
     {
       "slot": "Mainhand",
-      "item": "Uroe, Harbinger of Terror",
-      "source": "Lei Shen",
-      "id": 96925
+      "item": "Xal'atoh, Desecrated Image of Gorehowl",
+      "source": "Garrosh Hellscream",
+      "id": 105644
+    },
+    {
+      "slot": "Off-hand",
+      "item": "Xal'atoh, Desecrated Image of Gorehowl",
+      "source": "Garrosh Hellscream",
+      "id": 105644
     }
   ],
   "Protection Warrior": [
     {
       "slot": "Helm",
-      "item": "Puncture-Proof Greathelm",
-      "source": "Horridon",
-      "id": 96768
+      "item": "Greathelm of the Warchief",
+      "source": "Garrosh Hellscream",
+      "id": 105643
     },
     {
       "slot": "Neck",
-      "item": "Moonjade Necklace",
-      "source": "Suen",
-      "id": 96916
+      "item": "Blackfuse's Blasting Cord",
+      "source": "Siegecrafter Blackfuse",
+      "id": 105622
     },
     {
       "slot": "Shoulders",
-      "item": "Shoulderguards of the Last Mogu",
-      "source": "Iron Qon",
-      "id": 96739
+      "item": "Pauldrons of Violent Eruption",
+      "source": "Immerseus",
+      "id": 105416
     },
     {
       "slot": "Cloak",
-      "item": "White Snow Skycloak",
-      "source": "Ra-den",
-      "id": 95016
+      "item": "Earthbreaker's Steaming Chestplate",
+      "source": "Iron Juggernaut",
+      "id": 105512
     },
     {
       "slot": "Chest",
-      "item": "Chestguard of the Last Mogu",
-      "source": "Dark Animus",
-      "id": 96735
+      "item": "Blood Rage Bracers",
+      "source": "Malkorok",
+      "id": 105564
     },
     {
       "slot": "Bracers",
-      "item": "Shell-Coated Wristplates",
-      "source": "Tortos",
-      "id": 96800
+      "item": "Handguards of the Prehistoric Marauder",
+      "source": "General Nazgrim",
+      "id": 99408
     },
     {
       "slot": "Gloves",
-      "item": "Handguards of the Last Mogu",
-      "source": "High Priestess Mar'li",
-      "id": 96736
+      "item": "Untarnishable Greatbelt",
+      "source": "Secured Stockpile of Pandaren Spoils",
+      "id": 105587
     },
     {
       "slot": "Belt",
-      "item": "Cracklesnap Clasp",
-      "source": "Ra-den",
-      "id": 95002
+      "item": "Legguards of the Prehistoric Marauder",
+      "source": "Skeer the Bloodseeker",
+      "id": 99410
     },
     {
       "slot": "Legs",
-      "item": "Legguards of the Last Mogu",
-      "source": "Ji-Kun",
-      "id": 96738
+      "item": "Treads of Unchained Hate",
+      "source": "Immerseus",
+      "id": 105414
     },
     {
       "slot": "Boots",
-      "item": "Sabatons of the Superior Being",
-      "source": "Ra-den",
-      "id": 95012
+      "item": "Galakrond Control Band",
+      "source": "Galakras",
+      "id": 105492
     },
     {
       "slot": "Ring",
-      "item": "Ra-den's Contemplative Loop",
-      "source": "Ra-den",
-      "id": 95020
+      "item": "Ring of the Iron Tomb",
+      "source": "Earthbreaker Haromm",
+      "id": 105536
     },
     {
       "slot": "Ring",
-      "item": "Durumu's Severed Tentacle",
-      "source": "Durumu the Forgotten",
-      "id": 96853
+      "item": "Skeer's Bloodsoaked Talisman",
+      "source": "Skeer the Bloodseeker",
+      "id": 105632
     },
     {
       "slot": "Trinket",
-      "item": "Soul Barrier",
-      "source": "Lei Shen",
-      "id": 96927
+      "item": "Vial of Living Corruption",
+      "source": "Malkorok",
+      "id": 105568
     },
     {
       "slot": "Trinket",
-      "item": "Gaze of the Twins",
-      "source": "Suen",
-      "id": 96915
+      "item": "Haromm's Frozen Crescent",
+      "source": "Earthbreaker Haromm",
+      "id": 105535
     },
     {
       "slot": "Mainhand",
-      "item": "Acid-Spine Bonemace",
-      "source": "Primordius",
-      "id": 96874
-    },
-    {
-      "slot": "Off-hand",
-      "item": "Visage of the Doomed",
-      "source": "Shared Loot Table inThrone of Thunder",
-      "id": 96994
+      "item": "Shield of Mockery",
+      "source": "Sha of Pride",
+      "id": 105481
     }
   ]
 }
