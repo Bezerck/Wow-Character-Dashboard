@@ -14,4 +14,5 @@ export const SLOT_LABELS = [
   "Trinket 1",
   "Trinket 2",
   "Weapon",
+  "Off-Hand",
 ];
