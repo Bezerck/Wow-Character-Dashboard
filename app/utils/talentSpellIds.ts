@@ -142,7 +142,7 @@ export const TALENT_SPELL_IDS: Record<string, Record<string, number[]>> = {
     lightsHammer: [114158],
     executionSentence: [114157],
   },
-  death_knight: {
+  deathknight: {
     roilingBlood: [108170],
     plagueLeech: [123693],
     unholyBlight: [115989],
