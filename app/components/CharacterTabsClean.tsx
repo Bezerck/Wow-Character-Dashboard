@@ -19,11 +19,11 @@ interface CharacterTabsProps {
 // Key format: `${class}:${spec}` all lowercase
 const CLASS_SPEC_ICONS: Record<string, string> = {
   "warrior:arms": "ability_warrior_savageblow",
-  "warrior:fury": "ability_warrior_bloodbath",
+  "warrior:fury": "ability_warrior_innerrage",
   "warrior:protection": "ability_warrior_defensivestance",
-  "death knight:blood": "spell_deathknight_bloodpresence",
-  "death knight:frost": "spell_deathknight_frostpresence",
-  "death knight:unholy": "spell_deathknight_unholyblight",
+  "deathknight:blood": "spell_deathknight_bloodpresence",
+  "deathknight:frost": "spell_deathknight_frostpresence",
+  "deathknight:unholy": "spell_deathknight_unholyblight",
   "paladin:holy": "spell_holy_holybolt",
   "paladin:protection": "ability_paladin_shieldofthetemplar",
   "paladin:retribution": "spell_holy_auraoflight",
