@@ -1,5 +1,5 @@
 {
-  "Blood Death Knight": [
+  "Blood Deathknight": [
     {
       "slot": "Helm",
       "item": "Faceguard of Cyclopean Dread",
@@ -20,45 +20,45 @@
     },
     {
       "slot": "Cloak",
+      "item": "Qian-Le, Courage of Niuzao",
+      "source": "Legendary Questline",
+      "id": 102245
+    },
+    {
+      "slot": "Chest",
       "item": "Earthbreaker's Steaming Chestplate",
       "source": "Iron Juggernaut",
       "id": 105512
     },
     {
-      "slot": "Chest",
+      "slot": "Bracers",
       "item": "Blood Rage Bracers",
       "source": "Malkorok",
       "id": 105564
     },
     {
-      "slot": "Bracers",
+      "slot": "Gloves",
       "item": "Handguards of Cyclopean Dread",
       "source": "General Nazgrim",
       "id": 99331
     },
     {
-      "slot": "Gloves",
+      "slot": "Belt",
       "item": "Untarnishable Greatbelt",
       "source": "Spoils of Pandaria",
       "id": 105587
     },
     {
-      "slot": "Belt",
+      "slot": "Legs",
       "item": "Legguards of Cyclopean Dread",
       "source": "Skeer the Bloodseeker",
       "id": 99324
     },
     {
-      "slot": "Legs",
+      "slot": "Boots",
       "item": "Treads of Unchained Hate",
       "source": "Immerseus",
       "id": 105414
-    },
-    {
-      "slot": "Boots",
-      "item": "Galakrond Control Band",
-      "source": "Galakras",
-      "id": 105492
     },
     {
       "slot": "Ring",
@@ -68,9 +68,9 @@
     },
     {
       "slot": "Ring",
-      "item": "Skeer's Bloodsoaked Talisman",
-      "source": "Skeer the Bloodseeker",
-      "id": 105632
+      "item": "Galakrond Control Band",
+      "source": "Galakras",
+      "id": 105492
     },
     {
       "slot": "Trinket",
@@ -80,12 +80,18 @@
     },
     {
       "slot": "Trinket",
+      "item": "Skeer's Bloodsoaked Talisman",
+      "source": "Skeer the Bloodseeker",
+      "id": 105632
+    },
+    {
+      "slot": "Mainhand",
       "item": "Xal'atoh, Desecrated Image of Gorehowl",
       "source": "Garrosh Hellscream",
       "id": 105644
     }
   ],
-  "Frost Death Knight": [
+  "Frost Deathknight": [
     {
       "slot": "Helm",
       "item": "Helmet of Cyclopean Dread",
@@ -177,7 +183,7 @@
       "id": 105621
     }
   ],
-  "Unholy Death Knight": [
+  "Unholy Deathknight": [
     {
       "slot": "Helm",
       "item": "Helmet of Cyclopean Dread",
@@ -1491,7 +1497,7 @@
     {
       "slot": "Trinket",
       "item": "Haromm's Talisman",
-      "source": "Kor’kron Dark Shaman",
+      "source": "Kor'kron Dark Shaman",
       "id": 105527
     },
     {
@@ -1626,42 +1632,48 @@
     },
     {
       "slot": "Cloak",
+      "item": "Qian-Le, Courage of Niuzao",
+      "source": "Legendary Questline",
+      "id": 102245
+    },
+    {
+      "slot": "Chest",
       "item": "Chestguard of Winged Triumph",
       "source": "Sha of Pride",
       "id": 99368
     },
     {
-      "slot": "Chest",
+      "slot": "Bracers",
       "item": "Bubble-Burst Bracers",
       "source": "Immerseus",
       "id": 105411
     },
     {
-      "slot": "Bracers",
+      "slot": "Gloves",
       "item": "Handguards of Winged Triumph",
       "source": "General Nazgrim",
       "id": 99369
     },
     {
-      "slot": "Gloves",
+      "slot": "Belt",
       "item": "Poisonbinder Girth",
       "source": "Sun Tenderheart",
       "id": 105433
     },
     {
-      "slot": "Belt",
+      "slot": "Legs",
       "item": "Legplates of Unthinking Strife",
       "source": "Garrosh Hellscream",
       "id": 105640
     },
     {
-      "slot": "Legs",
+      "slot": "Boots",
       "item": "Wolf-Rider Spurs",
       "source": "Spoils of Pandaria",
       "id": 105531
     },
     {
-      "slot": "Boots",
+      "slot": "Ring",
       "item": "Asgorathian Blood Seal",
       "source": "Siegecrafter Blackfuse",
       "id": 105620
@@ -1673,7 +1685,7 @@
       "id": 105589
     },
     {
-      "slot": "Ring",
+      "slot": "Trinket",
       "item": "Thok's Tail Tip",
       "source": "Skeer the Bloodseeker",
       "id": 105609
@@ -1685,13 +1697,13 @@
       "id": 105568
     },
     {
-      "slot": "Trinket",
+      "slot": "Mainhand",
       "item": "Malkorok's Skullcleaver",
       "source": "Garrosh Hellscream",
       "id": 105567
     },
     {
-      "slot": "Mainhand",
+      "slot": "Off-hand",
       "item": "Bulwark of the Fallen General",
       "source": "General Nazgrim",
       "id": 105556
@@ -3010,9 +3022,9 @@
     },
     {
       "slot": "Ring",
-      "item": "Bloodclaw Band",
-      "source": "Kor'kron Dark Shaman",
-      "id": 105534
+      "item": "Seal of the Forgotten Kings",
+      "source": "Spoils of Pandaria",
+      "id": 105589
     },
     {
       "slot": "Ring",
@@ -3102,9 +3114,9 @@
     },
     {
       "slot": "Ring",
-      "item": "Bloodclaw Band",
-      "source": "Kor'kron Dark Shaman",
-      "id": 105534
+      "item": "Seal of the Forgotten Kings",
+      "source": "Spoils of Pandaria",
+      "id": 105589
     },
     {
       "slot": "Ring",
@@ -3158,45 +3170,45 @@
     },
     {
       "slot": "Cloak",
+      "item": "Qian-Le, Courage of Niuzao",
+      "source": "Legendary Questline",
+      "id": 102245
+    },
+    {
+      "slot": "Chest",
       "item": "Earthbreaker's Steaming Chestplate",
       "source": "Iron Juggernaut",
       "id": 105512
     },
     {
-      "slot": "Chest",
+      "slot": "Bracers",
       "item": "Blood Rage Bracers",
       "source": "Malkorok",
       "id": 105564
     },
     {
-      "slot": "Bracers",
+      "slot": "Gloves",
       "item": "Handguards of the Prehistoric Marauder",
       "source": "General Nazgrim",
       "id": 99408
     },
     {
-      "slot": "Gloves",
+      "slot": "Belt",
       "item": "Untarnishable Greatbelt",
       "source": "Spoils of Pandaria",
       "id": 105587
     },
     {
-      "slot": "Belt",
+      "slot": "Legs",
       "item": "Legguards of the Prehistoric Marauder",
       "source": "Skeer the Bloodseeker",
       "id": 99410
     },
     {
-      "slot": "Legs",
+      "slot": "Boots",
       "item": "Treads of Unchained Hate",
       "source": "Immerseus",
       "id": 105414
-    },
-    {
-      "slot": "Boots",
-      "item": "Galakrond Control Band",
-      "source": "Galakras",
-      "id": 105492
     },
     {
       "slot": "Ring",
@@ -3206,9 +3218,9 @@
     },
     {
       "slot": "Ring",
-      "item": "Skeer's Bloodsoaked Talisman",
-      "source": "Skeer the Bloodseeker",
-      "id": 105632
+      "item": "Galakrond Control Band",
+      "source": "Galakras",
+      "id": 105492
     },
     {
       "slot": "Trinket",
@@ -3218,12 +3230,18 @@
     },
     {
       "slot": "Trinket",
+      "item": "Skeer's Bloodsoaked Talisman",
+      "source": "Skeer the Bloodseeker",
+      "id": 105632
+    },
+    {
+      "slot": "Mainhand",
       "item": "Haromm's Frozen Crescent",
       "source": "Earthbreaker Haromm",
       "id": 105535
     },
     {
-      "slot": "Mainhand",
+      "slot": "Off-hand",
       "item": "Shield of Mockery",
       "source": "Sha of Pride",
       "id": 105481
