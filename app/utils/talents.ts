@@ -60,7 +60,7 @@ export const TALENT_ROWS: Record<string, string[][]> = {
     ["holyAvenger", "sanctifiedWrath", "divinePurpose"],
     ["holyPrism", "lightsHammer", "executionSentence"],
   ],
-  death_knight: [
+  deathknight: [
     ["roilingBlood", "plagueLeech", "unholyBlight"],
     ["lichborne", "antimagicZone", "purgatory"],
     ["deathsAdvance", "chilblains", "asphyxiate"],
