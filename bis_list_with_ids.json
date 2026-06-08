@@ -39,7 +39,7 @@
     {
       "slot": "Gloves",
       "item": "Untarnishable Greatbelt",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105587
     },
     {
@@ -235,7 +235,7 @@
     {
       "slot": "Boots",
       "item": "Seal of the Forgotten Kings",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105589
     },
     {
@@ -267,19 +267,19 @@
     {
       "slot": "Helm",
       "item": "Darkfang Mask",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105542
     },
     {
       "slot": "Neck",
       "item": "Necklace of Fading Light",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105473
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderwraps of the Shattered Vale",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 99428
     },
     {
@@ -291,73 +291,73 @@
     {
       "slot": "Chest",
       "item": "Vestment of the Shattered Vale",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 99427
     },
     {
       "slot": "Bracers",
       "item": "Bracers of Purified Spirit",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105425
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Shattered Vale",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 99432
     },
     {
       "slot": "Belt",
       "item": "Seal of Karmic Return",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105651
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Shattered Vale",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 99434
     },
     {
       "slot": "Boots",
       "item": "Boots of Perilous Infusion",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105576
     },
     {
       "slot": "Ring",
       "item": "Laser-Slice Signet",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105520
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105606
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Kardris' Toxic Totem",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105540
     },
     {
       "slot": "Mainhand",
       "item": "Rik'kal's Bloody Scalpel",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105627
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Siege of Orgrimmar",
+      "source": "",
       "id": 105650
     }
   ],
@@ -555,7 +555,7 @@
     {
       "slot": "Neck",
       "item": "Lost Necklace of the Mogu Empress",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105593
     },
     {
@@ -647,19 +647,19 @@
     {
       "slot": "Helm",
       "item": "Headguard of the Unblinking Vigil",
-      "source": "Garrosh Hellscream(Siege of Orgrimmar)",
+      "source": "Garrosh Hellscream",
       "id": 99402
     },
     {
       "slot": "Neck",
       "item": "Immerseus' Crystalline Eye",
-      "source": "Immerseus(Siege of Orgrimmar)",
+      "source": "Immerseus",
       "id": 105407
     },
     {
       "slot": "Shoulders",
       "item": "Spaulders of the Unblinking Vigil",
-      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "source": "Thok the Bloodthirsty",
       "id": 99404
     },
     {
@@ -671,93 +671,87 @@
     {
       "slot": "Chest",
       "item": "Ancient Archer's Chestguard",
-      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "source": "Spoils of Pandaria",
       "id": 105585
     },
     {
       "slot": "Bracers",
       "item": "Bracers of Infinite Pipes",
-      "source": "Siegecrafter Blackfuse(Siege of Orgrimmar)",
+      "source": "Siegecrafter Blackfuse",
       "id": 105617
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Unblinking Vigil",
-      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "source": "Kil'ruk the Wind-Reaver",
       "id": 99406
     },
     {
       "slot": "Belt",
       "item": "Arrowflight Girdle",
-      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "source": "Spoils of Pandaria",
       "id": 105584
     },
     {
       "slot": "Legs",
       "item": "Legguards of the Unblinking Vigil",
-      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "source": "Spoils of Pandaria",
       "id": 99403
     },
     {
       "slot": "Boots",
       "item": "Ravager's Pathwalkers",
-      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "source": "General Nazgrim",
       "id": 105553
     },
     {
       "slot": "Ring",
       "item": "Ring of Restless Energy",
-      "source": "Malkorok(Siege of Orgrimmar)",
+      "source": "Malkorok",
       "id": 105558
     },
     {
       "slot": "Ring",
       "item": "Kil'ruk's Band of Ascendancy",
-      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "source": "Kil'ruk the Wind-Reaver",
       "id": 105624
     },
     {
       "slot": "Trinket",
       "item": "Assurance of Consequence",
-      "source": "Sha of Pride(Siege of Orgrimmar)",
+      "source": "Sha of Pride",
       "id": 105472
     },
     {
       "slot": "Trinket",
       "item": "Ticking Ebon Detonator",
-      "source": "Siegecrafter Blackfuse(Siege of Orgrimmar)",
+      "source": "Siegecrafter Blackfuse",
       "id": 105612
     },
     {
       "slot": "Mainhand",
       "item": "Kor'kron Hand Cannon",
-      "source": "Malkorok(Siege of Orgrimmar)",
+      "source": "Malkorok",
       "id": 105559
-    },
-    {
-      "slot": "Off-hand",
-      "item": "-",
-      "source": "-",
-      "id": "NOT_FOUND"
     }
   ],
   "Marksmanship Hunter": [
     {
       "slot": "Helm",
       "item": "Headguard of the Unblinking Vigil",
-      "source": "Garrosh Hellscream(Siege of Orgrimmar)",
+      "source": "Garrosh Hellscream",
       "id": 99402
     },
     {
       "slot": "Neck",
       "item": "Gleaming Eye of the Devilsaur",
-      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "source": "Thok the Bloodthirsty",
       "id": 105602
     },
     {
       "slot": "Shoulders",
       "item": "Spaulders of the Unblinking Vigil",
-      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "source": "Thok the Bloodthirsty",
       "id": 99404
     },
     {
@@ -769,67 +763,67 @@
     {
       "slot": "Chest",
       "item": "Tunic of the Unblinking Vigil",
-      "source": "Siegecrafter Blackfuse(Siege of Orgrimmar)",
+      "source": "Siegecrafter Blackfuse",
       "id": 99405
     },
     {
       "slot": "Bracers",
       "item": "Dagryn's Fuselight Bracers",
-      "source": "Galakras(Siege of Orgrimmar)",
+      "source": "Galakras",
       "id": 105487
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Unblinking Vigil",
-      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "source": "General Nazgrim",
       "id": 99406
     },
     {
       "slot": "Belt",
       "item": "Arrowflight Girdle",
-      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "source": "Spoils of Pandaria",
       "id": 105584
     },
     {
       "slot": "Legs",
       "item": "Leggings of Unabashed Anger",
-      "source": "Norushen(Siege of Orgrimmar)",
+      "source": "Norushen",
       "id": 105454
     },
     {
       "slot": "Boots",
       "item": "Ravager's Pathwalkers",
-      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "source": "General Nazgrim",
       "id": 105553
     },
     {
       "slot": "Ring",
       "item": "Swift Serpent Signet",
-      "source": "Galakras(Siege of Orgrimmar)",
+      "source": "Galakras",
       "id": 105483
     },
     {
       "slot": "Ring",
       "item": "Reality Ripper Ring",
-      "source": "Norushen(Siege of Orgrimmar)",
+      "source": "Norushen",
       "id": 105451
     },
     {
       "slot": "Trinket",
       "item": "Assurance of Consequence",
-      "source": "Sha of Pride(Siege of Orgrimmar)",
+      "source": "Sha of Pride",
       "id": 105472
     },
     {
       "slot": "Trinket",
       "item": "Haromm's Talisman",
-      "source": "Earthbreaker Haromm(Siege of Orgrimmar)",
+      "source": "Earthbreaker Haromm",
       "id": 105527
     },
     {
       "slot": "Mainhand",
       "item": "Hisek's Reserve Longbow",
-      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "source": "Kil'ruk the Wind-Reaver",
       "id": 105623
     }
   ],
@@ -837,19 +831,19 @@
     {
       "slot": "Helm",
       "item": "Headguard of the Unblinking Vigil",
-      "source": "Garrosh Hellscream(Siege of Orgrimmar)",
+      "source": "Garrosh Hellscream",
       "id": 99402
     },
     {
       "slot": "Neck",
       "item": "Gleaming Eye of the Devilsaur",
-      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "source": "Thok the Bloodthirsty",
       "id": 105602
     },
     {
       "slot": "Shoulders",
       "item": "Spaulders of the Unblinking Vigil",
-      "source": "Thok the Bloodthirsty(Siege of Orgrimmar)",
+      "source": "Thok the Bloodthirsty",
       "id": 99404
     },
     {
@@ -861,67 +855,67 @@
     {
       "slot": "Chest",
       "item": "Ancient Archer's Chestguard",
-      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "source": "Spoils of Pandaria",
       "id": 105585
     },
     {
       "slot": "Bracers",
       "item": "Wristguards of Ruination",
-      "source": "Malkorok(Siege of Orgrimmar)",
+      "source": "Malkorok",
       "id": 105562
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Unblinking Vigil",
-      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "source": "General Nazgrim",
       "id": 99406
     },
     {
       "slot": "Belt",
       "item": "Arrowflight Girdle",
-      "source": "Secured Stockpile of Pandaren Spoils(Siege of Orgrimmar)",
+      "source": "Spoils of Pandaria",
       "id": 105584
     },
     {
       "slot": "Legs",
       "item": "Legguards of the Unblinking Vigil",
-      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "source": "Kil'ruk the Wind-Reaver",
       "id": 99403
     },
     {
       "slot": "Boots",
       "item": "Ravager's Pathwalkers",
-      "source": "General Nazgrim(Siege of Orgrimmar)",
+      "source": "General Nazgrim",
       "id": 105553
     },
     {
       "slot": "Ring",
       "item": "Kil'ruk's Band of Ascendancy",
-      "source": "Kil'ruk the Wind-Reaver(Siege of Orgrimmar)",
+      "source": "Kil'ruk the Wind-Reaver",
       "id": 105624
     },
     {
       "slot": "Ring",
       "item": "Ring of Restless Energy",
-      "source": "Malkorok(Siege of Orgrimmar)",
+      "source": "Malkorok",
       "id": 105558
     },
     {
       "slot": "Trinket",
       "item": "Assurance of Consequence",
-      "source": "Sha of Pride(Siege of Orgrimmar)",
+      "source": "Sha of Pride",
       "id": 105472
     },
     {
       "slot": "Trinket",
       "item": "Haromm's Talisman",
-      "source": "Earthbreaker Haromm(Siege of Orgrimmar)",
+      "source": "Earthbreaker Haromm",
       "id": 105527
     },
     {
       "slot": "Mainhand",
       "item": "Kor'kron Hand Cannon",
-      "source": "Malkorok(Siege of Orgrimmar)",
+      "source": "Malkorok",
       "id": 105559
     }
   ],
@@ -929,19 +923,19 @@
     {
       "slot": "Helm",
       "item": "Hood of Swirling Senses",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105420
     },
     {
       "slot": "Neck",
       "item": "Untainted Guardian's Chain",
-      "source": "Norushen-Siege of Orgrimmar",
+      "source": "Norushen-",
       "id": 105465
     },
     {
       "slot": "Shoulders",
       "item": "Chronomancer Mantle",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 99401
     },
     {
@@ -953,73 +947,73 @@
     {
       "slot": "Chest",
       "item": "Chronomancer Robes",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 99400
     },
     {
       "slot": "Bracers",
       "item": "Avool's Ancestral Bracers",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105591
     },
     {
       "slot": "Gloves",
       "item": "Chronomancer Gloves",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 99397
     },
     {
       "slot": "Belt",
       "item": "Belt of Ominous Trembles",
-      "source": "Iron Juggernaut-Siege of Orgrimmar",
+      "source": "Iron Juggernaut-",
       "id": 105515
     },
     {
       "slot": "Legs",
       "item": "Chronomancer Leggings",
-      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "source": "Paragons of the Klaxxi -",
       "id": 99399
     },
     {
       "slot": "Boots",
       "item": "Bone-Inlaid Sandals",
-      "source": "Galakras-Siege of Orgrimmar",
+      "source": "Galakras-",
       "id": 105493
     },
     {
       "slot": "Ring",
       "item": "Iyyokuk's Hereditary Seal",
-      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "source": "Paragons of the Klaxxi -",
       "id": 105628
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 105606
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Kardris' Toxic Totem",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105540
     },
     {
       "slot": "Mainhand",
       "item": "Immaculately Preserved Wand",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105594
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "source": "Garrosh Hellscream-",
       "id": 105650
     }
   ],
@@ -1027,19 +1021,19 @@
     {
       "slot": "Helm",
       "item": "Hood of Swirling Senses",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105420
     },
     {
       "slot": "Neck",
       "item": "Untainted Guardian's Chain",
-      "source": "Norushen-Siege of Orgrimmar",
+      "source": "Norushen-",
       "id": 105465
     },
     {
       "slot": "Shoulders",
       "item": "Chronomancer Mantle",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 99401
     },
     {
@@ -1051,73 +1045,73 @@
     {
       "slot": "Chest",
       "item": "Chronomancer Robes",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 99400
     },
     {
       "slot": "Bracers",
       "item": "Bracers of Sonic Projection",
-      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "source": "Paragons of the Klaxxi -",
       "id": 105626
     },
     {
       "slot": "Gloves",
       "item": "Chronomancer Gloves",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 99397
     },
     {
       "slot": "Belt",
       "item": "Miasmic Skullbelt",
-      "source": "Malkorok-Siege of Orgrimmar",
+      "source": "Malkorok-",
       "id": 105569
     },
     {
       "slot": "Legs",
       "item": "Chronomancer Leggings",
-      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "source": "Paragons of the Klaxxi -",
       "id": 99399
     },
     {
       "slot": "Boots",
       "item": "Toxic Tornado Treads",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105537
     },
     {
       "slot": "Ring",
       "item": "Petrified Pennyroyal Ring",
-      "source": "Sun Tenderheart-Siege of Orgrimmar",
+      "source": "Sun Tenderheart-",
       "id": 105443
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 105606
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Kardris' Toxic Totem",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105540
     },
     {
       "slot": "Mainhand",
       "item": "Immaculately Preserved Wand",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105594
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "source": "Garrosh Hellscream-",
       "id": 105650
     }
   ],
@@ -1125,19 +1119,19 @@
     {
       "slot": "Helm",
       "item": "Ebon Ritual Hood",
-      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "source": "Garrosh Hellscream-",
       "id": 105647
     },
     {
       "slot": "Neck",
       "item": "Untainted Guardian's Chain",
-      "source": "Norushen-Siege of Orgrimmar",
+      "source": "Norushen-",
       "id": 105465
     },
     {
       "slot": "Shoulders",
       "item": "Chronomancer Mantle",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 99401
     },
     {
@@ -1149,73 +1143,73 @@
     {
       "slot": "Chest",
       "item": "Chronomancer Robes",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 99400
     },
     {
       "slot": "Bracers",
       "item": "Avool's Ancestral Bracers",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105591
     },
     {
       "slot": "Gloves",
       "item": "Chronomancer Gloves",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 99397
     },
     {
       "slot": "Belt",
       "item": "Belt of Ominous Trembles",
-      "source": "Iron Juggernaut-Siege of Orgrimmar",
+      "source": "Iron Juggernaut-",
       "id": 105515
     },
     {
       "slot": "Legs",
       "item": "Chronomancer Leggings",
-      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "source": "Paragons of the Klaxxi -",
       "id": 99399
     },
     {
       "slot": "Boots",
       "item": "Bone-Inlaid Sandals",
-      "source": "Galakras-Siege of Orgrimmar",
+      "source": "Galakras-",
       "id": 105493
     },
     {
       "slot": "Ring",
       "item": "Extinguished Ember of Galakras",
-      "source": "Galakras-Siege of Orgrimmar",
+      "source": "Galakras-",
       "id": 105498
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 105606
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Kardris' Toxic Totem",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105540
     },
     {
       "slot": "Mainhand",
       "item": "Rik'kal's Bloody Scalpel",
-      "source": "Paragons of the Klaxxi -Siege of Orgrimmar",
+      "source": "Paragons of the Klaxxi -",
       "id": 105627
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "source": "Garrosh Hellscream-",
       "id": 105650
     }
   ],
@@ -1306,15 +1300,15 @@
     },
     {
       "slot": "Mainhand",
-      "item": "Seismic BoreSoftfoot's Last Resort",
-      "source": "Iron JuggernautThe Fallen Protectors",
-      "id": "NOT_FOUND"
+      "item": "Seismic Bore",
+      "source": "Iron Juggernaut",
+      "id": 105504
     },
     {
       "slot": "Off-hand",
-      "item": "Trident of Corrupted Waters",
-      "source": "Immerseus",
-      "id": 105408
+      "item": "Softfoot's Last Resort",
+      "source": "The Fallen Protectors",
+      "id": 105430
     }
   ],
   "Mistweaver Monk": [
@@ -1517,19 +1511,19 @@
     {
       "slot": "Helm",
       "item": "Headguard of Winged Triumph",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 99376
     },
     {
       "slot": "Neck",
       "item": "Lost Necklace of the Mogu Empress",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105593
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of Winged Triumph",
-      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse",
       "id": 99378
     },
     {
@@ -1541,73 +1535,73 @@
     {
       "slot": "Chest",
       "item": "Chestplate of Fallen Passion",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105654
     },
     {
       "slot": "Bracers",
       "item": "Smoldering Drakescale Bracers",
-      "source": "GalakrasSiege of Orgrimmar",
+      "source": "Galakras",
       "id": 105502
     },
     {
       "slot": "Gloves",
       "item": "Gloves of Winged Triumph",
-      "source": "General NazgrimSiege of Orgrimmar",
+      "source": "General Nazgrim",
       "id": 99375
     },
     {
       "slot": "Belt",
       "item": "Greatbelt of Living Waters",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105427
     },
     {
       "slot": "Legs",
       "item": "Greaves of Winged Triumph",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 99377
     },
     {
       "slot": "Boots",
       "item": "Mogu Mindbender's Greaves",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105600
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105606
     },
     {
       "slot": "Ring",
       "item": "Seal of Eternal Sorrow",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105423
     },
     {
       "slot": "Trinket",
       "item": "Nazgrim's Burnished Insignia",
-      "source": "General NazgrimSiege of Orgrimmar",
+      "source": "General Nazgrim",
       "id": 105549
     },
     {
       "slot": "Trinket",
       "item": "Prismatic Prison of Pride",
-      "source": "Sha of PrideSiege of Orgrimmar",
+      "source": "Sha of Pride",
       "id": 105474
     },
     {
       "slot": "Mainhand",
       "item": "Kardris' Scepter",
-      "source": "Wavebinder KardrisSiege of Orgrimmar",
+      "source": "Wavebinder Kardris",
       "id": 105541
     },
     {
       "slot": "Off-hand",
       "item": "Norushen's Enigmatic Barrier",
-      "source": "NorushenSiege of Orgrimmar",
+      "source": "Norushen",
       "id": 105466
     }
   ],
@@ -1663,7 +1657,7 @@
     {
       "slot": "Legs",
       "item": "Wolf-Rider Spurs",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105531
     },
     {
@@ -1773,7 +1767,7 @@
     {
       "slot": "Ring",
       "item": "Seal of the Forgotten Kings",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105589
     },
     {
@@ -1805,7 +1799,7 @@
     {
       "slot": "Neck",
       "item": "Lost Necklace of the Mogu Empress",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105593
     },
     {
@@ -1883,7 +1877,7 @@
     {
       "slot": "Mainhand",
       "item": "Immaculately Preserved Wand",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105594
     },
     {
@@ -2087,19 +2081,19 @@
     {
       "slot": "Helm",
       "item": "Helmet of the Barbed Assassin",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 99348
     },
     {
       "slot": "Neck",
       "item": "Immerseus' Crystalline Eye",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105407
     },
     {
       "slot": "Shoulders",
       "item": "Spaulders of the Barbed Assassin",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 99350
     },
     {
@@ -2111,73 +2105,73 @@
     {
       "slot": "Chest",
       "item": "Tunic of the Barbed Assassin",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 99356
     },
     {
       "slot": "Bracers",
       "item": "Bomber's Blackened Wristwatch",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 105616
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Barbed Assassin",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 99355
     },
     {
       "slot": "Belt",
       "item": "Damron's Belt of Darkness",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105528
     },
     {
       "slot": "Legs",
       "item": "Riou's Vigilant Leggings",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105529
     },
     {
       "slot": "Boots",
       "item": "Unrepentant Heels",
-      "source": "Galakras-Siege of Orgrimmar",
+      "source": "Galakras-",
       "id": 105484
     },
     {
       "slot": "Ring",
       "item": "Kil'ruk's Band of Ascendancy",
-      "source": "Skeer the Bloodseeker-Siege of Orgrimmar",
+      "source": "Skeer the Bloodseeker-",
       "id": 105624
     },
     {
       "slot": "Ring",
       "item": "Ring of Restless Energy",
-      "source": "Malkorok-Siege of Orgrimmar",
+      "source": "Malkorok-",
       "id": 105558
     },
     {
       "slot": "Trinket",
       "item": "Haromm's Talisman",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105527
     },
     {
       "slot": "Trinket",
       "item": "Assurance of Consequence",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 105472
     },
     {
       "slot": "Mainhand",
       "item": "Nazgrim's Gutripper",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 105547
     },
     {
       "slot": "Off-hand",
       "item": "Nazgrim's Gutripper",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 105547
     }
   ],
@@ -2185,13 +2179,13 @@
     {
       "slot": "Helm",
       "item": "Kor'kron Elite Skullmask",
-      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "source": "Garrosh Hellscream-",
       "id": 105636
     },
     {
       "slot": "Neck",
       "item": "Immerseus' Crystalline Eye",
-      "source": "Immerseus-Siege of Orgrimmar",
+      "source": "Immerseus-",
       "id": 105407
     },
     {
@@ -2215,7 +2209,7 @@
     {
       "slot": "Bracers",
       "item": "Bomber's Blackened Wristwatch",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 105616
     },
     {
@@ -2227,7 +2221,7 @@
     {
       "slot": "Belt",
       "item": "Damron's Belt of Darkness",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105528
     },
     {
@@ -2239,43 +2233,43 @@
     {
       "slot": "Boots",
       "item": "Pandaren Roofsprinters",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105582
     },
     {
       "slot": "Ring",
       "item": "Kil'ruk's Band of Ascendancy",
-      "source": "Skeer the Bloodseeker-Siege of Orgrimmar",
+      "source": "Skeer the Bloodseeker-",
       "id": 105624
     },
     {
       "slot": "Ring",
       "item": "Swift Serpent Signet",
-      "source": "Galakras-Siege of Orgrimmar",
+      "source": "Galakras-",
       "id": 105483
     },
     {
       "slot": "Trinket",
       "item": "Assurance of Consequence",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 105472
     },
     {
       "slot": "Trinket",
       "item": "Haromm's Talisman",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105527
     },
     {
       "slot": "Mainhand",
       "item": "Enchanted Shao-Tien Saber",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105581
     },
     {
       "slot": "Off-hand",
       "item": "Enchanted Shao-Tien Saber",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105581
     }
   ],
@@ -2283,19 +2277,19 @@
     {
       "slot": "Helm",
       "item": "Helmet of the Barbed Assassin",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 99348
     },
     {
       "slot": "Neck",
       "item": "Gleaming Eye of the Devilsaur",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 105602
     },
     {
       "slot": "Shoulders",
       "item": "Spaulders of the Barbed Assassin",
-      "source": "Siegecrafter Blackfuse-Siege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse-",
       "id": 99350
     },
     {
@@ -2307,73 +2301,73 @@
     {
       "slot": "Chest",
       "item": "Tunic of the Barbed Assassin",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 99356
     },
     {
       "slot": "Bracers",
       "item": "Laser Burn Bracers",
-      "source": "Iron Juggernaut-Siege of Orgrimmar",
+      "source": "Iron Juggernaut-",
       "id": 105505
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Barbed Assassin",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 99355
     },
     {
       "slot": "Belt",
       "item": "Cord of Black Dreams",
-      "source": "Garrosh Hellscream-Siege of Orgrimmar",
+      "source": "Garrosh Hellscream-",
       "id": 105635
     },
     {
       "slot": "Legs",
       "item": "Riou's Vigilant Leggings",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105529
     },
     {
       "slot": "Boots",
       "item": "Pandaren Roofsprinters",
-      "source": "Secured Stockpile of Pandaren Spoils-Siege of Orgrimmar",
+      "source": "Spoils of Pandaria-",
       "id": 105582
     },
     {
       "slot": "Ring",
       "item": "Reality Ripper Ring",
-      "source": "Norushen-Siege of Orgrimmar",
+      "source": "Norushen-",
       "id": 105451
     },
     {
       "slot": "Ring",
       "item": "Kil'ruk's Band of Ascendancy",
-      "source": "Skeer the Bloodseeker-Siege of Orgrimmar",
+      "source": "Skeer the Bloodseeker-",
       "id": 105624
     },
     {
       "slot": "Trinket",
       "item": "Haromm's Talisman",
-      "source": "Earthbreaker Haromm-Siege of Orgrimmar",
+      "source": "Earthbreaker Haromm-",
       "id": 105527
     },
     {
       "slot": "Trinket",
       "item": "Assurance of Consequence",
-      "source": "Sha of Pride-Siege of Orgrimmar",
+      "source": "Sha of Pride-",
       "id": 105472
     },
     {
       "slot": "Mainhand",
       "item": "Hvitserk's Formidable Shanker",
-      "source": "Thok the Bloodthirsty-Siege of Orgrimmar",
+      "source": "Thok the Bloodthirsty-",
       "id": 105601
     },
     {
       "slot": "Off-hand",
       "item": "Nazgrim's Gutripper",
-      "source": "General Nazgrim-Siege of Orgrimmar",
+      "source": "General Nazgrim-",
       "id": 105547
     }
   ],
@@ -2381,19 +2375,19 @@
     {
       "slot": "Helm",
       "item": "Headpiece of Celestial Harmony",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 99332
     },
     {
       "slot": "Neck",
       "item": "Lost Necklace of the Mogu Empress",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105593
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderwraps of Celestial Harmony",
-      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse",
       "id": 99334
     },
     {
@@ -2405,73 +2399,73 @@
     {
       "slot": "Chest",
       "item": "Hauberk of Celestial Harmony",
-      "source": "Sha of PrideSiege of Orgrimmar",
+      "source": "Sha of Pride",
       "id": 99344
     },
     {
       "slot": "Bracers",
       "item": "Cavemaker Wristguards",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105524
     },
     {
       "slot": "Gloves",
       "item": "Grips of Tidal Force",
-      "source": "GalakrasSiege of Orgrimmar",
+      "source": "Galakras",
       "id": 105501
     },
     {
       "slot": "Belt",
       "item": "Chitin-Link Chain Belt",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105597
     },
     {
       "slot": "Legs",
       "item": "Leggings of Celestial Harmony",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 99333
     },
     {
       "slot": "Boots",
       "item": "Powder-Stained Totemic Treads",
-      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse",
       "id": 105618
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105606
     },
     {
       "slot": "Ring",
       "item": "Laser-Slice Signet",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105520
     },
     {
       "slot": "Trinket",
       "item": "Kardris' Toxic Totem",
-      "source": "Earthbreaker HarommSiege of Orgrimmar",
+      "source": "Earthbreaker Haromm",
       "id": 105540
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105422
     },
     {
       "slot": "Mainhand",
       "item": "Horned Mace of the Old Ones",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105649
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105650
     }
   ],
@@ -2503,7 +2497,7 @@
     {
       "slot": "Chest",
       "item": "Ancient Archer's Chestguard",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105585
     },
     {
@@ -2521,7 +2515,7 @@
     {
       "slot": "Belt",
       "item": "Arrowflight Girdle",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105584
     },
     {
@@ -2539,7 +2533,7 @@
     {
       "slot": "Ring",
       "item": "Kil'ruk's Band of Ascendancy",
-      "source": "Hisek the Swarmkeeper/Norushen/Iyyokuk the Lucid/Ka'roz the Locust/Kaz'tik the Manipulator/Kil'ruk the Wind-Reaver/Korven the Prime/Rik'kal the Dissector/Skeer the Bloodseeker/Xaril the Poisoned Mind",
+      "source": "The Klaxxi Paragons",
       "id": 105624
     },
     {
@@ -2563,13 +2557,13 @@
     {
       "slot": "Mainhand",
       "item": "Korven's Crimson Crescent",
-      "source": "Hisek the Swarmkeeper/Iyyokuk the Lucid/Ka'roz the Locust/Kaz'tik the Manipulator/Kil'ruk the Wind-Reaver/Korven the Prime/Rik'kal the Dissector/Skeer the Bloodseeker/Xaril the Poisoned Mind",
+      "source": "The Klaxxi Paragons",
       "id": 105625
     },
     {
       "slot": "Off-hand",
       "item": "Korven's Crimson Crescent",
-      "source": "Hisek the Swarmkeeper/Iyyokuk the Lucid/Ka'roz the Locust/Kaz'tik the Manipulator/Kil'ruk the Wind-Reaver/Korven the Prime/Rik'kal the Dissector/Skeer the Bloodseeker/Xaril the Poisoned Mind",
+      "source": "The Klaxxi Paragons",
       "id": 105625
     }
   ],
@@ -2577,19 +2571,19 @@
     {
       "slot": "Helm",
       "item": "Headpiece of Celestial Harmony",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 99332
     },
     {
       "slot": "Neck",
       "item": "Lost Necklace of the Mogu Empress",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105593
     },
     {
       "slot": "Shoulders",
       "item": "Shoulderwraps of Celestial Harmony",
-      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse",
       "id": 99334
     },
     {
@@ -2601,73 +2595,73 @@
     {
       "slot": "Chest",
       "item": "Hauberk of Celestial Harmony",
-      "source": "Sha of PrideSiege of Orgrimmar",
+      "source": "Sha of Pride",
       "id": 99344
     },
     {
       "slot": "Bracers",
       "item": "Cavemaker Wristguards",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105524
     },
     {
       "slot": "Gloves",
       "item": "Grips of Tidal Force",
-      "source": "GalakrasSiege of Orgrimmar",
+      "source": "Galakras",
       "id": 105501
     },
     {
       "slot": "Belt",
       "item": "Chitin-Link Chain Belt",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105597
     },
     {
       "slot": "Legs",
       "item": "Leggings of Celestial Harmony",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 99333
     },
     {
       "slot": "Boots",
       "item": "Powder-Stained Totemic Treads",
-      "source": "Siegecrafter BlackfuseSiege of Orgrimmar",
+      "source": "Siegecrafter Blackfuse",
       "id": 105618
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105606
     },
     {
       "slot": "Ring",
       "item": "Laser-Slice Signet",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105520
     },
     {
       "slot": "Trinket",
       "item": "Thok's Acid-Grooved Tooth",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105607
     },
     {
       "slot": "Trinket",
       "item": "Prismatic Prison of Pride",
-      "source": "Sha of PrideSiege of Orgrimmar",
+      "source": "Sha of Pride",
       "id": 105474
     },
     {
       "slot": "Mainhand",
       "item": "Horned Mace of the Old Ones",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105649
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105650
     }
   ],
@@ -2675,19 +2669,19 @@
     {
       "slot": "Helm",
       "item": "Ebon Ritual Hood",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105647
     },
     {
       "slot": "Neck",
       "item": "Untainted Guardian's Chain",
-      "source": "NorushenSiege of Orgrimmar",
+      "source": "Norushen",
       "id": 105465
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Horned Nightmare",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 99417
     },
     {
@@ -2699,67 +2693,67 @@
     {
       "slot": "Chest",
       "item": "Mantid Vizier's Robes",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105592
     },
     {
       "slot": "Bracers",
       "item": "Avool's Ancestral Bracers",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105591
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Horned Nightmare",
-      "source": "General NazgrimSiege of Orgrimmar",
+      "source": "General Nazgrim",
       "id": 99424
     },
     {
       "slot": "Belt",
       "item": "Belt of Ominous Trembles",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105515
     },
     {
       "slot": "Legs",
       "item": "Leggings of Furious Flame",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105516
     },
     {
       "slot": "Boots",
       "item": "Bone-Inlaid Sandals",
-      "source": "GalakrasSiege of Orgrimmar",
+      "source": "Galakras",
       "id": 105493
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105606
     },
     {
       "slot": "Ring",
       "item": "Iyyokuk's Hereditary Seal",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 105628
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Black Blood of Y'Shaarj",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105648
     },
     {
       "slot": "Mainhand",
       "item": "Hellscream's War Staff",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105690
     }
   ],
@@ -2767,19 +2761,19 @@
     {
       "slot": "Helm",
       "item": "Ebon Ritual Hood",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105647
     },
     {
       "slot": "Neck",
       "item": "Untainted Guardian's Chain",
-      "source": "NorushenSiege of Orgrimmar",
+      "source": "Norushen",
       "id": 105465
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Horned Nightmare",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 99417
     },
     {
@@ -2791,73 +2785,73 @@
     {
       "slot": "Chest",
       "item": "Robes of the Horned Nightmare",
-      "source": "Sha of PrideSiege of Orgrimmar",
+      "source": "Sha of Pride",
       "id": 99416
     },
     {
       "slot": "Bracers",
       "item": "Avool's Ancestral Bracers",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105591
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Horned Nightmare",
-      "source": "General NazgrimSiege of Orgrimmar",
+      "source": "General Nazgrim",
       "id": 99424
     },
     {
       "slot": "Belt",
       "item": "Belt of Ominous Trembles",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105515
     },
     {
       "slot": "Legs",
       "item": "Leggings of the Horned Nightmare",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 99426
     },
     {
       "slot": "Boots",
       "item": "Bone-Inlaid Sandals",
-      "source": "GalakrasSiege of Orgrimmar",
+      "source": "Galakras",
       "id": 105493
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105606
     },
     {
       "slot": "Ring",
       "item": "Iyyokuk's Hereditary Seal",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 105628
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Black Blood of Y'Shaarj",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105648
     },
     {
       "slot": "Mainhand",
       "item": "Arcweaver Spell Sword",
-      "source": "General NazgrimSiege of Orgrimmar",
+      "source": "General Nazgrim",
       "id": 105550
     },
     {
       "slot": "Off-hand",
       "item": "Revelations of Y'Shaarj",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105650
     }
   ],
@@ -2865,19 +2859,19 @@
     {
       "slot": "Helm",
       "item": "Hood of Swirling Senses",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105420
     },
     {
       "slot": "Neck",
       "item": "Untainted Guardian's Chain",
-      "source": "NorushenSiege of Orgrimmar",
+      "source": "Norushen",
       "id": 105465
     },
     {
       "slot": "Shoulders",
       "item": "Mantle of the Horned Nightmare",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 99417
     },
     {
@@ -2889,67 +2883,67 @@
     {
       "slot": "Chest",
       "item": "Robes of the Tendered Heart",
-      "source": "Sun TenderheartSiege of Orgrimmar",
+      "source": "Sun Tenderheart",
       "id": 105440
     },
     {
       "slot": "Bracers",
       "item": "Avool's Ancestral Bracers",
-      "source": "Spoils of PandariaSiege of Orgrimmar",
+      "source": "Spoils of Pandaria",
       "id": 105591
     },
     {
       "slot": "Gloves",
       "item": "Gloves of the Horned Nightmare",
-      "source": "General NazgrimSiege of Orgrimmar",
+      "source": "General Nazgrim",
       "id": 99424
     },
     {
       "slot": "Belt",
       "item": "Miasmic Skullbelt",
-      "source": "MalkorokSiege of Orgrimmar",
+      "source": "Malkorok",
       "id": 105569
     },
     {
       "slot": "Legs",
       "item": "Leggings of Furious Flame",
-      "source": "Iron JuggernautSiege of Orgrimmar",
+      "source": "Iron Juggernaut",
       "id": 105516
     },
     {
       "slot": "Boots",
       "item": "Bone-Inlaid Sandals",
-      "source": "GalakrasSiege of Orgrimmar",
+      "source": "Galakras",
       "id": 105493
     },
     {
       "slot": "Ring",
       "item": "Signet of the Dinomancers",
-      "source": "Thok the BloodthirstySiege of Orgrimmar",
+      "source": "Thok the Bloodthirsty",
       "id": 105606
     },
     {
       "slot": "Ring",
       "item": "Iyyokuk's Hereditary Seal",
-      "source": "The Klaxxi ParagonsSiege of Orgrimmar",
+      "source": "The Klaxxi Paragons",
       "id": 105628
     },
     {
       "slot": "Trinket",
       "item": "Purified Bindings of Immerseus",
-      "source": "ImmerseusSiege of Orgrimmar",
+      "source": "Immerseus",
       "id": 105422
     },
     {
       "slot": "Trinket",
       "item": "Black Blood of Y'Shaarj",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105648
     },
     {
       "slot": "Mainhand",
       "item": "Hellscream's War Staff",
-      "source": "Garrosh HellscreamSiege of Orgrimmar",
+      "source": "Garrosh Hellscream",
       "id": 105690
     }
   ],
@@ -3183,7 +3177,7 @@
     {
       "slot": "Gloves",
       "item": "Untarnishable Greatbelt",
-      "source": "Secured Stockpile of Pandaren Spoils",
+      "source": "Spoils of Pandaria",
       "id": 105587
     },
     {
